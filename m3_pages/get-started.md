@@ -18,9 +18,9 @@ All Material 3 content, guidelines, imagery, and resources are available under t
 
 [UX foundationsFoundations like color, type, and shape are customizable systems in Material
 
-book](./foundations)[Open-source codeMulti-platform code to build beautiful products, faster
+book](./foundations/overview.md)[Open-source codeMulti-platform code to build beautiful products, faster
 
-code](./develop)[Tutorials, case studies & newsFollow Material's blog for updates, deep dives, and more
+code](./develop/overview.md)[Tutorials, case studies & newsFollow Material's blog for updates, deep dives, and more
 
 pages](https://material.io/blog)
 
@@ -30,23 +30,23 @@ People increasingly see their devices as extensions of themselves. Expressive UI
 
 M3 Expressive is an expansion of the Material 3 design system. It’s a set of new features, updated components, and design tactics for creating emotionally impactful UX.
 
-[Expressive components15 new or updated components featuring more sizes, shapes, functionality, visual emphasis, and other expressive updates](./blog/building-with-m3-expressive#what-rsquo-s-in-the-update)[Emphasized typographyExpanded M3 type scale with new emphasized styles, and guidelines for how to craft stunning editorial moments using variable fonts](./styles/typography/overview.md)[Motion physics systemNew, simplified spring-based system to make interactions and transitions feel more alive, fluid, and natural](./styles/motion/overview)[Expanded shape library35 shapes to add decorative detail and shape morphing to image crops, avatars, loading indicators, and general progress](./styles/shape/overview-principles.md)
+[Expressive components15 new or updated components featuring more sizes, shapes, functionality, visual emphasis, and other expressive updates](./blog/building-with-m3-expressive#what-rsquo-s-in-the-update)[Emphasized typographyExpanded M3 type scale with new emphasized styles, and guidelines for how to craft stunning editorial moments using variable fonts](./styles/typography/overview.md)[Motion physics systemNew, simplified spring-based system to make interactions and transitions feel more alive, fluid, and natural](./styles/motion/overview/overview.md)[Expanded shape library35 shapes to add decorative detail and shape morphing to image crops, avatars, loading indicators, and general progress](./styles/shape/overview-principles.md)
 
 ## Using Material
 
 On Material.io, the design system is organized in three main parts: **foundations**, **styles**, and **components**. Each section includes design guidance and tools to help you customize and build with Material.
 
-[Foundations & customization](./foundations) Accessibility, layout, interaction states, design tokens, and more
+[Foundations & customization](./foundations/overview.md) Accessibility, layout, interaction states, design tokens, and more
 
-[Styles](./styles)Systems for applying color, type, icons, motion, and shape
+[Styles](./styles/overview.md)Systems for applying color, type, icons, motion, and shape
 
-[Components](./components) Customizable UI elements, from menus to buttons to dialogs
+[Components](./components/overview.md) Customizable UI elements, from menus to buttons to dialogs
 
 ## Design
 
 Design guidance, specs, and tools to streamline the work of getting from Figma to finished products.
 
-[Styles & customization](./styles) Scale design decisions with systems for color, type, and more.
+[Styles & customization](./styles/overview.md) Scale design decisions with systems for color, type, and more.
 
 [Adaptive layouts](./foundations/adaptive-design) Patterns and best practices for handling multiple screen sizes
 

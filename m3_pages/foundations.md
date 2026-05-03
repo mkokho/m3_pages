@@ -20,6 +20,6 @@ Foundations inform the basis of any great user interface, from accessibility sta
 
 [Material A-Z](./foundations/glossary) Get to know the key terms and concepts behind Material, from A to Z.
 
-[Building for all](./foundations/building-for-all) Building for everyone with everyone
+[Building for all](./foundations/building-for-all/overview.md) Building for everyone with everyone
 
 
