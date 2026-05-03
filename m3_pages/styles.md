@@ -14,6 +14,6 @@ Styles are the visual aspects of a UI that give it a distinct look and feel. The
 
 [Motion](./styles/motion/overview/how-it-works) Use motion to make a UI expressive and easy to use. Material transitions help guide users as they navigate an app.
 
-[Shape](./styles/shape/overview-principles)The shape scale defines the  of container corners, offering a range of roundedness from square to fully circular.
+[Shape](./styles/shape/overview-principles) The shape scale defines the  of container corners, offering a range of roundedness from square to fully circular.
 
 [Typography](./styles/typography/overview) Use typography to make writing legible and beautiful. Material's default type scale includes contrasting and flexible styles to support a wide range of use cases.

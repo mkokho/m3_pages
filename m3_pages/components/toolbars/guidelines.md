@@ -20,10 +20,10 @@ A toolbar provides actions related to the current page
 
 There are two variants of toolbars:
 
-- **Docked toolbar**   
+- **Docked toolbar**  
   Spans the full width of the window. It’s best used for global actions that remain the same across multiple pages.
 
-- **Floating toolbar**   
+- **Floating toolbar**  
   Floats above the body content. It’s best used for contextual actions relevant to the body content or the specific page.
 
 The baseline **bottom app bar**is no longer recommended, but is still supported.
@@ -44,10 +44,10 @@ Toolbar actions can open a menu
 
 There are two color configurations:
 
-- **Standard**   
+- **Standard**  
   A low-emphasis color scheme best used for focusing attention on the body content.
 
-- **Vibrant**   
+- **Vibrant**  
   A high-emphasis color scheme that draws attention to the controls. It can also indicate a temporary change in the page behavior, such as entering edit mode.
 
 Consider using alternative color roles to create greater or lesser emphasis depending on the needs of the app. Experiment with different color roles to achieve different effects.

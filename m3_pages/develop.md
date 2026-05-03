@@ -6,4 +6,10 @@ Implement Material Design with code and developer documentation for MDC-Android,
 
 ##
 
-[MDC-AndroidDeveloper documentation, tutorials, and feature highlights to build with Material for Android.](./develop/android/mdc-android)[Jetpack ComposeDeveloper documentation, tutorials, and feature highlights to build with Material for Android using Jetpack Compose.](./develop/android/jetpack-compose)[FlutterDeveloper documentation, tutorials, and feature highlights to build with Material for Flutter.](./develop/flutter)[WebPlanned developer documentation to build with Material in any Web framework.](./develop/web)
+[MDC-Android](./develop/android/mdc-android) Developer documentation, tutorials, and feature highlights to build with Material for Android.
+
+[Jetpack Compose](./develop/android/jetpack-compose) Developer documentation, tutorials, and feature highlights to build with Material for Android using Jetpack Compose.
+
+[Flutter](./develop/flutter) Developer documentation, tutorials, and feature highlights to build with Material for Flutter.
+
+[Web](./develop/web) Planned developer documentation to build with Material in any Web framework.
