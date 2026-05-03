@@ -24,20 +24,6 @@ Carousels show a collection of items that can be scrolled on and off the screen
 
 Carousels can show items of various sizes
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/CarouselView-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/carousel) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/Carousel.md) | Available |
-| Web | Unavailable |
-
 ## Updates
 
 **November 2025**
@@ -59,22 +45,6 @@ Additional layouts and configurations:
 ![Items of different widths in an uncontained multi-aspect ratio layout.](https://lh3.googleusercontent.com/fVj4DyPx6HxKN7gxkVrxReCeNppE22Favi2407XaDtWc5AiUxr-xvwqelWFXfRaQ2AayTCiBEwL06duEvTEptd1dEt1FWREyAV1d_2kMAf-MHQ=s0)
 
 New carousel layout: uncontained multi-aspect ratio
-
-## Differences from M2
-
-This component is new in Material 3.
-
-- **Shape**: Dynamic carousel items change shape when scrolled
-- **Motion**: Carousel items move at a different speed than their content, creating a parallax effect
-- **Interaction**: When scrolled, carousel items snap into place to maintain the same layout. 
-
-  Hero carousels swipe through one item at a time. 
-
-  Multi-browse carousels scroll through many items at once.
-
-![Carousel in a contained layout with a large item and a small item.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwur4ddz-3.png?alt=media&token=a42f76c5-c4fd-46fd-89a1-04b492638986)
-
-Hero carousels scroll through one large item at a time
 
 ## Research
 

@@ -12,23 +12,6 @@ Source: https://m3.material.io/components/lists/overview
 
 A list item's label text, supporting text, image, and trailing icon can be customized to create a variety of lists
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/ListTile-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/lists) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#ListItem%28kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Function0,kotlin.Function0,kotlin.Function0,kotlin.Function0,androidx.compose.material3.ListItemColors,androidx.compose.ui.unit.Dp,androidx.compose.ui.unit.Dp%29) | Available |
-| [android MDC-Android](https://developer.android.com/develop/ui/views/layout/recyclerview) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/List.md#m3-expressive) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/list.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 Lists have a new segmented visual , improved selection treatment, and support for slots. [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)

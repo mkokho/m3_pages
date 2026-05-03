@@ -14,15 +14,6 @@ The physics system is replacing the previous system based on [easing and duratio
 
 [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
 
-## Availability & resources
-
-| **Type** | **Link** | **Status** |
-| --- | --- | --- |
-| Implementation | [MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/theming/Motion.md) | Available. Not yet added to components. [See specs](https://m3.material.io/styles/motion/overview/specs) |
-| Flutter | Unavailable |
-| [Jetpack Compose](https://developer.android.com/reference/kotlin/androidx/compose/material3/MotionScheme) | Available |
-| Web | Compatible with Compose springs. [See specs](https://m3.material.io/styles/motion/overview/specs) |
-
 ## The basics: Motion schemes
 
 The physics system has two preset motion schemes: **expressive** and **standard**. The motion scheme you choose defines how your product feels. While most motion in a product should use the same scheme, products can make [advanced customizations](./how-it-works.md#fef83d57-b139-4c40-b538-9f1e9872df1b) to swap the scheme to emphasize key moments.

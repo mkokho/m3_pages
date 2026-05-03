@@ -16,23 +16,6 @@ Search lets people enter a keyword or phrase to get relevant information
 
 When inputting text, search suggestions or results appear below the search bar
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/Search.md) | Available |
-| MDC-Android Expressive | Unavailable |
-| [Flutter](https://api.flutter.dev/flutter/material/SearchBar-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/search-bar) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#SearchBar(androidx.compose.material3.SearchBarState,kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Shape,androidx.compose.material3.SearchBarColors,androidx.compose.ui.unit.Dp,androidx.compose.ui.unit.Dp)) | Available |
-| Web | Unavailable |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 Search has a new visual , motion, and more flexibility for trailing icons. [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)

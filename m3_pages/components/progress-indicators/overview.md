@@ -11,23 +11,6 @@ Source: https://m3.material.io/components/progress-indicators/overview
 
 Linear and circular progress indicators have visual configurations for shape and thickness
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/ThemeData/useMaterial3.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/progress) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#LinearWavyProgressIndicator(androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.drawscope.Stroke,androidx.compose.ui.graphics.drawscope.Stroke,androidx.compose.ui.unit.Dp,kotlin.Float,androidx.compose.ui.unit.Dp,androidx.compose.ui.unit.Dp)) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/ProgressIndicator.md) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/ProgressIndicator.md) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/progress.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **Aug 2024**
@@ -52,16 +35,3 @@ Progress indicators have a new rounded, colorful , and more configurations to ch
 
 Progress indicators have a new rounded, colorful 
 
-## Differences from M2
-
-**July 2022: Added to Material 3**
-
-- **Color:** New color mappings and compatibility with dynamic color
-
-![M2 linear and circular progress indicators.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0c2if7i-04.png?alt=media&token=2cccabb4-c40c-4db4-9321-51c34cae3d25)
-
-M2: Progress indicators have a boxier, neutral 
-
-![M3 linear and circular progress indicators.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0c2jf26-05.png?alt=media&token=2ee132f7-2c47-46e2-8826-910fbdfe4547)
-
-M3: Progress indicators are compatible with dynamic color

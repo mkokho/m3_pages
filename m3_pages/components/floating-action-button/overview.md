@@ -15,23 +15,6 @@ Floating action buttons (FABs) help people take primary actions
 2. Medium FAB
 3. Large FAB
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/fab) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#FloatingActionButton(kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Shape,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.material3.FloatingActionButtonElevation,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function0)) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/FloatingActionButton.md) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/FloatingActionButton.md) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/fab.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -64,12 +47,3 @@ Color:
 
 FABs have updated colors and sizes
 
-## Differences from M2
-
-![M2 circular FAB with a plus icon.](https://lh3.googleusercontent.com/biMTAbEZ8apVSF9QNSr9S8V1F1DCCRCRckdBmlU0g9XLCrNJMwkw_cbBk_gvb6b0JbaulKKD9lAeDTQp4h3sZK5yKXP0CrSWlefMrFoTxK3T=w40)![M2 circular FAB with a plus icon.](https://lh3.googleusercontent.com/biMTAbEZ8apVSF9QNSr9S8V1F1DCCRCRckdBmlU0g9XLCrNJMwkw_cbBk_gvb6b0JbaulKKD9lAeDTQp4h3sZK5yKXP0CrSWlefMrFoTxK3T=s0)
-
-M2: FABs are circles and always have a drop shadow
-
-![M3 rounded corner square FAB with an artist’s palette icon.](https://lh3.googleusercontent.com/eSZyi5bl8kk_aCpEVo6DV_KiYuZ3i_rEVB9y7rWbFd5SSILeUBlvQ3n2ztYzvPSTe1fyMK0LKDD_axvANAOOt6VLnf4GoSbWWSKy3j9bcRI=w40)![M3 rounded corner square FAB with an artist’s palette icon.](https://lh3.googleusercontent.com/eSZyi5bl8kk_aCpEVo6DV_KiYuZ3i_rEVB9y7rWbFd5SSILeUBlvQ3n2ztYzvPSTe1fyMK0LKDD_axvANAOOt6VLnf4GoSbWWSKy3j9bcRI=s0)
-
-M3: FABs have a boxier shape, can use dynamic color, and include a new large FAB variation

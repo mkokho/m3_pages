@@ -15,19 +15,6 @@ Loading indicators show the progress for a short wait time
 1. Loading indicator
 2. Contained loading indicator
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#LoadingIndicator(androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Color,kotlin.collections.List)) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/LoadingIndicator.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**

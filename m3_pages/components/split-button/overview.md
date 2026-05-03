@@ -9,19 +9,6 @@ Split buttons open a menu to give people more options related to an action
 
 Split buttons are made of a common button and a menu icon button
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#SplitButtonLayout(kotlin.Function0,kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.unit.Dp)) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md#split-button) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**

@@ -23,26 +23,3 @@ Text fields let users enter text into a UI
 1. Filled text field
 2. Outlined text field
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/ThemeData/useMaterial3.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#textfield) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/TextField.md) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/text-field.md) | Available |
-
-## Differences from M2
-
-- Color: New color mappings and compatibility with 
-
-  dynamic color
-
-![A filled and outlined text field with M3 color mappings.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flx2u3e4d-2.png?alt=media&token=896d9b04-c327-4904-9c1b-368bb684d53c)
-
-Text fields have new color mappings

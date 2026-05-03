@@ -17,19 +17,6 @@ The floating action button (FAB) menu opens from a FAB to display multiple relat
 
 The FAB menu comes in three color sets: primary, secondary, tertiary
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#FloatingActionButtonMenu(kotlin.Boolean,kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.Alignment.Horizontal,kotlin.Function1)) | Available |
-| MDC-Android: Expressive | Unavailable |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -51,12 +38,3 @@ Color:
 
 The FAB menu uses contrasting color and large items to focus attention. It can open from any size FAB.
 
-## Differences from M2
-
-![M2 speed dial.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0aj3w24-Diff%20GM2.png?alt=media&token=e358569f-0a63-4ead-a844-ad98804cee2d)
-
-M2: The speed dial used small round FABs
-
-![GM3 FAB menu.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0aj42vs-Diff%20GM3%20Expressive.png?alt=media&token=b0d9f87d-66c0-48f4-9a11-e312b5b207ef)
-
-M3: The FAB menu uses dynamic color and a larger item size

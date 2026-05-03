@@ -19,23 +19,6 @@ Buttons prompt most actions in a UI
 4. Outlined button
 5. Text button
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/ThemeData/useMaterial3.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/button) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#Button(kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.ui.graphics.Shape,androidx.compose.material3.ButtonColors,androidx.compose.material3.ButtonElevation,androidx.compose.foundation.BorderStroke,androidx.compose.foundation.layout.PaddingValues,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function1)) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/button.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -73,16 +56,3 @@ New padding for **small** buttons:
 3. Two shapes
 4. Two small padding widths
 
-## Differences from M2
-
-- Color: New color mappings and compatibility with dynamic color. Icons and labels now share the same color. Neutral text button is no longer recommended.
-- Icons: Standard size for leading and trailing icons is now 20dp
-- Shape: Fully-rounded corner radius and additional height options
-
-![Rectangular M2 buttons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmmm1vatd-04.png?alt=media&token=9224dca7-f21c-4dff-812d-3dfb3fa035e6)
-
-M2: Buttons have a height of 36dp and slightly rounded corner radius
-
-![Round-cornered M3 buttons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmmm1vtk3-05.png?alt=media&token=1f0e0136-6117-4e71-8d6c-d006b6ef3804)
-
-M3: Default buttons are taller at 40dp and have fully rounded corners

@@ -18,27 +18,3 @@ Tabs organize content across different screens and views
 1. Primary tabs
 2. Secondary tabs
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/TabBar-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/tabs) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/Tabs.md) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/tabs.md) | Available |
-
-## Differences from M2
-
-- Color: New color mappings and compatibility with 
-
-  dynamic color
-- Layout: Icons and labels are now vertically centered within the container
-
-![Bar of primary tabs with destinations labeled Flights, Trips, and Explore](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm2k3okei-2.png?alt=media&token=cbbae98e-4d7c-4c85-8e63-1056f6e38129)
-
-Tab icons and labels are positioned in the vertical center of the container

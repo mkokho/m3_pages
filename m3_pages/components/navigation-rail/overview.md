@@ -13,23 +13,6 @@ Collapsed and expanded navigation rails can transition between each other on any
 1. Large or medium window size classes like tablets  
 2. Compact window size classes like phones in portrait orientation
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/NavigationRail-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/navigation-rail) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#NavigationRail(androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,kotlin.Function1,androidx.compose.foundation.layout.WindowInsets,kotlin.Function1)) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/NavigationRail.md) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/NavigationRail.md) | Available |
-| Web | Unavailable |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -66,16 +49,3 @@ Configurations:
 
 The collapsed and expanded navigation rails match visually and can transition into each other
 
-## Differences from M2
-
-- Behavior: Predictive back interaction
-- Color: New color mappings and compatibility with dynamic color
-- States: The active destination can be indicated with a pill shape in a contrasting color
-
-![M2 navigation rail with 1 colored and filled icon showing the active state and 3 inactive icons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0dtdapc-3.png?alt=media&token=643d52f9-213d-4aed-90fd-029c44fce678)
-
-M2: The navigation rail uses icon color, weight, and fill to communicate which destination is active
-
-![M3 navigation rail with 1 icon surrounded by a pill shape in contrasting color to show the active state.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0fszcgl-4.png?alt=media&token=8b26ebe5-396b-4148-b571-247ef9634f50)
-
-M3: The navigation rail uses a pill-shaped active indicator to communicate which destination is active

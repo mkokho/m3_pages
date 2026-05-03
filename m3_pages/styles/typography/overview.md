@@ -10,22 +10,6 @@ Use typography to make content readable and beautiful
 
 ![Type at different scales.](https://lh3.googleusercontent.com/Ow6KY2aDdXx4z-a13GYltf1azIa1Z7_G14M0uTeS0FODRiM87ScDy0_7hf5FPWHi3K2FhNto9ddP94U7DQ6SxWXOODeYz2gmfdaiz1amwgc=s0)
 
-## Availability & resources
-
-This shows where the type scale is available and implemented into Material components.
-
-| Type | Link | Status |
-| --- | --- | --- |
-| Design | [Design Kit](http://goo.gle/m3-design-kit) | Available |
-| [Google Fonts](https://fonts.google.com/) | Available |
-| Implementation | [Flutter](https://api.flutter.dev/flutter/material/Typography/Typography.material2021.html) | Available |
-| [Jetpack Compose](https://developer.android.com/develop/ui/compose/designsystems/material3#typography) | Available |
-| [Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/Typography) | Available |
-| [MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/theming/Typography.md) | Available |
-| [MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/theming/Typography.md) | Available |
-| [Web](https://github.com/material-components/material-web/blob/main/docs/theming/typography.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**

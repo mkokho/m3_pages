@@ -11,23 +11,6 @@ Sliders let users make selections from a range of values
 
 Sliders change values along a range
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/Slider-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/slider) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#Slider(androidx.compose.material3.SliderState,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.material3.SliderColors,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function1,kotlin.Function1)) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/Slider.md) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/Slider.md) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/slider.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -68,16 +51,3 @@ New configurations:
 
 M3 visual refresh: Sliders have a stop indicator, larger label text, and a vertical handle that narrows when pressed. Centered sliders start from the middle instead of the leading edge.
 
-## Differences from M2
-
-- **Color**: New color mappings and compatibility with 
-
-  dynamic color
-
-![M2 slider.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm7livqfr-04.png?alt=media&token=04f22602-6e80-4772-84e6-e36473774b80)
-
-M2: Sliders have a circular handle and a small label when pressed
-
-![Original M3 slider.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm7liwct9-05.png?alt=media&token=92017b6d-1e41-4639-9a31-6e78d744afe0)
-
-M3: Sliders have new color mappings and support dynamic color

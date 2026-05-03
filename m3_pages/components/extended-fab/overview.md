@@ -12,23 +12,6 @@ Source: https://m3.material.io/components/extended-fab/overview
 2. Medium extended FAB
 3. Large extended FAB
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/fab?hl=en#extended) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#ExtendedFloatingActionButton(kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Shape,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.material3.FloatingActionButtonElevation,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function1)) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/FloatingActionButton.md#extended-fabs) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/FloatingActionButton.md#extended-fabs) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/fab.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -57,16 +40,3 @@ Updates:
 
 The baseline extended FAB is replaced with a set of small, medium, and large extended FABs with new typography
 
-## Differences from M2
-
-- Color: New color mappings and compatibility with dynamic color
-- Layout: Extended FAB is the same height as the FAB
-- Shape: Boxier  with smaller corner radius
-
-![Diagram comparing the M2 FAB and extended FAB.](https://lh3.googleusercontent.com/CLwhLFrMkpEgnOAWORcnTMHBqt8gZ67coHMiSw1taCuxR0nRqasV1w7XWJ50w6ZT6gD6aZql87KrxZHdqiWya-bPwCnZx20ibdoKjagt7kyW9Q=s0)
-
-M2: Extended FABs are pill-shaped and have a different height and elevation
-
-![Diagram comparing the M3 FAB and extended FAB.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0dff6p3-05.png?alt=media&token=896b601f-21d9-4cae-854f-840ba268dd73)
-
-M3: Extended FABs share the same height, boxier shape, and simpler elevation model as FABs

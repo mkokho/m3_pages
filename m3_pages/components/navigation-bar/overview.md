@@ -16,23 +16,6 @@ Navigation bars let people switch between UI views on smaller devices
 
 Navigation bar for compact and medium window sizes
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/NavigationBar-class.html) | Available |
-| [android  Jetpack Compose](https://developer.android.com/develop/ui/compose/components/navigation-bar) | Available |
-| [android  Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#NavigationBar(androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.ui.unit.Dp,androidx.compose.foundation.layout.WindowInsets,kotlin.Function1)) | Available |
-| [android  MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/BottomNavigation.md) | Available |
-| [android  MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/BottomNavigation.md) | Available |
-| Web | Unavailable |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -55,18 +38,3 @@ Color:
 
 The flexible navigation bar is shorter and can be used in medium windows with horizontal nav items
 
-## Differences from M2
-
-- Color: New color mappings and compatibility with dynamic color
-- Elevation: No shadow
-- Layout: Container height is taller
-- States: The active destination can be indicated with a pill shape in a contrasting color
-- Name: Bottom navigation has been renamed **navigation bar**
-
-![M2 nav bar with a drop shadow and no active indicator.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0ddmjvm-03.png?alt=media&token=9e50be86-5460-46f5-90a7-0805ec3c9127)
-
-M2: A drop shadow indicates placement on top of content. Filled and regular weight icons indicate active states.
-
-![M3 nav bar with a surface color and active indicator.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmae7pvz8-04.png?alt=media&token=98531a7d-df77-4d8e-a56b-7164db497bd9)
-
-M3: Taller and no drop shadow. Filled icons and an active indicator indicate active state.

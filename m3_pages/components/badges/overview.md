@@ -20,26 +20,3 @@ Badges show notifications, counts, or status information on navigation items and
 2. Large badge on a navigation item
 3. Large badge with max characters on a navigation item
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/Badge-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/badges) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/BadgeDrawable.md) | Available |
-| Web | Unavailable |
-
-## Differences from M2
-
-- Color: New color mappings and compatibility with 
-
-  dynamic color
-
-![Navigation bar showing 4 icons with different badge variants in a bright red color.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fme8hz0r2-02.png?alt=media&token=579d40e2-1895-4ed4-a074-22f71265f580)
-
-Badges have new color mappings

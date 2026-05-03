@@ -14,23 +14,6 @@ Icon buttons help people take minor actions with one tap
 
 Standard, filled unselected, filled selected, filled tonal, and outlined icon buttons
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/IconButton-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/icon-button) | Available |
-| [android Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#IconButton(kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.material3.IconButtonColors,androidx.compose.foundation.interaction.MutableInteractionSource,androidx.compose.ui.graphics.Shape,kotlin.Function0)) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md#icon-button) | Available |
-| [android MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md#icon-button) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/icon-button.md) | Available |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**
@@ -68,12 +51,3 @@ Widths:
 2. Two shapes
 3. Three widths
 
-## Differences from M2
-
-- **Color:** New color mappings and compatibility with dynamic color
-- **Variants and naming:** Icon buttons were called toggle buttons. There are now two variants of icon buttons: default and toggle.
-
-![Icon buttons were known as toggle buttons in M2.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0by5hfz-3.png?alt=media&token=9b34e493-6c33-4b8e-aa41-93e8045c9952)
-
-1. Default icon buttons
-2. Toggle icon buttons

@@ -21,23 +21,6 @@ App bars are placed at the top of the screen to help people navigate through a p
 3. Medium flexible
 4. Large flexible
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/AppBar-class.html) | Available |
-| [android  Jetpack Compose](https://developer.android.com/develop/ui/compose/components/app-bars?hl=en) | Available |
-| [android  Jetpack Compose: Expressive](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#AppBarRow(kotlin.Function1,androidx.compose.ui.Modifier,kotlin.Function1)) | Available |
-| [android  MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/TopAppBar.md) | Available |
-| [android  MDC-Android: Expressive](https://github.com/material-components/material-components-android/blob/master/docs/components/TopAppBar.md) | Available |
-| Web | Unavailable |
-| Web: Expressive | Unavailable |
-
 ## M3 Expressive update
 
 **May 2025**  
@@ -73,17 +56,3 @@ Variants and naming:
 3. Medium flexible
 4. Large flexible
 
-## Differences from M2
-
-- Color: New color mappings and compatibility with dynamic color
-- On scroll: No drop shadow, instead a color fill creates separation from content
-- Typography: Larger default text
-- Layout: Smaller default height
-
-![M2 top app bar with elevation to separate it from main content.](https://lh3.googleusercontent.com/cBekWt7xDa8xEu5XXaem1OHo1sbSYkWtpPf8V_6QeBgGzxia-Ba6WoZDfUkaUvywiflh3J89oatLV3Zpqv4DupaDfVyy41vXxkxpDAnEqvaGtw=w40)![M2 top app bar with elevation to separate it from main content.](https://lh3.googleusercontent.com/cBekWt7xDa8xEu5XXaem1OHo1sbSYkWtpPf8V_6QeBgGzxia-Ba6WoZDfUkaUvywiflh3J89oatLV3Zpqv4DupaDfVyy41vXxkxpDAnEqvaGtw=s0)
-
-M2: Elevation and a drop shadow raise the top app bar when content is present underneath
-
-![M3 app bar with subtle color difference from main content.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlkui2vk-07.png?alt=media&token=ab974573-5f3b-469a-9779-173b3101e1f0)
-
-M3: On scroll, a color fill overlay separates the app bar from the content beneath

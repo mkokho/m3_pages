@@ -13,14 +13,6 @@ The M3 shape system includes original shapes, a corner radius scale, and built-i
 
 Abstract shapes can help people express themselves
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design | [Shape library](http://figma.com/community/file/1035203688168086460/material-3-design-kit) (Figma Design Kit) | Available |
-| Implementation | [Jetpack Compose](https://developer.android.com/reference/kotlin/androidx/compose/material3/MaterialShapes) (Shape Library) | Available |
-| [MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/theming/Shape.md) | Available |
-
 ## M3 Expressive update
 
 **May 2025**

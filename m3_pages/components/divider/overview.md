@@ -12,25 +12,3 @@ Dividers are thin lines that group content in lists or other containers
 
 Dividers separating items in a list
 
-## Availability & resources
-
-| Type | Resource | Status |
-| --- | --- | --- |
-| Design |
-| --- |
-| [Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460) | Available |
-| Implementation |
-| --- |
-| [Flutter](https://api.flutter.dev/flutter/material/Divider-class.html) | Available |
-| [android Jetpack Compose](https://developer.android.com/develop/ui/compose/components/divider) | Available |
-| [android MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/Divider.md) | Available |
-| [language Web](https://github.com/material-components/material-web/blob/main/docs/components/divider.md) | Available |
-
-## Differences from M2
-
-- Color: New color mappings and compatibility with dynamic color
-- Configurations: Ability to have vertical dividers
-
-![Screen shot of three dividers](https://lh3.googleusercontent.com/XzLvQIFI1bPcY94jkG0wH0k2q5oq10abbZE3PxJTJv82onD1lYAfXmBbxIoicWGcqoYM2AKyvx95UTpFaVa20bDUBDfvIMwse1Q5SudzA8M9=s0)
-
-Dividers have new color mappings
