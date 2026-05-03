@@ -33,7 +33,7 @@ The size of state layers is 40dp while the interactive target size is 48dp.
 
 By default, a component’s state layer color is derived from the color of its content, either the color of an icon or label text if no icon is present.
 
-An [on color](../../../m3/pages/color-roles#19e75989-7485-4f5b-a769-940c4e4364bc) is a color role used by the content. Each container color has its own corresponding on color.   
+An [on color](../../../components/tabs/overview.md#19e75989-7485-4f5b-a769-940c4e4364bc) is a color role used by the content. Each container color has its own corresponding on color.   
   
 For example, if a container color is **secondary container**, the content will use the **on secondary container** color role.
 
@@ -43,7 +43,7 @@ Order of surface layers shows the state layer (2) between the container (1) and 
 
 ### State layer tokens & values
 
-The state layer uses a fixed percentage for the opacity for each state. A state layer uses the color used by content (usually the [on color](../../../m3/pages/color-roles#19e75989-7485-4f5b-a769-940c4e4364bc)) and the percentage opacity for its respective state.
+The state layer uses a fixed percentage for the opacity for each state. A state layer uses the color used by content (usually the [on color](../../../components/tabs/overview.md#19e75989-7485-4f5b-a769-940c4e4364bc)) and the percentage opacity for its respective state.
 
 ![The opacity values of four overlay states.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fly2qnx2g-1p_state_layer_tokens%26value.png?alt=media&token=bf0becab-a73a-4693-bd6b-bd89c858de30)
 

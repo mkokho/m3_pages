@@ -49,7 +49,7 @@ Menus appear in front of all other UI elements
 
 Vertical menu items can be grouped by adding a divider or small gap. Use groups to bundle similar actions together.
 
-[Gaps and dividers guidelines](../../m3/pages/menus/guidelines#d75ac70c-9122-4b4c-bd60-b856bc66c9bc)
+[Gaps and dividers guidelines](./guidelines.md#d75ac70c-9122-4b4c-bd60-b856bc66c9bc)
 
 ![2 vertical menus: a standard menu with no gap and a grouped menu with 1 gap.](https://lh3.googleusercontent.com/6e3Jr7pvYamV89OCHR395lTYFRLLVJsUseXpeuESUaJGC8qKEa1geMsIaYbWGi2O0l2OjBKn5rznan6ZXFBXTCAtf6e3IrBCNPyif9t2Hv5G=s0)
 
@@ -154,7 +154,7 @@ Use caution when adding slots to menus:
 
 Don't add buttons, switches, or other direct actions into the menu item. Nested elements should only perform one action. Adding multiple actions can break keyboard navigation and screen reader functionality.
 
-[More on required accessibility guidelines](../../m3/pages/menus/accessibility)
+[More on required accessibility guidelines](./accessibility.md)
 
 ![1 diagram and 1 menu showing icons in each item’s leading slot.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmhllqs3p-12-alt.png?alt=media&token=10ba86ca-a5f2-4c70-8f5d-29f4c5a33dfa)
 
@@ -176,7 +176,7 @@ Menus can appear around or in front of the element that opened them
 
 Submenus should open next to the parent menu item without overlapping it.
 
-Submenus are best used on large screens where there's space. [See adaptive guidance](../../m3/pages/menus/guidelines#e588ae16-7a76-4bf9-8532-8d931a13ca35) for alternatives on mobile.
+Submenus are best used on large screens where there's space. [See adaptive guidance](./guidelines.md#e588ae16-7a76-4bf9-8532-8d931a13ca35) for alternatives on mobile.
 
 ![A submenu opens to the right of its parent menu item, and doesn’t cover it. A selected submenu item includes a checkmark and vibrant highlight.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmhlm1f1q-15.png?alt=media&token=57bbf425-3173-4f90-b96c-93de307cf824)
 
@@ -271,7 +271,7 @@ Menus can allow either single-select or multi-select actions:
 - **Single-select** menus can have one item selected at a time. When a new item is selected, the previously selected item is automatically unselected.
 - **Multi-select** menus can have many selected items. They stay open until the person dismisses the menu.
 
-[More on selection accessibility requirements](../../m3/pages/menus/accessibility#149778c9-eb42-4a56-8a0b-9932181ac2cd)
+[More on selection accessibility requirements](./accessibility.md#149778c9-eb42-4a56-8a0b-9932181ac2cd)
 
 ![1 menu for dietary options shows a single selection, Vegan. Another menu shows Vegan and Nut-free selections at the same time. ](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmhkpbo8d-30.png?alt=media&token=a9f4da83-0329-4222-b296-68c399154082)
 
@@ -289,7 +289,7 @@ On a custom menu, the corner shape changes to indicate focus as the cursor moves
 
 ## Density
 
-On web only, density levels control the spacing between elements. Increasing density decreases the top and bottom padding. [More on layout density](../../m3/pages/understanding-layout/density)
+On web only, density levels control the spacing between elements. Increasing density decreases the top and bottom padding. [More on layout density](../../foundations/layout/understanding-layout/density.md)
 
 ![4 menus becoming increasingly dense and compressed.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmhloonkj-32.png?alt=media&token=f60473a4-1b6d-4913-ba1e-002ea51339a2)
 

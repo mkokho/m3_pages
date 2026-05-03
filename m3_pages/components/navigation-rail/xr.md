@@ -74,7 +74,7 @@ A navigation rail orbiter should be placed in global context, centered and ancho
 
 ### Local context
 
-Don’t place a navigation rail orbiter in local context or [between spatial panels](../../m3/pages/navigation-rail/xr#519a112b-51d6-4200-96a9-54af92fb787d). Local placement can make controls hard to find. Nav rails are designed for app-level navigation, so should only use the global context.
+Don’t place a navigation rail orbiter in local context or [between spatial panels](./xr.md#519a112b-51d6-4200-96a9-54af92fb787d). Local placement can make controls hard to find. Nav rails are designed for app-level navigation, so should only use the global context.
 
 **Don't:** 
 
@@ -150,4 +150,4 @@ Use caution when positioning spatialized FABs. Keep them within the height of ad
 
 ## Accessibility considerations
 
-[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR navigation rails should follow applicable Material [nav rail accessibility standards](../../m3/pages/navigation-rail/accessibility).
+[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR navigation rails should follow applicable Material [nav rail accessibility standards](./accessibility.md).

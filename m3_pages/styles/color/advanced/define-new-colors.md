@@ -29,13 +29,13 @@ You may need to apply static colors in your app for brand expression or to commu
 
 Use the 
 
-Material Theme Builder to input a custom color. Material will return four color roles derived from that reference color. The main color, on-main color, container color, and on-container color all follow the conventions of the accent colors in the main scheme, and can be applied to your UI according to the same relationships. See [map or remap colors on UI elements](../../../m3/pages/advanced/apply-colors#d15f5373-c03b-4282-a309-db569975d395) for more information.
+Material Theme Builder to input a custom color. Material will return four color roles derived from that reference color. The main color, on-main color, container color, and on-container color all follow the conventions of the accent colors in the main scheme, and can be applied to your UI according to the same relationships. See [map or remap colors on UI elements](./apply-colors.md#d15f5373-c03b-4282-a309-db569975d395) for more information.
 
 ### Best practices
 
-- If the colors provided back from your input color appear differently than expected, you can enable or disable color fidelity. [Color fidelity](../../../m3/pages/advanced/adjust-existing-colors#cb49eeb4-3bbd-4521-9612-0856c27f91ef) is a feature that adjusts colors’ tones to match that of your input color.
+- If the colors provided back from your input color appear differently than expected, you can enable or disable color fidelity. [Color fidelity](./adjust-existing-colors.md#cb49eeb4-3bbd-4521-9612-0856c27f91ef) is a feature that adjusts colors’ tones to match that of your input color.
 - Material provides the red Error color out of the box as an example of a static color, so you do not need to define your own static color for a semantic red color.
-- If you are using static colors in a dynamic scheme, you can choose to [harmonize your static colors](../../../m3/pages/advanced/adjust-existing-colors#1cc12e43-237b-45b9-8fe0-9a3549c1f61e) to the scheme’s primary color. This will shift your static colors’ hues slightly warmer or cooler for a more harmonious overall appearance, while retaining the semantic meaning associated with the colors’ hue range.
+- If you are using static colors in a dynamic scheme, you can choose to [harmonize your static colors](./adjust-existing-colors.md#1cc12e43-237b-45b9-8fe0-9a3549c1f61e) to the scheme’s primary color. This will shift your static colors’ hues slightly warmer or cooler for a more harmonious overall appearance, while retaining the semantic meaning associated with the colors’ hue range.
 
 ![Green card in a home control UI shown under three different color schemes: purple, red, and yellow. In each scheme, the green card color appears slightly shifted to look more harmonious with the overall color.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwt7xb07-2.png?alt=media&token=7b719f7f-7e35-4efc-b95d-62e3e5d341c1)
 
@@ -67,7 +67,7 @@ Abstract your new color into a color role by specifying the following criteria:
 
 - **Palettes and reference tones:** For each color role, you must assign its value from a Material palette (primary, secondary, tertiary, neutral, neutralVariant, error) and a reference tone (for example: primary70, primary80, primary90…) for both light and dark themes.
 - **Color pairings:** You must specify any visual relationships in your design, such as color pairs that are used together as foreground and background, or which should retain a tone delta between them (difference in lightness or darkness).
-- **Contrast:** Confirm that custom foreground and background color pairings meet [Material's contrast minimums](../../../m3/pages/designing/color-contrast).
+- **Contrast:** Confirm that custom foreground and background color pairings meet [Material's contrast minimums](../../../foundations/designing/color-contrast.md).
 
 Once the above criteria are known, you can define the new color roles in your own dynamic color object. For each color role, you may then call Material Color Utilities (MCU) to generate the color value dynamically, according to different conditions such as user theming or contrast level.
 

@@ -84,6 +84,6 @@ Label FAB menu items to match their UI text, like **Reply all**, and use the but
 
 On web, a FAB menu is a combination of a 
 
-FAB and a menu component. The FAB opens the menu. Follow the [accessibility guidelines for FABs](../../m3/pages/fab/accessibility) and [menus](../../m3/pages/menus/accessibility).
+FAB and a menu component. The FAB opens the menu. Follow the [accessibility guidelines for FABs](../extended-fab/accessibility.md) and [menus](../menus/accessibility.md).
 
 The FAB's accessibility label should describe the menu that the FAB will open.

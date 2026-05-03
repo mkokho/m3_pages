@@ -205,6 +205,6 @@ On Android, a gesture called predictive back allows a user to swipe left or righ
 - Bottom sheet detaches from the left and right edges of the screen to signal it will close
 - Previous screen is revealed in a preview
 
-A list of compatible components is available in the [gestures article](../../m3/pages/gestures).
+A list of compatible components is available in the [gestures article](../tabs/overview.md).
 
 Preview of the result of the gesture, **release** to commit, **fling** to commit, and **cancel**

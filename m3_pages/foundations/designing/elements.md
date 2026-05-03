@@ -32,13 +32,13 @@ Do not use an element role (for example, button or menu) in your label. This ide
 
 ### Label language 
 
-This article uses the general term accessibility label to refer to several different types, including ARIA labels and alt tags. When accessibility labels are implemented in code, they'll be translated to the appropriate type for the intended platform. Additionally, the term **role** is used to cover both general component control types and ARIA roles for web apps. [Learn more about writing alt text](../../m3/pages/alt-text)
+This article uses the general term accessibility label to refer to several different types, including ARIA labels and alt tags. When accessibility labels are implemented in code, they'll be translated to the appropriate type for the intended platform. Additionally, the term **role** is used to cover both general component control types and ARIA roles for web apps. [Learn more about writing alt text](../../components/tabs/overview.md)
 
 ### How to add labels
 
 #### **1. Label elements**
 
-[Accessibility labels](../../m3/pages/alt-text) assist users who cannot rely on a product's visual interface. Thoughtful labels help make the text-based experience as usable as the visual experience. Labels should concisely describe an element's content, purpose and behavior.
+[Accessibility labels](../../components/tabs/overview.md) assist users who cannot rely on a product's visual interface. Thoughtful labels help make the text-based experience as usable as the visual experience. Labels should concisely describe an element's content, purpose and behavior.
 
 ![Diagram showing the labels and roles assigned to on-screen icon buttons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm5r5d64m-9%20(1).png?alt=media&token=1dba85e2-6cc0-4d57-b63f-63de0da2c708)
 

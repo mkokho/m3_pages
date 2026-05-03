@@ -12,7 +12,7 @@ Navigation bars let people switch between UI views on smaller devices
 
 ### Baseline variants
 
-The baseline nav bar is no longer recommended, and should be replaced by the flexible nav bar, which is shorter and supports horizontal navigation items in medium windows. [View baseline nav bar specs](../../m3/pages/navigation-bar/specs#46dc2521-acf0-44e3-bbc0-78dc225b9749)
+The baseline nav bar is no longer recommended, and should be replaced by the flexible nav bar, which is shorter and supports horizontal navigation items in medium windows. [View baseline nav bar specs](./specs.md#46dc2521-acf0-44e3-bbc0-78dc225b9749)
 
 ![1 baseline navigation bar.](https://lh3.googleusercontent.com/PmEPtOw84s8SQu9KJJ0EX-gTgEL5PDGneaQfz9OVdFSXWjLd7P41B6qpIiWnAOuSfGl7JnCQOqa3Lfx8hZfXRG7HzJJNam-HCDFV1lfKvLlw=s0)
 
@@ -39,7 +39,7 @@ In compact windows, navigation bars use vertical items. In medium windows, navig
 
 ## Tokens & specs
 
-Use the table's menu to switch between token sets for the navigation bar and the nav items. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Use the table's menu to switch between token sets for the navigation bar and the nav items. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 Nav bar - Common arrow\_drop\_down
 
@@ -77,7 +77,7 @@ keyboard\_arrow\_down
 
 ## Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens; in implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens; in implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Six color roles of the navigation bar.](https://lh3.googleusercontent.com/ec6ZkQGVtf5t0AOua9lhgucAZ31inD_mF4vm24sW2MeH8X2dK3xV1rpfoNuX6hlO5rU7wJVfCH0KMCt8Xqzl0qDIR668oCFEKb97YswmeuuC=w40)
 
@@ -90,7 +90,7 @@ Navigation bar color roles used for light and dark schemes:
 5. On-surface variant
 6. On-surface variant
 
-For badge color roles, go to [badge specs](../../m3/pages/badges/specs).
+For badge color roles, go to [badge specs](../badges/specs.md).
 
 ## States
 
@@ -155,7 +155,7 @@ keyboard\_arrow\_down
 
 ### Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens; in implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens; in implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![6 color roles of baseline navigation bar.](https://lh3.googleusercontent.com/iFtbyGfchUzulQmxsrcS-I7WwK9b3AywZsdXqs8Z1jIytViyh4uD1UC9qpNKi44ejAswfg-jDNjzVCkq8diuRU4130swhkqbtGDL508M2zU=w40)
 
@@ -168,7 +168,7 @@ Navigation bar color roles used for light and dark schemes:
 5. On surface variant
 6. On surface variant
 
-For badge color roles, go to [badge specs](../../m3/pages/badges/specs).
+For badge color roles, go to [badge specs](../badges/specs.md).
 
 ### States
 

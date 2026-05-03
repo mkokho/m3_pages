@@ -50,7 +50,7 @@ When a search entry point is selected, it opens focused search.
 
   states when search is focused
 
-[More on search states](../../m3/pages/search/specs#65c58b10-4569-43d6-9c11-64a5b02f3099)
+[More on search states](./specs.md#65c58b10-4569-43d6-9c11-64a5b02f3099)
 
 ![Focused search with a list of suggestions on a mobile screen.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlfkz1fo-06.png?alt=media&token=b2a28b95-5ca4-4c6e-a4a4-eda05d83c4e6)
 
@@ -81,7 +81,7 @@ Include high-priority items like avatars in search suggestions or results
 
 Use gaps to separate a list of suggestions or results into groups.  
   
-[More on using gaps in lists](../../m3/pages/lists/guidelines#9e96fd72-5bf3-49df-9baf-e025dcca344d)
+[More on using gaps in lists](../lists/guidelines.md#9e96fd72-5bf3-49df-9baf-e025dcca344d)
 
 ![A gap separates the location and calendar list items from people and pets avatars.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlfm1yld-10.png?alt=media&token=9cd70993-130a-449e-8807-4c9ffe215f9a)
 
@@ -112,7 +112,7 @@ There are two layout options:
 - **Docked** opens a list below the search bar, with a scrim covering main content
 - **Full-screen** expands to fill the screen
 
-[More on adaptive design](../../m3/pages/search/guidelines#eb45ccc4-d1b5-4ea1-bee5-ea1c3d1c5436)
+[More on adaptive design](./guidelines.md#eb45ccc4-d1b5-4ea1-bee5-ea1c3d1c5436)
 
 ![Tablet UI shows a list of search results docked below the search bar.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlfmf49n-08.png?alt=media&token=7b717895-53e2-47ec-9b26-e42e3a4971e8)
 
@@ -225,7 +225,7 @@ In most cases, a search bar should:
 - Stay in its pane and scale in width accordingly
 - Internal elements anchor to the left and right as the parent container scales
 
-[More on applying layout](../../m3/pages/applying-layout/window-size-classes)
+[More on applying layout](../../foundations/layout/applying-layout/window-size-classes.md)
 
 Keep the search bar close to the content a person can search
 
@@ -242,7 +242,7 @@ When focused, search can switch between showing suggestions or results in a:
 
   compact window sizes
 
-[More on search layouts](../../m3/pages/search/specs#fc12e839-f356-4f48-9bd5-0ed210565bfe)
+[More on search layouts](./specs.md#fc12e839-f356-4f48-9bd5-0ed210565bfe)
 
 ![Search suggestions in docked and full screen layouts.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlfnv4wh-25.png?alt=media&token=2b99ff8b-9274-46e4-a6a9-ea64d7b4110c)
 
@@ -287,7 +287,7 @@ To execute a search, a person can:
 
 Search results appear in a list below the bar, and scroll beneath the bar.     
   
-For accessibility, focused search needs a clear status indicator that it’s searching content, like a search icon or **Results** label. [More on search accessibility](../../m3/pages/search/accessibility)
+For accessibility, focused search needs a clear status indicator that it’s searching content, like a search icon or **Results** label. [More on search accessibility](./accessibility.md)
 
 ![“Peanut” is the entered search query and the first suggestion in the list.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlgrceqs-32.png?alt=media&token=e8f6528f-ec6d-49b5-937a-c8a9ee80baed)
 

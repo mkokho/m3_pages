@@ -37,7 +37,7 @@ The divided (baseline)  uses a divider to separate the search bar from suggestio
 
 ### Layout
 
-Search suggestions and results appear in customizable lists, with two layout options: full-screen and docked. [More on search layouts](../../m3/pages/search/guidelines#4f6c921c-795f-4e06-9b12-27ae7d502adb)
+Search suggestions and results appear in customizable lists, with two layout options: full-screen and docked. [More on search layouts](./guidelines.md#4f6c921c-795f-4e06-9b12-27ae7d502adb)
 
 ![Full-screen search results with a search bar in the contained .](https://lh3.googleusercontent.com/UN8OMCnrmxaASc6CRHtAONOcdeZf71JD03xLHV9sDt8-A6pMWEWH2DxRbjhxM7M8_IE2H7_w8mtdqqE56eamgN0CzGxQ-qpBH7UXsaOKE0c9-g=w40)![Full-screen search results with a search bar in the contained .](https://lh3.googleusercontent.com/UN8OMCnrmxaASc6CRHtAONOcdeZf71JD03xLHV9sDt8-A6pMWEWH2DxRbjhxM7M8_IE2H7_w8mtdqqE56eamgN0CzGxQ-qpBH7UXsaOKE0c9-g=s0)
 
@@ -63,7 +63,7 @@ Docked layout in the divided
 
 ## Tokens & specs
 
-Use the table's menu to select a token set. The **search bar** set only contains tokens for the unfocused search bar. The **search view** set contains all other tokens when interacting with search, including all styles and layouts. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Use the table's menu to select a token set. The **search bar** set only contains tokens for the unfocused search bar. The **search view** set contains all other tokens when interacting with search, including all styles and layouts. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Search - View arrow\_drop\_down
 
@@ -145,7 +145,7 @@ Docked search color roles used in light and dark themes:
 
 ## States
 
-States are visual representations used to communicate the status of a component or an interactive element. In [focused search](../../m3/pages/search/guidelines#a9b2df31-8561-4326-82cd-41ed6532b765), individual elements maintain their own interaction states. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or an interactive element. In [focused search](./guidelines.md#a9b2df31-8561-4326-82cd-41ed6532b765), individual elements maintain their own interaction states. [Learn more about interaction states](../tabs/overview.md)
 
 ### Search bar
 

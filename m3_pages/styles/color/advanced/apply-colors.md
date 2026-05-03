@@ -23,8 +23,8 @@ If your app features content-rich moments, such as a media player, it can enhanc
 
 ### How
 
-- Start from a [baseline](../../../m3/pages/static/baseline) or [user-generated dynamic](../../../m3/pages/dynamic/user-generated-source) scheme to create a consistent color foundation in your app.
-- On top of this foundation, [map content-based color roles to contained spaces](../../../m3/pages/dynamic/content-based-source) to emphasize or celebrate content. For example, a music app might derive color from a specific album’s artwork to build upon the personal connection to a music library.
+- Start from a [baseline](../static/baseline.md) or [user-generated dynamic](../dynamic/user-generated-source.md) scheme to create a consistent color foundation in your app.
+- On top of this foundation, [map content-based color roles to contained spaces](../dynamic/content-based-source.md) to emphasize or celebrate content. For example, a music app might derive color from a specific album’s artwork to build upon the personal connection to a music library.
 
 ### Best practices
 
@@ -62,14 +62,14 @@ You want to map colors to a custom-built component or change a Material Componen
 
 ### How
 
-Choose an appropriate color role based on how the color is used (see [color roles](../../../m3/pages/color-roles)) and how well the role supports your intended design expression.
+Choose an appropriate color role based on how the color is used (see [color roles](../../../components/tabs/overview.md)) and how well the role supports your intended design expression.
 
 #### Design
 
 - In Figma, select the component or element you want to remap so that you see its colors in the Design panel on the right of the screen
 - To remap a color, hover on the color row in the Design panel and select the **Style** icon (four dots). This opens a selection dialog.
 - Search for your theme name to see the available color roles
-- Select the color role that most closely matches that color's use case in the component. For example, the background color of a component could be replaced with the **surface** color role and the color for text or icons could be **on surface**. See [Color roles](../../../m3/pages/color-roles) for more information on what color to use where.
+- Select the color role that most closely matches that color's use case in the component. For example, the background color of a component could be replaced with the **surface** color role and the color for text or icons could be **on surface**. See [Color roles](../../../components/tabs/overview.md) for more information on what color to use where.
 - Select **Use ** to apply that color to the selected objects
 - Repeat until all colors in the component have been replaced with color roles from your scheme
 

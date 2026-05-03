@@ -152,4 +152,4 @@ Use caution before expanding the app bar’s width to match its spatial panel. T
 
 ## Accessibility considerations
 
-[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR app bars should follow applicable Material [app bar accessibility standards](../../m3/pages/app-bars/accessibility).
+[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR app bars should follow applicable Material [app bar accessibility standards](./accessibility.md).

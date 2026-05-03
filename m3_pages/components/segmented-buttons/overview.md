@@ -8,7 +8,7 @@ star
 
 Note:
 
-Segmented buttons are no longer recommended in the Material 3 expressive update. For those who have updated, use the [connected button group](../../m3/pages/button-groups/overview) instead, which has mostly the same functionality but with an updated visual design.
+Segmented buttons are no longer recommended in the Material 3 expressive update. For those who have updated, use the [connected button group](../button-groups/overview.md) instead, which has mostly the same functionality but with an updated visual design.
 
 - Segmented buttons can contain icons, label text, or both
 - Two variants: single-select and multi-select
@@ -39,7 +39,7 @@ Segmented buttons are no longer recommended in the Material 3 expressive update.
 
 **May 2025**
 
-The segmented button is no longer recommended. Use the [connected button group](../../m3/pages/button-groups/overview) instead. [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
+The segmented button is no longer recommended. Use the [connected button group](../button-groups/overview.md) instead. [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
 
 ## Differences from M2
 

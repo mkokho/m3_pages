@@ -37,7 +37,7 @@ Buttons prompt most actions in a UI
 
 ## Tokens & specs
 
-Use the table's menu to select a token set. Button token sets are separated into common tokens, color, and size. [View baseline tokens](../../google-material-3/pages/common-buttons/specs#a89b82c2-d44e-4ccb-b519-2c62ed8d6ae4)
+Use the table's menu to select a token set. Button token sets are separated into common tokens, color, and size. [View baseline tokens](../tabs/specs.md#a89b82c2-d44e-4ccb-b519-2c62ed8d6ae4)
 
 Button - Color - Elevated arrow\_drop\_down
 
@@ -225,7 +225,7 @@ The text button’s container is invisible at rest, but the opacity and state la
 
 When pressed, buttons can morph to become more square. Both round and square buttons should have the same pressed shape.
 
-The corner radius value differs for each button size. [See full button corner measurements](../../m3/pages/common-buttons/specs#b1f39738-6f3a-409b-8f08-4cab6d78d756)
+The corner radius value differs for each button size. [See full button corner measurements](../tabs/specs.md#b1f39738-6f3a-409b-8f08-4cab6d78d756)
 
 ![Shape changes of a button.](https://lh3.googleusercontent.com/Si9asaI7X7SFuvDU46W5nHcZ9p9EVqCsu1Tb4Qfp1iPp2ho_kp85z_RXtK9EcyBqT5eoV-A4i8sJSQeDlY-tBGTl21KSLqLGpzM66hTvyZ67=w40)
 

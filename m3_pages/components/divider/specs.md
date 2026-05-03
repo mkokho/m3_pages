@@ -28,7 +28,7 @@ keyboard\_arrow\_down
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview/825906c9-6eed-47d1-8812-450910c1356e)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Divider on light background and dark background.](https://lh3.googleusercontent.com/nAdfpj-iAPZ7Zohh6rLalqf_NXmdrLUmqhQTZkfAgJdp7OJdRTb82SMH0U5GOJF-yTm3P8nRpycQDWiJVXBCuwNwgNRaqZ8Jf9tNNZFs0-1nBw=s0)
 

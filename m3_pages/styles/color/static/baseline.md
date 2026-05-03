@@ -78,7 +78,7 @@ keyboard\_arrow\_down
 2. Compose screens and layouts using Material Components from the design kit
 3. Apply M3 baseline color roles to custom components and UI elements by hovering on the element's color property in the Design panel on the right of the screen and selecting the **Style** icon (four dots). This opens a selection dialog.
 4. Search for "M3" to see the baseline color roles
-5. Select the baseline color role that most closely matches the use case and intent (see [Color roles](../../../m3/pages/color-roles) for more information on what color to use where)
+5. Select the baseline color role that most closely matches the use case and intent (see [Color roles](../../../components/tabs/overview.md) for more information on what color to use where)
 6. Repeat until all custom elements are using M3 baseline color roles
 
 ### Apply baseline colors to an existing file
@@ -87,7 +87,7 @@ keyboard\_arrow\_down
 
 1. Open your Figma design file. Select the **Actions** menu (or Ctrl/Command+K).
 2. Find the [Material Theme Builder plugin](https://www.figma.com/community/plugin/1034969338659738588/material-theme-builder) and select **Run**. This will open a plugin dialog showing the default color scheme, including Core colors and Extended colors.
-3. Open the plugin's **Settings** (gear icon at lower right of dialog) and select the checkbox for **Generate State Layers**. This makes sure there are color for the state layers needed to design interactions. [Learn more about state layers](../../../m3/pages/interaction-states/state-layers)
+3. Open the plugin's **Settings** (gear icon at lower right of dialog) and select the checkbox for **Generate State Layers**. This makes sure there are color for the state layers needed to design interactions. [Learn more about state layers](../../../foundations/interaction/states/state-layers.md)
 4. Navigate out of settings.
 5. With the Current Theme dropdown at the top of the dialog, select **Baseline.**
 6. Select the frames or components in your file and then hit **Swap** in the bottom right of the dialog. This will automatically update the colors for any M3 Design Kit components.
@@ -98,7 +98,7 @@ keyboard\_arrow\_down
 2. Any colors that don't start with "M3" need to be replaced with a corresponding baseline color.
 3. Hover on a non-M3 color row in the Design panel and select the **Style** icon (four dots). This opens a selection dialog.
 4. Search for "M3" to see the baseline color roles.
-5. Select the baseline color role that most closely matches that color's use case (see [Color roles](../../../m3/pages/color-roles) for more information on what color to use where) and select **Use ** to apply it to the selected objects.
+5. Select the baseline color role that most closely matches that color's use case (see [Color roles](../../../components/tabs/overview.md) for more information on what color to use where) and select **Use ** to apply it to the selected objects.
 6. Repeat until all non-M3 colors in the file have been replaced with M3 baseline color roles.
 
-**Need to make adjustments to the scheme? Check out** [**Advanced customizations**](../../../m3/pages/advanced/overview)
+**Need to make adjustments to the scheme? Check out** [**Advanced customizations**](../advanced/overview.md)

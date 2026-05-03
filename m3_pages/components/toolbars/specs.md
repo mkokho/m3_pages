@@ -55,7 +55,7 @@ Note:
 
 ## Tokens & specs
 
-Browse the component elements, attributes, tokens, and their values. [Jump to baseline bottom app bar specs](../../m3/pages/toolbars/specs#ad142675-3e3b-43b8-ba53-12c1f0b7138d)
+Browse the component elements, attributes, tokens, and their values. [Jump to baseline bottom app bar specs](./specs.md#ad142675-3e3b-43b8-ba53-12c1f0b7138d)
 
 Toolbar - Color - Standard arrow\_drop\_down
 
@@ -108,7 +108,7 @@ A toolbar is essentially a container with configurable slots
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ### Standard
 
@@ -192,7 +192,7 @@ keyboard\_arrow\_down
 
 ### Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Diagram of bottom app bar indicating its color mappings.](https://lh3.googleusercontent.com/RDMrnLfQpoptezvVbHosgCQV_qq-MEVY3hKWH4U1fo8wYZLg0Zv4Z1jqiQT1FxojqUYoCEZ8lekjZ3SYJe3-vuO50wNCzsNx7lBpp6iWgqN0rQ=w40)
 

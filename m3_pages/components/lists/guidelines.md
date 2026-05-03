@@ -71,7 +71,7 @@ Container and label text are required. All other elements are optional:
 
 ### Container
 
-List containers hold all list items and their elements. List item size is determined by the tallest element within the list item. [See layout measurements](../../m3/pages/lists/specs#1824b94d-7d17-4a29-889f-d277037a1313)
+List containers hold all list items and their elements. List item size is determined by the tallest element within the list item. [See layout measurements](./specs.md#1824b94d-7d17-4a29-889f-d277037a1313)
 
 When a list item features an image, consider customizing the container color to use a content-based color scheme. This should be applied to either the enabled state or for an interaction.
 
@@ -86,7 +86,7 @@ To ensure list items are scannable:
 - Limit supporting text to one to three lines
 - Truncate supporting text, depending on screen size
 
-[See adaptive guidance](../../m3/pages/lists/guidelines#561cc637-aa43-4055-be1e-0716faeef7af)
+[See adaptive guidance](./guidelines.md#561cc637-aa43-4055-be1e-0716faeef7af)
 
 ![A list item with a leading image, concise label text “Art events”, and 2 lines of truncated supporting text.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmiex0v5m-08.png?alt=media&token=1cb8a712-4266-4e50-a3df-fe0b9d04e5e8)
 
@@ -331,7 +331,7 @@ The primary action should take up the majority of the space in the leading and c
 
 Place supplementary actions, like a bookmark or menu, in the trailing position.
 
-[More on multi-action accessibility](../../m3/pages/lists/accessibility#b69b89a9-7ca0-4249-b25b-2d0c85a41dc0)
+[More on multi-action accessibility](./accessibility.md#b69b89a9-7ca0-4249-b25b-2d0c85a41dc0)
 
 ![A 3-item song list where each item has 2 trailing icons: a bookmark and overflow menu.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmiem2107-32.png?alt=media&token=0f04fe0b-b4d8-44cc-8907-2cbd0369be87)
 

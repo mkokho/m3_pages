@@ -9,7 +9,7 @@ Cards display content and actions about a single subject
 People should be able to do the following using assistive technology:
 
 - Navigate to a card and the elements within a card
-- Get appropriate feedback based on input type documented under [Interaction & ](../../m3/pages/cards/accessibility#ce764d54-6b59-42db-807f-b3cb370eecdb)
+- Get appropriate feedback based on input type documented under [Interaction & ](./accessibility.md#ce764d54-6b59-42db-807f-b3cb370eecdb)
 
 ## Interaction & 
 

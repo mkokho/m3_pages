@@ -8,7 +8,7 @@ star
 
 Note:
 
-In the expressive update, components and motion now use the [motion physics system](../../../m3/pages/motion-overview), which uses springs. Products should migrate to the new system. The easing and duration system is still used for transitions and can be used by teams that haven't yet updated to GM3 Expressive, but is no longer maintained.
+In the expressive update, components and motion now use the [motion physics system](../../../components/tabs/overview.md), which uses springs. Products should migrate to the new system. The easing and duration system is still used for transitions and can be used by teams that haven't yet updated to GM3 Expressive, but is no longer maintained.
 
 ## Suggested easing and duration pairs
 
@@ -40,9 +40,9 @@ Durations are slightly longer compared to M2. This gives transitions time to com
 
 ### Choosing an easing set
 
-The [**Emphasized easing set**](../../../m3/pages/motion-easing-and-duration/tokens-specs#cbea5c6e-7b0d-47a0-98c3-767080a38d95) is recommended for most transitions to capture the  of M3.
+The [**Emphasized easing set**](./tokens-specs.md#cbea5c6e-7b0d-47a0-98c3-767080a38d95) is recommended for most transitions to capture the  of M3.
 
-The [**Standard easing set**](../../../m3/pages/motion-easing-and-duration/tokens-specs#601d5552-a6e6-4d74-9886-ff8f24b9ec35) can be used for small utility focused transitions that need to be quick. The Standard set is also a fallback for platforms that don't support Emphasized easing, like iOS and Web.
+The [**Standard easing set**](./tokens-specs.md#601d5552-a6e6-4d74-9886-ff8f24b9ec35) can be used for small utility focused transitions that need to be quick. The Standard set is also a fallback for platforms that don't support Emphasized easing, like iOS and Web.
 
 Emphasized easing is used for this full screen transition
 

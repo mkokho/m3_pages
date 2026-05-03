@@ -35,7 +35,7 @@ You can customize how dynamic color appears in your product by:
 - Adding static or harmonized colors
 - Changing which "numbers" are assigned to which elements
 
-[Learn about advanced customizations](../../../m3/pages/advanced/define-new-colors)
+[Learn about advanced customizations](../advanced/define-new-colors.md)
 
 ![Image showing a color wheel where a light red color is picked, which then populates the UI. In this example, some UI elements have been mapped to different "numbers"](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm4mxkasm-4.png?alt=media&token=b0cb1a67-16ef-44dd-b951-d63f75ce011b)
 
@@ -45,7 +45,7 @@ The color source can be changed, automatically changing the color scheme. The UI
 
 ### Color role
 
-Like the "numbers" on a paint-by-number canvas, color roles are assigned to specific UI elements. They have semantic names like **primary**, **on primary**, and **primary container,** and matching color tokens. [See all color roles](../../../m3/pages/color-roles)
+Like the "numbers" on a paint-by-number canvas, color roles are assigned to specific UI elements. They have semantic names like **primary**, **on primary**, and **primary container,** and matching color tokens. [See all color roles](../../../components/tabs/overview.md)
 
 ### Dynamic color
 
@@ -59,7 +59,7 @@ Material Theme Builder. Once assigned to their respective color roles and UX ele
 
 #### **Baseline static color**
 
-The default static color scheme for Material products. [See the baseline color scheme](../../../m3/pages/static)
+The default static color scheme for Material products. [See the baseline color scheme](../../../components/tabs/overview.md)
 
 ![Diagram illustrating the steps from source color to key colors to tonal palettes to color roles to the UI](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgm3sandbox%2Fimages%2Fln9uzzb5-from-source-color-to-UI.png?alt=media&token=962f5bc2-868a-404e-a314-37b1467ecba8)
 
@@ -153,7 +153,7 @@ The algorithm uses accessible color relationships to **assign specific tones to 
 
 For example, the algorithm assigns the color tone primary40 to the **p****rimary** role and the tone primary100 to the **o****n primary** role.
 
-[See all color roles](../../../m3/pages/color-roles)
+[See all color roles](../../../components/tabs/overview.md)
 
 ![Diagram mapping color tones to roles](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm612xkza-14.png?alt=media&token=65142248-ae42-4818-9ade-d30b5cf2c110)
 

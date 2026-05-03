@@ -52,7 +52,7 @@ keyboard\_arrow\_down
 
 ### Assist chip color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Assist chip diagram numbering 4 color elements.](https://lh3.googleusercontent.com/CgU4dUqBVfaebvIlmiYeW8i9Geq2Z3kASKWrVMHXl1kgDAx2tDJ40MrFVDf7tqkPEKuX4au-iLvzbSBoRQDxQokAEP5Y9-y3vwkFIyl6c0Hy=s0)
 
@@ -65,7 +65,7 @@ Assist chip color roles used for light and dark themes:
 
 ### Assist chip states
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ![36 assist chips illustrating combinations of styles, selection and non-selection, and 6 interaction states.](https://lh3.googleusercontent.com/s6LyjzP2TrQRGesL7fSbWcwEr94zeAaCTl8Zj7vDx6EsJ9Hn-9fNov0mtodXBs61mOtW6OnsmyPnirrfIzoRgYUxPDTIeH_4bXq-29iBOnxE=w40)![36 assist chips illustrating combinations of styles, selection and non-selection, and 6 interaction states.](https://lh3.googleusercontent.com/s6LyjzP2TrQRGesL7fSbWcwEr94zeAaCTl8Zj7vDx6EsJ9Hn-9fNov0mtodXBs61mOtW6OnsmyPnirrfIzoRgYUxPDTIeH_4bXq-29iBOnxE=s0)
 
@@ -106,7 +106,7 @@ Assist chip padding and size measurements
 
 ### Filter chip color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Filter chip diagram numbering 4 color elements.](https://lh3.googleusercontent.com/2raflfeNVlaC3gjYDipGLH5aIA6hJB4NL7ruSwZGbqk7Ec8W1AHpbd2Eyhxbeo0g0rVWSvHwdbjU16hJSB8o4AfiMqPzGn3K9uK4NDJIY-gu=w40)
 
@@ -120,7 +120,7 @@ Filter chip color roles used for light and dark themes:
 
 ### Filter chip states
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ![24 filter chips showing combinations of elevated, non-elevated, selected, and non-selected styles, and 6 interaction states.](https://lh3.googleusercontent.com/KftllQmRE7STKHvBYUhxG13rWSMWMWOj_Y3mqpHMyKpj4Exvl-J7B4cBwB1_Cexx8oaCnXYw7hdPnk16YmZS-zyVWB7vbokHFJjfkahSM0Eo=w40)
 
@@ -161,7 +161,7 @@ Filter chip padding and size measurements
 
 ### Input chip color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Input chip diagram numbering 5 color elements.](https://lh3.googleusercontent.com/YmMzczrJL0g0MAMFwW2zs8up57xJzcAxNJraHceXpaVZVPAEN2ukdjQwHpuYnVjEKQrnC-KGaC09_KYKNpWgMXg5iqhm8xGleC3-wuG0E0XYwg=w40)
 
@@ -179,7 +179,7 @@ Input chip color roles used for light and dark themes:
 
 ### Input chip states
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ![33 input chips illustrating combinations of styles, selection and non-selection, and 6 interaction states.](https://lh3.googleusercontent.com/ganq0HIgyGsa-HH5bnqU95oJCYypADT4v0LOgsmwQ9ek5B45GtD6EgJCpd589BbA4-tDKOpNCksyDIkrq7krkMG8_nJ0eHSu30BIj7OCqFE=w40)
 
@@ -222,7 +222,7 @@ Input chip padding and size measurements
 
 ### Suggestion chip color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Suggestion chip diagram numbering 3 color elements.](https://lh3.googleusercontent.com/4Ni_EPMelCZDcAAcbhbIDdGj4ER5JGlUjPOtgO4Qx1IIooRh25eJo_y7LgMr7yD0tX-PcXu3vY6O7u-wlJRgFUK23JxG69NgKqYz6sSPywNx=w40)
 
@@ -234,7 +234,7 @@ Suggestion chip color roles used for light and dark themes:
 
 ### Suggestion chip states
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ![24 suggestion chips illustrating combinations of styles across 6 interaction states.](https://lh3.googleusercontent.com/YYoIuUfDsUQqPR--eP-zfow9SJVnjSlY060t1WUqtVUdBkynNCTTe1IK16I4rpfBRRpHrZqDKEYftwwhLFa18FYaI3-aRJpqPTUpr1w5ekG0=w40)
 

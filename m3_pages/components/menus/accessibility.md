@@ -32,7 +32,7 @@ Use caution when adding slots to menus:
 
 Don't add buttons, switches, or other direct actions into the menu item. Nested elements should only perform one action. Adding multiple actions can break keyboard navigation and screen reader functionality.
 
-[More on slots in menus](../../m3/pages/menus/guidelines#8a1684bb-99a5-4a73-91a0-068d0b406127)
+[More on slots in menus](./guidelines.md#8a1684bb-99a5-4a73-91a0-068d0b406127)
 
 ![1 diagram and 1 menu showing icons in each item’s leading slot.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmhkskcq8-02-caution.png?alt=media&token=f56e6e61-6119-41d8-920c-26f6a7cdafff)
 
@@ -102,7 +102,7 @@ Accessibility labels are used with assistive technology devices like screen read
 
 The accessibility label should be the same as the menu item text.
 
-The role is [dependent on platform](../../m3/pages/menus/accessibility#9c562e2c-da3a-4212-a2e3-ac91ba450b65).
+The role is [dependent on platform](./accessibility.md#9c562e2c-da3a-4212-a2e3-ac91ba450b65).
 
 ![A “Preview” menu item has an accessibility label of ”preview”.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmhkl2sea-07.png?alt=media&token=9603d6f5-030f-41e2-84e6-2af9fd0deee5)
 

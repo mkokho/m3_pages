@@ -9,7 +9,7 @@ There are two ways your product can get a source color:
 1. **User-generated color** from a user's wallpaper
 2. **Content-based color** from in-app content like a music album or book cover
 
-Learn [how dynamic color works](../../../m3/pages/color/how-the-system-works)
+Learn [how dynamic color works](../system/how-the-system-works.md)
 
 Both types of dynamic color are accessible and personalized, so deciding which type to use is based on what's most important in the product: content or user preference.
 
@@ -20,7 +20,7 @@ Choose a user-generated color source if:
 - Your users would benefit from a personalized experience that's tested well
 - You want your product to showcase the latest and greatest Material features
 
-[**Get started with user-generated color**](../../../m3/pages/dynamic/user-generated-source)
+[**Get started with user-generated color**](./user-generated-source.md)
 
 ![Thumbnail of a floral red wallpaper with a line pointing to an app screen with a red color scheme.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flnc8u840-01.png?alt=media&token=2a28a37a-c566-4ebf-a20f-5b92b16e5b66)
 
@@ -35,7 +35,7 @@ Choose a content-based color source if:
 - Content-based color would support usability of specific features like media players
 - Content-based color is best used for contained screen elements adjacent to the source image, though the source image is not always visible.
 
-[**Get started with content-based color**](../../../m3/pages/dynamic/content-based-source)
+[**Get started with content-based color**](./content-based-source.md)
 
 ![A thumbnail of a teal album art with a line pointing to an app screen with a teal color scheme.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgm3sandbox%2Fimages%2Fln4j2i04-02.png?alt=media&token=ef023ff4-6763-48d9-bab6-9ec0aa078ca0)
 
@@ -48,7 +48,7 @@ Choose to use multiple color sources if:
 - Your product requirements meet multiple criteria above
 - You don't mind doing a bit of advanced customization
 
-[**Get started with user-generated color**](../../../m3/pages/dynamic/user-generated-source)**before customizing**
+[**Get started with user-generated color**](./user-generated-source.md)**before customizing**
 
 ![Thumbnail of green plants with a line (1) indicating green edit buttons in a photo app.
 Thumbnail of red wallpaper with a line (2) indicating red share buttons in the same photo app.

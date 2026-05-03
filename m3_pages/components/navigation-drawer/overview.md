@@ -8,7 +8,7 @@ star
 
 Note:
 
-The navigation drawer is no longer recommended in the Material 3 Expressive update. For those who have updated, use an [expanded navigation rail](../../m3/pages/navigation-rail/overview), which has mostly the same functionality of the navigation drawer and adapts better across window size classes.
+The navigation drawer is no longer recommended in the Material 3 Expressive update. For those who have updated, use an [expanded navigation rail](../navigation-rail/overview.md), which has mostly the same functionality of the navigation drawer and adapts better across window size classes.
 
 - Use standard navigation drawers in 
 

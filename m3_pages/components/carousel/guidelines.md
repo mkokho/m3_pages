@@ -34,11 +34,11 @@ Choose the best carousel layout for your product. Some layouts are more visual-f
 
 | Layout | Best used for |
 | --- | --- |
-| [Multi-browse](../../m3/pages/carousel/guidelines#d95cefa4-53df-45e2-bbb2-3aeeecbe9639) | Browsing many visual items at once (like photos), dynamic designs |
-| [Uncontained](../../m3/pages/carousel/guidelines#96c5c157-fe5b-4ee3-a9b4-72bf8efab7e9) | Highly-customized or text-heavy carousels, stacked imaged and text, traditional carousel behavior |
-| [Hero](../../m3/pages/carousel/guidelines#5991f961-79aa-4955-b86e-3e15432108e6) | Spotlighting very large visual items (like a movie or featured app) |
-| [Center-aligned hero](../../m3/pages/carousel/guidelines#a9f8dcde-e5c5-464f-b488-d9ded9ae4a4a) | Centered, large visual items |
-| [Full-screen](../../m3/pages/carousel/guidelines#ae0f1566-a956-4c4b-b153-d50ee20c32e7) | Vertically-scrolling video or image feeds, immersive experiences |
+| [Multi-browse](./guidelines.md#d95cefa4-53df-45e2-bbb2-3aeeecbe9639) | Browsing many visual items at once (like photos), dynamic designs |
+| [Uncontained](./guidelines.md#96c5c157-fe5b-4ee3-a9b4-72bf8efab7e9) | Highly-customized or text-heavy carousels, stacked imaged and text, traditional carousel behavior |
+| [Hero](./guidelines.md#5991f961-79aa-4955-b86e-3e15432108e6) | Spotlighting very large visual items (like a movie or featured app) |
+| [Center-aligned hero](./guidelines.md#a9f8dcde-e5c5-464f-b488-d9ded9ae4a4a) | Centered, large visual items |
+| [Full-screen](./guidelines.md#ae0f1566-a956-4c4b-b153-d50ee20c32e7) | Vertically-scrolling video or image feeds, immersive experiences |
 
 Carousel items must be fully visible on-screen (except for the uncontained layout). When scrolled, items automatically change size and snap into place to maintain the same layout.
 
@@ -62,7 +62,7 @@ Material recommends adding a **Show all** button below the carousel, which opens
 
 If the carousel has a header, you can use an arrow icon button instead.
 
-View the [accessibility tab](../../m3/pages/carousel/accessibility) for more details and alternate solutions.
+View the [accessibility tab](./accessibility.md) for more details and alternate solutions.
 
 Make sure users can scroll vertically through all carousel items
 

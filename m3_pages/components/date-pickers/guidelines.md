@@ -14,7 +14,7 @@ Date pickers let people select a date or range of dates. They should be suitable
   
 Date pickers can be embedded into:
 
-1. Dialogs on compact [window sizes](../../m3/pages/applying-layout/window-size-classes#2bb70e22-d09b-4b73-9c9f-9ef60311ccc8) like mobile
+1. Dialogs on compact [window sizes](../../foundations/layout/applying-layout/window-size-classes.md#2bb70e22-d09b-4b73-9c9f-9ef60311ccc8) like mobile
 2. Text field drop-downs on medium and 
 
    expanded window sizes like tablet and desktop
@@ -226,7 +226,7 @@ Switching from a modal date picker to a modal date input for selecting a single 
 
 ### Compact window size
 
-On compact [window sizes](../../m3/pages/applying-layout/window-size-classes#2bb70e22-d09b-4b73-9c9f-9ef60311ccc8), such as mobile, a full-screen modal date picker is recommended to increase readability and touch target size. It can cover the entire screen.
+On compact [window sizes](../../foundations/layout/applying-layout/window-size-classes.md#2bb70e22-d09b-4b73-9c9f-9ef60311ccc8), such as mobile, a full-screen modal date picker is recommended to increase readability and touch target size. It can cover the entire screen.
 
 ![A full-screen view of modal date picker on a mobile device.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmd5t84q0-27.png?alt=media&token=05e79f57-4608-4f32-96b6-3731d33645ee)
 

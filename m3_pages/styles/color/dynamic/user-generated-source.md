@@ -37,7 +37,7 @@ Material Theme Builder and focus on applying the color roles to your designs ins
 
 1. Open your Figma file. Select the **Resources** button in the Figma toolbar
 2. Find the [Material Theme Builder plugin](https://www.figma.com/community/plugin/1034969338659738588/material-theme-builder) and select **Run**. This will open a plugin dialog showing the default color scheme, including Core colors and Extended colors.
-3. Open the plugin's **Settings** (gear icon at lower right of dialog) and select the checkboxes for both **New theme color diagram** and **Generate State Layers**. This will create a handy visualization of your branded color scheme and also generate state layers essential for designing interactions. [Learn more about state layers](../../../m3/pages/interaction-states/state-layers)
+3. Open the plugin's **Settings** (gear icon at lower right of dialog) and select the checkboxes for both **New theme color diagram** and **Generate State Layers**. This will create a handy visualization of your branded color scheme and also generate state layers essential for designing interactions. [Learn more about state layers](../../../foundations/interaction/states/state-layers.md)
 4. Navigate out of settings
 5. Open the Current Theme dropdown at the top of the dialog and select **+ ADD NEW THEME**
 6. Give your theme a short name (this name will become the prefix of your color roles in Figma)
@@ -66,7 +66,7 @@ Material Theme Builder and focus on applying the color roles to your designs ins
 2. Any colors that don't start with your selected scheme name need to be replaced with a corresponding color role
 3. Hover on a non-color-role-based color row in the Design panel and select the **Style** icon (four dots). This opens a selection dialog.
 4. Search for your scheme name to see the color roles
-5. Select the color-role-based color that most closely matches that color's use case (see [Color roles](../../../m3/pages/color-roles) for more information on what color to use where) and select **Use ** to apply it to the selected objects
+5. Select the color-role-based color that most closely matches that color's use case (see [Color roles](../../../components/tabs/overview.md) for more information on what color to use where) and select **Use ** to apply it to the selected objects
 6. Repeat until all non-color-role-based colors in the file have been replaced with color roles
 
 ### Try out how your designs will look with dynamic color
@@ -78,7 +78,7 @@ Material Theme Builder and focus on applying the color roles to your designs ins
 5. Select the frames or components in your file that you want to see with dynamic color and then hit **Swap** in the bottom right of the dialog. This will automatically update their colors to the user-generated dynamic colors.
 6. Repeat with a range of colors to get a sense of how your product will appear across different users' devices
 
-**Need to make adjustments to the scheme? Check out [Advanced customizations](../../../m3/pages/advanced/overview)**
+**Need to make adjustments to the scheme? Check out [Advanced customizations](../advanced/overview.md)**
 
 ## Develop with user-generated color
 

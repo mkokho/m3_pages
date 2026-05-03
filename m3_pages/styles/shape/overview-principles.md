@@ -48,7 +48,7 @@ M3 has 35 shapes to easily apply to designs
 
 ## Use shapes and text in harmony
 
-Shapes are expressive elements of Material 3 that echo key visual attributes of [M3 typography](../../m3/pages/typography/overview).
+Shapes are expressive elements of Material 3 that echo key visual attributes of [M3 typography](../typography/overview.md).
 
 Use shape and type together for products to feel cohesive and polished.
 

@@ -10,7 +10,7 @@ A design approach in which the interface changes based on known user, device, or
 
 ### App bar
 
-A component that displays information and actions at the top of a screen. [Learn more about app bars](../m3/pages/app-bars/overview)
+A component that displays information and actions at the top of a screen. [Learn more about app bars](../components/app-bars/overview.md)
 
 ### Banner
 
@@ -22,19 +22,19 @@ A component helping people initiate actions such as sending an email, sharing a 
 
 ### Bottom sheet
 
-A component containing supplementary content that’s anchored to the bottom of the screen. [Learn more about bottom sheets](../m3/pages/bottom-sheets/overview)
+A component containing supplementary content that’s anchored to the bottom of the screen. [Learn more about bottom sheets](../components/bottom-sheets/overview.md)
 
 ### Card
 
-A component containing content and actions that relate information about a subject. [Learn more about cards](../m3/pages/cards/overview)
+A component containing content and actions that relate information about a subject. [Learn more about cards](../components/cards/overview.md)
 
 ### Checkbox
 
-A component allowing users to select one or more items from a set. Checkboxes can turn an option on or off. [Learn more about checkboxes](../m3/pages/checkbox/overview)
+A component allowing users to select one or more items from a set. Checkboxes can turn an option on or off. [Learn more about checkboxes](../components/checkbox/overview.md)
 
 ### Chip
 
-A component for helping people enter information, make selections, filter content, or trigger actions. Chips can show multiple interactive elements together in the same area, such as a list of selectable movie times, or a series of email contacts. [Learn more about chips](../m3/pages/chips/overview)
+A component for helping people enter information, make selections, filter content, or trigger actions. Chips can show multiple interactive elements together in the same area, such as a list of selectable movie times, or a series of email contacts. [Learn more about chips](../components/chips/overview.md)
 
 ### Color: Baseline scheme
 
@@ -102,7 +102,7 @@ A component displaying sets of data across rows and columns.
 
 ### Date picker
 
-A component that lets users select a date, or a range of dates. [Learn more about date pickers](../m3/pages/date-pickers/overview)
+A component that lets users select a date, or a range of dates. [Learn more about date pickers](../components/date-pickers/overview.md)
 
 ### Design attribute
 
@@ -122,7 +122,7 @@ An open-format folder structure created by Adobe to help teams share design syst
 
 ### Design tokens
 
-A design token represents a small, reusable design decision that’s part of a design system's visual . Tokens replace static values with self-explanatory names. [Learn more on the design tokens page](../m3/pages/design-tokens/overview)
+A design token represents a small, reusable design decision that’s part of a design system's visual . Tokens replace static values with self-explanatory names. [Learn more on the design tokens page](./design-tokens/overview.md)
 
 ### Design tokens: Context
 
@@ -144,11 +144,11 @@ The information defining a design attribute, either stored in a token or hard-co
 
 ### Dialog
 
-A component providing important prompts in a user flow. They can require an action, communicate information, or help users accomplish a task. [Learn more about dialogs](../m3/pages/dialogs/overview)
+A component providing important prompts in a user flow. They can require an action, communicate information, or help users accomplish a task. [Learn more about dialogs](../components/dialogs/overview.md)
 
 ### Divider
 
-A thin line that groups content in lists and layouts. [Learn more about dividers](../m3/pages/divider/overview)
+A thin line that groups content in lists and layouts. [Learn more about dividers](../components/divider/overview.md)
 
 ### Element
 
@@ -156,11 +156,11 @@ The part of the component that a token or value applies to, such as the containe
 
 ### Extended FAB
 
-A component for helping people take primary actions. They're wider than FABs to accommodate a text label and larger target area. [Learn more about extended FABs](../m3/pages/extended-fab/overview)
+A component for helping people take primary actions. They're wider than FABs to accommodate a text label and larger target area. [Learn more about extended FABs](../components/extended-fab/overview.md)
 
 ### Floating action button (FAB)
 
-A component representing the most important action on a screen. They put key actions within reach. [Learn more about FABs](../m3/pages/fab/overview)
+A component representing the most important action on a screen. They put key actions within reach. [Learn more about FABs](../components/extended-fab/overview.md)
 
 ### HCT
 
@@ -176,7 +176,7 @@ Developer libraries supported by Material 3 include Android and Jetpack Compose,
 
 ### List
 
-A component comprised of continuous, vertical indexes of text or images. [Learn more about lists](../m3/pages/lists/overview)
+A component comprised of continuous, vertical indexes of text or images. [Learn more about lists](../components/lists/overview.md)
 
 ### Material Components
 
@@ -204,7 +204,7 @@ While a scheme represents selections or a subset of a single  group, **theme** d
 
 ### Menu
 
-A component that displays a list of choices on a temporary surface. [Learn more about menus](../m3/pages/menus/overview)
+A component that displays a list of choices on a temporary surface. [Learn more about menus](../components/menus/overview.md)
 
 ### Mode
 
@@ -212,19 +212,19 @@ Binary setting provided by a system to help people use the device better. Exampl
 
 ### Navigation bar
 
-A component offering a persistent and convenient way to switch between primary destinations in an app. [Learn more about navigation bars](../m3/pages/navigation-bar/overview)
+A component offering a persistent and convenient way to switch between primary destinations in an app. [Learn more about navigation bars](../components/navigation-bar/overview.md)
 
 ### Navigation drawer
 
-A component providing ergonomic access to destinations in an app. [Learn more about navigation drawers](../m3/pages/navigation-drawer)
+A component providing ergonomic access to destinations in an app. [Learn more about navigation drawers](../components/navigation-drawer/overview.md)
 
 ### Navigation rail
 
-A component providing access to primary destinations in apps when using tablet and desktop screens. [Learn more about navigation rails](../m3/pages/navigation-rail/overview)
+A component providing access to primary destinations in apps when using tablet and desktop screens. [Learn more about navigation rails](../components/navigation-rail/overview.md)
 
 ### Progress indicator
 
-A component displaying an unspecified wait time or the length of a process. [Learn more about progress indicators](../m3/pages/progress-indicators/overview)
+A component displaying an unspecified wait time or the length of a process. [Learn more about progress indicators](../components/progress-indicators/overview.md)
 
 ### Orbiter
 
@@ -236,7 +236,7 @@ The building blocks of a layout. Content and actions are grouped into panes, whi
 
 ### Radio button
 
-A component allowing users to select one option from a set. [Learn more about radio buttons](../m3/pages/radio-button/overview)
+A component allowing users to select one option from a set. [Learn more about radio buttons](../components/radio-button/overview.md)
 
 ### Role
 
@@ -252,7 +252,7 @@ A component that allows users to make selections from a range of values.
 
 ### Snackbar
 
-A component that provides brief messages about app processes at the bottom of the screen. [Learn more about snackbars](../m3/pages/snackbar/overview)
+A component that provides brief messages about app processes at the bottom of the screen. [Learn more about snackbars](../components/snackbar/overview.md)
 
 ### Spatial
 
@@ -260,19 +260,19 @@ Relates to the placement of UI in space through extended reality (XR).
 
 ### Style
 
-One or more properties, typically customizable, that define an aspect of a UI's appearance, such as [color](../m3/pages/color), [typography](../m3/pages/typography/overview), or shape.
+One or more properties, typically customizable, that define an aspect of a UI's appearance, such as [color](../styles/color/advanced/overview.md), [typography](../styles/typography/overview.md), or shape.
 
 ### Switch
 
-A component that toggles the state of a single item on or off. [Learn more about switches](../m3/pages/switch/overview)
+A component that toggles the state of a single item on or off. [Learn more about switches](../components/switch/overview.md)
 
 ### Tab
 
-A component used to organize content across different screens, data sets, and other interactions. [Learn more about tabs](../m3/pages/tabs/overview)
+A component used to organize content across different screens, data sets, and other interactions. [Learn more about tabs](../components/tabs/overview.md)
 
 ### Text field
 
-A component that lets users enter and edit text. [Learn more about text fields](../m3/pages/text-fields/overview)
+A component that lets users enter and edit text. [Learn more about text fields](../components/text-fields/overview.md)
 
 ### Theme
 
@@ -280,11 +280,11 @@ A set of styles, such as color, elevation, and type, that can be applied globall
 
 ### Time picker
 
-A component that helps users select and set a specific time. [Learn more about time pickers](../m3/pages/time-pickers/overview)
+A component that helps users select and set a specific time. [Learn more about time pickers](../components/time-pickers/overview.md)
 
 ### Toolbar
 
-A component displaying navigation and key actions at the bottom of mobile screens. [Learn more about toolbar](../m3/pages/toolbars/overview)
+A component displaying navigation and key actions at the bottom of mobile screens. [Learn more about toolbar](../components/toolbars/overview.md)
 
 ### Tooltip
 

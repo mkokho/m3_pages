@@ -10,7 +10,7 @@ People should be able to use assistive technology to:
 
 - Navigate to a checkbox
 - Toggle the checkbox on and off
-- Get appropriate feedback based on input type documented under [Interaction & ](../../m3/pages/checkbox/accessibility#6a2f55e5-2fa0-4204-b6d1-62362dda89c7)
+- Get appropriate feedback based on input type documented under [Interaction & ](./accessibility.md#6a2f55e5-2fa0-4204-b6d1-62362dda89c7)
 
 ## Interaction & 
 

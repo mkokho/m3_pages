@@ -14,7 +14,7 @@ Modal bottom sheets are above a scrim while standard bottom sheets don't have a 
 
 ## Tokens and specs
 
-Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Sheets - Bottom arrow\_drop\_down
 
@@ -32,7 +32,7 @@ keyboard\_arrow\_down
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Two diagrams featuring color opposites of scrim, container, drag handle](https://lh3.googleusercontent.com/DRToa14TKB2-AlRHwUn1aPr1fykKEPGlGiKLDxHYv9B9e5CeupNBR-mM7uQOfp_OK-ZHdqjgboBeyE7GhlNtsThqGvX87OLsiAoci2zkTRBo=s0)
 

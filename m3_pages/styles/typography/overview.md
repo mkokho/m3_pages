@@ -38,7 +38,7 @@ The emphasized type styles add more expression to highlighted moments.
 
 Roboto Flex can be used on its own to show a range of emotional states, but is not yet part of the M3 typescale.
 
-[More on how to use emphasized styles](../../m3/pages/typography/type-scale-tokens#0020d4d9-4f5b-4666-b3ce-c26db849bd73)
+[More on how to use emphasized styles](./type-scale-tokens.md#0020d4d9-4f5b-4666-b3ce-c26db849bd73)
 
 [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
 

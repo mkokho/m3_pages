@@ -8,11 +8,11 @@ star
 
 Note:
 
-In the expressive update, components and motion now use the [motion physics system](../../../m3/pages/motion-overview), which uses springs. Products should migrate to the new system. The easing and duration system is still used for transitions and can be used by teams that haven't yet updated to GM3 Expressive, but is no longer maintained.
+In the expressive update, components and motion now use the [motion physics system](../../../components/tabs/overview.md), which uses springs. Products should migrate to the new system. The easing and duration system is still used for transitions and can be used by teams that haven't yet updated to GM3 Expressive, but is no longer maintained.
 
 ## Tokens
 
-Motion easing and duration can be implemented using easing and duration tokens. [Learn more about design tokens](../../../m3/pages/design-tokens/overview)
+Motion easing and duration can be implemented using easing and duration tokens. [Learn more about design tokens](../../../foundations/design-tokens/overview.md)
 
 Motion arrow\_drop\_down
 

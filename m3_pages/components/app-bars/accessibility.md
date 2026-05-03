@@ -89,7 +89,7 @@ Screen readers will read the UI text followed by the component’s role.
 
 An app bar’s accessibility label can incorporate its UI text as well as additional context
 
-Label icon buttons according to their [accessibility guidelines](../../m3/pages/icon-buttons/accessibility).
+Label icon buttons according to their [accessibility guidelines](../icon-buttons/accessibility.md).
 
 ![The app bar icon button has the accessibility role “Button”.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlos0avb-09.png?alt=media&token=ea50a8f1-f6ec-4c0d-9693-c381e6b86ed0)
 

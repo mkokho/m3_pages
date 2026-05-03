@@ -47,7 +47,7 @@ Sliders let users make selections from a range of values
 
 ## Tokens & specs
 
-Slider tokens are organized into a common token set, and token sets for each size. Switch token sets from the table’s menu. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Slider tokens are organized into a common token set, and token sets for each size. Switch token sets from the table’s menu. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Slider arrow\_drop\_down
 

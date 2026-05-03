@@ -154,7 +154,7 @@ A pane can be shown or hidden depending on the available window space
 
 Panes can be elevated above other content as **floating** or **docked** panes. This strategy helps panes appear relative to their triggers.
 
-Floating panes appear in front of the body content, and can be customized to be dragged or resized. When adding controls that resize or move a floating pane, provide [accessible controls](../../../m3/pages/understanding-layout/parts-of-layout#c4619e07-cfc6-4d91-a724-0646126e3911).
+Floating panes appear in front of the body content, and can be customized to be dragged or resized. When adding controls that resize or move a floating pane, provide [accessible controls](../understanding-layout/parts-of-layout.md#c4619e07-cfc6-4d91-a724-0646126e3911).
 
 A co-planar pane can float when switching window size classes
 

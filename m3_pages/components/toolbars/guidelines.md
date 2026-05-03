@@ -265,7 +265,7 @@ When a nav rail is visible, the floating toolbar should be vertical on the oppos
 
 ## Adaptive design
 
-Adaptive design allows an interface to respond or change based on context, such as the user, device, and usage. [More on adaptive design](../../m3/pages/adaptive-design)
+Adaptive design allows an interface to respond or change based on context, such as the user, device, and usage. [More on adaptive design](../tabs/overview.md)
 
 ### Resizing
 

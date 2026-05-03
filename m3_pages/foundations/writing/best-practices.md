@@ -30,7 +30,7 @@ Use captions to help readers understand how the image relates to the content
 
 ### Embedded text in images
 
-Screen readers are unable to read text that is embedded in imagery. If there is essential information embedded as text in the image, include the essential information in the [alt text](../../m3/pages/alt-text).
+Screen readers are unable to read text that is embedded in imagery. If there is essential information embedded as text in the image, include the essential information in the [alt text](../../components/tabs/overview.md).
 
 ![Stacked card with image, caption overlayed on image, and adjacent text.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwj56jdc-10.png?alt=media&token=3712cd9c-c733-4fa1-aaff-5cad15b89ff0)
 
@@ -44,7 +44,7 @@ Alt text helps translate a visual UI into a text-based UI. Alt text is a short l
 
 Alt text is valuable for sighted users, as well, because alt text appears if an image fails to load. Include targeted keywords to help inform the user about the image. Keywords can also improve search engine optimization (SEO).
 
-[Learn more about writing alt text](../../m3/pages/alt-text)
+[Learn more about writing alt text](../../components/tabs/overview.md)
 
 ![A DJ standing in front of music equipment with alt text underneath describing image.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwj573aa-7.png?alt=media&token=8b8899da-ed71-4e4f-822a-0005e637691e)
 

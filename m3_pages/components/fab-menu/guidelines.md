@@ -147,7 +147,7 @@ The same FAB menu options on both large window (left) and an Android compact win
 
 ### Appearing
 
-The FAB should transform into the close button of the FAB menu. The menu items should appear using the [enter and exit](../../m3/pages/motion-transitions/transition-patterns#e1c2a650-d7a4-4a6d-9025-e6b7845291ed) transition.
+The FAB should transform into the close button of the FAB menu. The menu items should appear using the [enter and exit](../../styles/motion/transitions/transition-patterns.md#e1c2a650-d7a4-4a6d-9025-e6b7845291ed) transition.
 
 Originate the transition from one of the FAB's trailing corners, preferably the top-aligned corner.
 
@@ -179,6 +179,6 @@ FAB menus can scroll if the window height is too short to contain all the option
 
 ### Expanding
 
-Any FAB menu item can expand and adapt to any shape using a [container transform](../../m3/pages/motion-transitions/transition-patterns#b67cba74-6240-4663-a423-d537b6d21187) transition pattern. This includes a surface that is part of the app structure, or a surface that spans the entire screen.
+Any FAB menu item can expand and adapt to any shape using a [container transform](../../styles/motion/transitions/transition-patterns.md#b67cba74-6240-4663-a423-d537b6d21187) transition pattern. This includes a surface that is part of the app structure, or a surface that spans the entire screen.
 
 FAB menu items can transition into any kind of shape when selected

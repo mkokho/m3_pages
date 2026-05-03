@@ -51,7 +51,7 @@ The trailing icon button should have an extra state or similar label indicating 
   
 Label the button to clearly indicate that there are more options. The label of the secondary button should indicate that it provides additional choices related to the action of the main button. For instance, if the main button says "Watch later," the secondary button should be something like "More watch options."  
   
-Label the opened menu according to the [menu accessibility guidance](../../m3/pages/menus/accessibility).
+Label the opened menu according to the [menu accessibility guidance](../menus/accessibility.md).
 
 ![Collapsed state indicated for the trailing button.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0dq40tg-4.png?alt=media&token=e787ddba-953d-423a-bdee-55583e4500a7)
 

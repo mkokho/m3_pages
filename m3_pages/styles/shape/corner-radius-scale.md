@@ -12,7 +12,7 @@ M3 defines corner radii using a shape scale. This can be used to create both uni
 
 ## Shape tokens
 
-Material has shape corner tokens to define all corners, and corner-value tokens for individual corners. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Material has shape corner tokens to define all corners, and corner-value tokens for individual corners. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Shape arrow\_drop\_down
 
@@ -83,7 +83,7 @@ The Material 3 shape system uses a size-based scale with ten styles. Styles are 
 9. Extra extra large - 48dp
 10. Full - fully rounded corners
 
-[Apply shape styles using tokens](../../m3/pages/design-tokens/overview)
+[Apply shape styles using tokens](../../foundations/design-tokens/overview.md)
 
 ![10 corner radii styles.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0c881mj-1.png?alt=media&token=fcb5e003-c5d3-4208-af8a-8766b55ad7ee)
 

@@ -10,7 +10,7 @@ Static fonts like [Roboto](https://fonts.google.com/specimen/Roboto) are current
 
 ### Roboto
 
-[Roboto](https://fonts.google.com/specimen/Roboto) is the default typeface for Android, and is used in the [M3 typescale](../../m3/pages/typography/type-scale-tokens#6a9f9f26-99bb-4185-82fc-a49725da0d01).
+[Roboto](https://fonts.google.com/specimen/Roboto) is the default typeface for Android, and is used in the [M3 typescale](./type-scale-tokens.md#6a9f9f26-99bb-4185-82fc-a49725da0d01).
 
 Roboto includes over 3,300 glyphs for representing hundreds of languages around the world.
 
@@ -40,7 +40,7 @@ Roboto Serif offers a functional set of weights and widths
 
 [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto) is a monospaced version of the classic Roboto design. Being monospaced means each letter has equal space, and letterforms are adjusted to properly fill the space.
 
-Monospaced fonts are easier to scan vertically, so are particularly useful for code and keeping numbers aligned. [Learn more about monospaced numbers](../../m3/pages/typography/applying-type#f0f79df7-3174-4012-871e-93ce9a89d08b)
+Monospaced fonts are easier to scan vertically, so are particularly useful for code and keeping numbers aligned. [Learn more about monospaced numbers](./applying-type.md#f0f79df7-3174-4012-871e-93ce9a89d08b)
 
 ![A type specimen of Roboto Mono.](https://lh3.googleusercontent.com/LMaircDfjO77VgbiKJNAz8UcxIc3kRufjePle2i7oLH9_kbvgEGcxU8IjCuv73lMDsSubbBX6YIz5VwFKDMwVmnFMDR7IJjROyxshjuvS-o=s0)
 

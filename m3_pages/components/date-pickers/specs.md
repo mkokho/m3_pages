@@ -69,7 +69,7 @@ keyboard\_arrow\_down
 
 ### Docked date picker color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![11 color roles of a docked date picker in light and dark themes.](https://lh3.googleusercontent.com/t5niu5LsIjOjw0wey4JXXcQ9J0PQuCxTW7cXasgVguRXLf1Sjuuv7VDs81XvQvD9GfrYj9CXwjPpij_rLi-ylLRJt6BIiv-Io_jGktOkZzY=w40)![11 color roles of a docked date picker in light and dark themes.](https://lh3.googleusercontent.com/t5niu5LsIjOjw0wey4JXXcQ9J0PQuCxTW7cXasgVguRXLf1Sjuuv7VDs81XvQvD9GfrYj9CXwjPpij_rLi-ylLRJt6BIiv-Io_jGktOkZzY=s0)
 
@@ -168,7 +168,7 @@ Docked date picker month menu padding and size measurements
 
 ### Modal date picker color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![12 color roles of a modal date picker day selection view.](https://lh3.googleusercontent.com/KtGAhuY4gAAooTlzNro5r28R-JqaNn-GIuLF784YUnV4r9xuN73HBLIGoK2ngiHQTkEBH3-Pv5i_KhcGI86MpUTOFXtNXKl44_CULQTkD_Acjw=w40)
 
@@ -257,7 +257,7 @@ Modal date picker date range selector padding and size measurements
 
 ### Modal date input color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Diagram indicating the 7 color roles of a modal date input.](https://lh3.googleusercontent.com/iefNrcoiuJ0ugSFq7Sr-IDU2JcAbmJPJqObTZJRuoEd3MIKOdAZZuy2PBx-hnXJEYrmXuN-BwMsIVLtdS2gzzaZrN9L_kfy-PyUDrocRjsNoYw=w40)
 

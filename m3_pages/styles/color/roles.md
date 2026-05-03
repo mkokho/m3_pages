@@ -173,7 +173,7 @@ There are also five surface container roles named based on their level of emphas
 - **Surface container high:** High-emphasis container color
 - **Surface container highest:** Highest-emphasis container color
 
-**Surface container** is the default role, but the others are especially helpful for creating hierarchy and nested containers in [layouts for expanded screens](../../m3/pages/applying-layout/expanded).
+**Surface container** is the default role, but the others are especially helpful for creating hierarchy and nested containers in [layouts for expanded screens](../../foundations/layout/applying-layout/expanded.md).
 
 The five **surface container** roles, shown in light and dark theme
 
@@ -197,7 +197,7 @@ Depending on necessary hierarchy, feature area, and design logic, you can use [a
 
 In this example, the body and navigation regions have the same color roles across window size classes (**surface** and **surface container**, respectively) with the addition of other surface container colors at larger sizes.
 
-By default, neutral-colored components such as navigation bars, menus, or dialogs are mapped to specific surface container roles, but these [roles can be remapped](../../m3/pages/advanced/overview) by makers to suit user needs.
+By default, neutral-colored components such as navigation bars, menus, or dialogs are mapped to specific surface container roles, but these [roles can be remapped](./advanced/overview.md) by makers to suit user needs.
 
 ![Surface container low applied to an elevated button and card, surface container applied to the top and bottom bar, surface container high applied to the FAB and basic dialog, surface container highest applied to an input label and off switch.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fly2n2wcp-17.png?alt=media&token=b86187a0-00e2-4546-9a5f-35593b0297a8)
 

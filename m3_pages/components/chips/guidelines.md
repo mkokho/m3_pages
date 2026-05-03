@@ -87,10 +87,10 @@ There are four chip variants:
 
 | Purpose | Chip variant | Rationale | Example |
 | --- | --- | --- | --- |
-| Action | [Assist chip](../../m3/pages/chips/guidelines#5dd1928c-1476-4029-bdc5-fde66fc0dcb1) | Assist chips represent smart or automated actions that can span multiple apps | **Add to calendar** action |
-| Filter | [Filter chip](../../m3/pages/chips/guidelines#8d453d50-8d8e-43aa-9ae3-87ed134d2e64) | Filter chips represent filters for a collection | Platform selector on material.io/components |
-| Information, user-authored | [Input chip](../../m3/pages/chips/guidelines#4d2d5ef5-3fcd-46e9-99f2-067747b2393f) | Input chips represent discrete pieces of information entered by a person | Gmail contact in the **To** field |
-| Information, product-authored | [Suggestion chip](../../m3/pages/chips/guidelines#36d7bb16-a9bf-4cf6-a73d-8e05510d66a7) | Suggestion chips help narrow a person’s intent by presenting dynamically-generated suggestions | Suggested chat response |
+| Action | [Assist chip](./guidelines.md#5dd1928c-1476-4029-bdc5-fde66fc0dcb1) | Assist chips represent smart or automated actions that can span multiple apps | **Add to calendar** action |
+| Filter | [Filter chip](./guidelines.md#8d453d50-8d8e-43aa-9ae3-87ed134d2e64) | Filter chips represent filters for a collection | Platform selector on material.io/components |
+| Information, user-authored | [Input chip](./guidelines.md#4d2d5ef5-3fcd-46e9-99f2-067747b2393f) | Input chips represent discrete pieces of information entered by a person | Gmail contact in the **To** field |
+| Information, product-authored | [Suggestion chip](./guidelines.md#36d7bb16-a9bf-4cf6-a73d-8e05510d66a7) | Suggestion chips help narrow a person’s intent by presenting dynamically-generated suggestions | Suggested chat response |
 
 ## Anatomy
 
@@ -175,7 +175,7 @@ The leading icon color for unselected chips can be customized through theming. W
 
 Leading circular images are sized larger than leading icons to provide more space for detail. Icons are designed to be legible at small sizes.
 
-See the [Specs tab](../../m3/pages/chips/specs) for precise measurement values.
+See the [Specs tab](./specs.md) for precise measurement values.
 
 ![2 input chips, 1 with a 24dp leading avatar and the other with an 18dp leading icon.](https://lh3.googleusercontent.com/iY2D7FmINqLpS43Y2mhnr_dlNru2sEZCNSyKFwJS_NVseYGAGlY-nRl_qYY4hn_zu4NTZV40NTysX2qaS3NPnh_J6StQbI4mlzvSQkQm3RU=w40)
 

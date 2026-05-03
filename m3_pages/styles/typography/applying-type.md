@@ -211,7 +211,7 @@ Use tabular numbers to prevent layout shifting when values change, such as in a 
 
 ## Using Material Symbols with typography
 
-Properly aligning typography with Material Symbols can improve cohesion and unity in your product. [Learn more about matching icons and text](../../m3/pages/icons/applying-icons#f9db4adc-ca78-473f-85eb-a351b73c39ac)
+Properly aligning typography with Material Symbols can improve cohesion and unity in your product. [Learn more about matching icons and text](../icons/applying-icons.md#f9db4adc-ca78-473f-85eb-a351b73c39ac)
 
 ## Accessibility
 
@@ -230,7 +230,7 @@ Material aims for two main text contrast levels:
 - 3:1 for large text
 - 4.5:1 for small text
 
-[Learn more about contrast ratios](../../m3/pages/designing/color-contrast#b248ecd2-9abd-4877-8f5e-ebfbb87e2048)
+[Learn more about contrast ratios](../../foundations/designing/color-contrast.md#b248ecd2-9abd-4877-8f5e-ebfbb87e2048)
 
 ![Large text should achieve a contrast ratio of 3:1.](https://lh3.googleusercontent.com/BQrWDyWcMYdh73-KDAcTBnrN6snUfkRYAk9jBe5H_H-sW2D7QoGhfd2JyDkshiNIegJcCCFFzUAxOCJ5nOL1CyynkzZIi0h80ORRJWlTH6bs=w40)
 

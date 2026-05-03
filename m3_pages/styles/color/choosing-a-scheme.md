@@ -43,7 +43,7 @@ Colors are static in the baseline color scheme
 - Your product is for enterprise users who wouldn't benefit from personalized color or user-controlled contrast settings
 - Your product is built for iOS
 
-**Choosing baseline?**[**Start designing with the baseline colors**](../../m3/pages/static/baseline)
+**Choosing baseline?**[**Start designing with the baseline colors**](./static/baseline.md)
 
 ## Dynamic color
 
@@ -75,4 +75,4 @@ While the actual colors may change, the color role mappings remain the same acro
 - You want your product to offer user-controlled contrast settings
 - You aren't sure if you'll need to also use a mix of dynamic and static colors (you can customize your color scheme to include static colors as your work progresses)
 
-**Choosing dynamic color? Next**[**pick a dynamic color source**](../../m3/pages/dynamic/choosing-a-source)
+**Choosing dynamic color? Next**[**pick a dynamic color source**](./dynamic/choosing-a-source.md)

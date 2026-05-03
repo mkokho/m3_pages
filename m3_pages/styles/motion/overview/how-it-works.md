@@ -10,7 +10,7 @@ The motion physics system makes a UI expressive and easy to use
 
 Material introduced the **motion physics system** with M3 Expressive. This new physics-based system makes interactions and transitions feel more alive, fluid, and natural. It represents a new motion language for Google products, and is easier to implement and customize than ever before.
 
-The physics system is replacing the previous system based on [easing and duration](../../../m3/pages/motion-easing-and-duration/applying-easing-and-duration).
+The physics system is replacing the previous system based on [easing and duration](../easing-and-duration/applying-easing-and-duration.md).
 
 [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
 
@@ -25,7 +25,7 @@ The physics system is replacing the previous system based on [easing and duratio
 
 ## The basics: Motion schemes
 
-The physics system has two preset motion schemes: **expressive** and **standard**. The motion scheme you choose defines how your product feels. While most motion in a product should use the same scheme, products can make [advanced customizations](../../../m3/pages/motion-overview/how-it-works#fef83d57-b139-4c40-b538-9f1e9872df1b) to swap the scheme to emphasize key moments.
+The physics system has two preset motion schemes: **expressive** and **standard**. The motion scheme you choose defines how your product feels. While most motion in a product should use the same scheme, products can make [advanced customizations](./how-it-works.md#fef83d57-b139-4c40-b538-9f1e9872df1b) to swap the scheme to emphasize key moments.
 
 **Expressive** is Material’s opinionated motion scheme, and should be used for most situations, particularly hero moments and key interactions.
 
@@ -35,7 +35,7 @@ The expressive motion scheme overshoots the final values to add bounce
 
 The standard motion scheme eases into the final values
 
-Need something other than the preset schemes? [Create your own!](../../../m3/pages/motion-overview/how-it-works#f4ec8b84-3e39-4699-bba3-0fe7ec5cb79e) The physics system makes it easy to create custom motion schemes beyond expressive and standard, while still leveraging theming. Schemes can be easily switched between expressive, standard, or custom as needed.
+Need something other than the preset schemes? [Create your own!](./how-it-works.md#f4ec8b84-3e39-4699-bba3-0fe7ec5cb79e) The physics system makes it easy to create custom motion schemes beyond expressive and standard, while still leveraging theming. Schemes can be easily switched between expressive, standard, or custom as needed.
 
 ## How it works: Springs
 
@@ -53,7 +53,7 @@ All component motion is driven by two tokens: expressive fast spatial and expres
 
 ## Spring tokens
 
-On Jetpack Compose and MDC-Android, these springs are available as [spring tokens](../../../m3/pages/motion-overview/specs)**.** Use tokens to easily apply motion to any element, making all motion feel predictable and consistent across multiple platforms. See [specs](https://m3.material.io/styles/motion/overview/specs) for how to convert springs to other platforms like Web.
+On Jetpack Compose and MDC-Android, these springs are available as [spring tokens](../../../components/tabs/specs.md)**.** Use tokens to easily apply motion to any element, making all motion feel predictable and consistent across multiple platforms. See [specs](https://m3.material.io/styles/motion/overview/specs) for how to convert springs to other platforms like Web.
 
 There are tokens for **spatial** movement and **effects**, with three durations each: **default**, **fast**, and **slow**.
 

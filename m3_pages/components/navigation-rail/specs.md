@@ -13,7 +13,7 @@ Navigation rails let people switch between UI views on mid-sized devices
 
 ### Baseline variants
 
-The baseline navigation rail is no longer recommended, and should be replaced by the collapsed navigation rail. [View baseline tokens](../../m3/pages/navigation-rail/specs#d4d97764-20ec-496f-a6f3-0d423940ec5a)
+The baseline navigation rail is no longer recommended, and should be replaced by the collapsed navigation rail. [View baseline tokens](./specs.md#d4d97764-20ec-496f-a6f3-0d423940ec5a)
 
 ![Baseline navigation rail.](https://lh3.googleusercontent.com/_GDghBF084KxFoboNpBiBukL7eC9btnn0Mb6Jk_768f3C75CzUZ_lS1sJyKteHLGeR2sa__sSE-baRgcdfAxgBR3jxoUV13DucOJj2FXrDM=s0)
 
@@ -40,7 +40,7 @@ The baseline navigation rail is no longer recommended, and should be replaced by
 
 ## Tokens & specs
 
-Browse the component elements, attributes, tokens, and their values. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Browse the component elements, attributes, tokens, and their values. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 Nav rail - Common arrow\_drop\_down
 
@@ -86,7 +86,7 @@ Collapsed and expanded navigation rail elements:
 
 ## Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens; in implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens; in implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Color roles of 9 elements of collapsed and expanded navigation rails in light and dark color schemes.](https://lh3.googleusercontent.com/d3PlE8MkpZrvAvwFNjnOiUQXi8R7ep0qmhurwSRvAq_yf3Eb44NIbzr78sGxD1gNgCLxhWdlVv_Mti8eRMPEi3Nn0WQRUnjZNO_XRFQt6Yan=w40)
 
@@ -179,7 +179,7 @@ keyboard\_arrow\_down
 
 ### Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![8 color roles of baseline navigation rail.](https://lh3.googleusercontent.com/bYdm_ngSm_bDBlh7cCiignDkbte5hHytBrpjYGp_9BfBLH1hF2zPxV-Oqdm6nn8fSHRROojsHBUwN5etdowcM8IHoq2XH1Qy7rRFtshsl5ca=w40)
 

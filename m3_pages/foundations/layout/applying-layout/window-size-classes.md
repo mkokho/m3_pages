@@ -85,7 +85,7 @@ For example, on a compact device the navigation drawer is collapsed by default a
 
 An email app’s navigation drawer is revealed in the expanded window size class
 
-The same can be true for revealing additional [panes](../../../m3/pages/understanding-layout/parts-of-layout), such as when an expanded device has room to simultaneously display an inbox pane and a pane containing a selected email. Additional real-estate doesn’t just mean making the same thing bigger.
+The same can be true for revealing additional [panes](../understanding-layout/parts-of-layout.md), such as when an expanded device has room to simultaneously display an inbox pane and a pane containing a selected email. Additional real-estate doesn’t just mean making the same thing bigger.
 
 ![Messaging app layout in a compact window and an expanded window.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fly71aw97-4.png?alt=media&token=77d3b571-bbad-48e5-8b99-3b79a8f11cf0)
 
@@ -93,7 +93,7 @@ An expanded layout for this messaging app reveals a second pane showing message 
 
 ### 2. How should the screen be divided?
 
-When dividing the screen into layout [panes](../../../m3/pages/understanding-layout/parts-of-layout), consider the window size class.
+When dividing the screen into layout [panes](../understanding-layout/parts-of-layout.md), consider the window size class.
 
 Compositions using a single pane work best on compact and medium window size classes while two panes work best for the expanded, large, and extra-large window size classes.
 
@@ -128,7 +128,7 @@ Immersive single-pane layout for a video call
 
 ### 3. What should be resized?
 
-Parts of the UI that are small on compact screens can become larger on medium and expanded screens. For example, a horizontally-oriented card on a mobile device can become more square-shaped on a larger tablet. The size of a pane can also be increased on larger screens, and its elements rearranged to make better use of the space. See [What should be repositioned?](../../../m3/pages/applying-layout/window-size-classes#2b82eea6-5d69-4a73-a7ab-8d9296f5a26d) for more information.
+Parts of the UI that are small on compact screens can become larger on medium and expanded screens. For example, a horizontally-oriented card on a mobile device can become more square-shaped on a larger tablet. The size of a pane can also be increased on larger screens, and its elements rearranged to make better use of the space. See [What should be repositioned?](./window-size-classes.md#2b82eea6-5d69-4a73-a7ab-8d9296f5a26d) for more information.
 
 Consider resizing:
 

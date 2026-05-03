@@ -30,7 +30,7 @@ Three color sets:
 
 ## Tokens & specs
 
-Use the table's menu to switch token sets. The FAB menu has a common token set and six color sets, three for each element (close button and menu item). [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Use the table's menu to switch token sets. The FAB menu has a common token set and six color sets, three for each element (close button and menu item). [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 FAB menu - Common arrow\_drop\_down
 
@@ -63,7 +63,7 @@ The FAB menu can have up to six items
 
 ## Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![12 colors of the FAB menu.](https://lh3.googleusercontent.com/tZxH6WCjbJBIqPlpd4_nt_npacUlh9WWyrIqJWs6Z1BCdGKbGFPt_BaW0CrG9HHNVQzBFYxxGU4hYm8LnEeWldCP9dezTNn3BwRy0uvJR2FoEw=w40)
 
@@ -82,7 +82,7 @@ Color values are implemented through design tokens. For designers, this means wo
 
 ## States
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ### Close button
 

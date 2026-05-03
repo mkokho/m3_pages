@@ -31,7 +31,7 @@ Disabled states do not need to meet contrast requirements.
 
 Some non-text elements, such as button containers, should meet a contrast ratio of 3:1 between their container color and the color of their background. Consider the following patterns for combining elements and tones, which are grounded in Material's research into contrast and functional changes when elements are combined.
 
-[Learn more about color contrast for accessibility](../../m3/pages/color/how-the-system-works#e1e92a3b-8702-46b6-8132-58321aa600bd)
+[Learn more about color contrast for accessibility](../../styles/color/system/how-the-system-works.md#e1e92a3b-8702-46b6-8132-58321aa600bd)
 
 Elements that are clustered with others, such as a group of buttons, require the user to distinguish each one from the group.
 

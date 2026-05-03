@@ -4,7 +4,7 @@ Source: https://m3.material.io/foundations/layout/understanding-layout/bidirecti
 
 Layout is the visual arrangement of elements on the screen
 
-[Over 2 billion people](https://www.w3.org/International/questions/qa-scripts.en.html) read and write in right-to-left (RTL) languages like Arabic, Hebrew, Farsi and Urdu. Layouts should support both left-to-right (LTR) and RTL languages through mirroring and other best practices to ensure content is easy for global audiences to understand and navigate. Consider the holistic experience including [global writing](../../../m3/pages/global-writing/overview#0d0f8403-e5ff-4579-be74-0c4dbcef7fcb), localizing voice and [design principles for culturally appropriate icons](../../../m3/pages/icons/designing-icons#1056d971-81ca-4abe-b931-42185dd76638). Material's components are built to support RTL, such as naming elements and tokens as "leading" and "trailing." However, extra configuration may be needed to achieve specific RTL situations.
+[Over 2 billion people](https://www.w3.org/International/questions/qa-scripts.en.html) read and write in right-to-left (RTL) languages like Arabic, Hebrew, Farsi and Urdu. Layouts should support both left-to-right (LTR) and RTL languages through mirroring and other best practices to ensure content is easy for global audiences to understand and navigate. Consider the holistic experience including [global writing](../../content-design/global-writing/overview.md#0d0f8403-e5ff-4579-be74-0c4dbcef7fcb), localizing voice and [design principles for culturally appropriate icons](../../../styles/icons/designing-icons.md#1056d971-81ca-4abe-b931-42185dd76638). Material's components are built to support RTL, such as naming elements and tokens as "leading" and "trailing." However, extra configuration may be needed to achieve specific RTL situations.
 
 ## Mirroring
 
@@ -94,7 +94,7 @@ Clock icons, circular refresh icons, and progress indicators with arrows pointin
 
 ### List-detail
 
-The [list-detail](../../../m3/pages/canonical-layouts/list-detail) layout divides the app window into two side-by-side panes, and is mirrored in RTL.
+The [list-detail](../canonical-layouts/list-detail.md) layout divides the app window into two side-by-side panes, and is mirrored in RTL.
 
 ![RTL list layout.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm6rt95z5-7_hebrew.png?alt=media&token=69d513fe-7989-4805-b65a-e3d6c9b39985)
 
@@ -102,7 +102,7 @@ List-detail mirrored for RTL, where text and other elements are aligned to the r
 
 ### Feed
 
-Use a [feed layout](../../../m3/pages/canonical-layouts/feed) to arrange content elements like cards in a configurable grid for quick, convenient viewing of a large amount of content. The feed layout is mirrored in RTL.
+Use a [feed layout](../canonical-layouts/feed.md) to arrange content elements like cards in a configurable grid for quick, convenient viewing of a large amount of content. The feed layout is mirrored in RTL.
 
 ![RTL feed layout.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm6rtc29p-8.png?alt=media&token=c763352b-86e5-4455-a1ab-b84f51ab6841)
 
@@ -110,7 +110,7 @@ Feed layout mirrored for RTL, where the order of text, grid, and other elements 
 
 ### Supporting pane
 
-Use the [supporting pane](../../../m3/pages/canonical-layouts/supporting-pane) layout to organize app content into primary and secondary display areas. The supporting pane layout is mirrored in RTL.
+Use the [supporting pane](../canonical-layouts/supporting-pane.md) layout to organize app content into primary and secondary display areas. The supporting pane layout is mirrored in RTL.
 
 ![RTL supporting pane in a RTL language.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm6rtekg5-9_urdu.png?alt=media&token=6b70a1dc-2d88-4d86-82c3-c03201df33a1)
 
@@ -120,7 +120,7 @@ Supporting pane to the left of the primary content. Text and other elements with
 
 ### Badges
 
-Change the position and alignment of [badges](../../../m3/pages/badges/specs) for RTL languages.
+Change the position and alignment of [badges](../../../components/badges/specs.md) for RTL languages.
 
 ![Small badge on the top left of the icon.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm6rtgvbk-10%20-%20A_urdu.png?alt=media&token=f90702ee-35c3-4470-b083-6d34d392e437)
 
@@ -132,7 +132,7 @@ Large badge appears on the top left of the icon
 
 ### Toolbar
 
-[Toolbars](../../../m3/pages/toolbars/guidelines) provide actions related to the current page. For RTL languages, mirror the order of the tools.
+[Toolbars](../../../components/toolbars/guidelines.md) provide actions related to the current page. For RTL languages, mirror the order of the tools.
 
 ![RTL floating toolbar](https://lh3.googleusercontent.com/vJXzgBPOhjldo7WY5RopuHczELv2Q6gFFOV9qfzbScgrdaaPlNe-tfWaDy1ExbeYJokecz57a9NcPlKJVJ-_Ax-4kUbCuKUbnPZXzwZYhd__Pw=w40)
 
@@ -140,7 +140,7 @@ Mirrored floating toolbar, where the FAB appears on the left of the screen
 
 ### App bar
 
-[App bars](../../../m3/pages/app-bars/overview) are placed at the top of the screen to help people navigate through a product.  
+[App bars](../../../components/app-bars/overview.md) are placed at the top of the screen to help people navigate through a product.  
   
 Mirror app bar layout in RTL, and flip appropriate icons, such as arrows.
 
@@ -152,7 +152,7 @@ Mirror app bar layout in RTL, and flip appropriate icons, such as arrows.
 
 ### Navigation drawer
 
-[Navigation drawers](../../../m3/pages/navigation-drawer) that open from the side are always placed on the leading edge of the screen, on the left for LTR languages, and on the right for RTL.
+[Navigation drawers](../../../components/navigation-drawer/overview.md) that open from the side are always placed on the leading edge of the screen, on the left for LTR languages, and on the right for RTL.
 
 ![RTL navigation drawer, including a mirrored icons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm6rttjl0-13_arabic.png?alt=media&token=0316e66f-2626-4521-ba3a-abd21ce031e0)
 
@@ -160,7 +160,7 @@ RTL navigation drawer, including a mirrored icon for outbox
 
 ### Navigation rail
 
-The [navigation rail](../../../m3/pages/navigation-rail/guidelines) is placed on the leading edge of the screen, on the left side for LTR, and on the right for RTL.
+The [navigation rail](../../../components/navigation-rail/guidelines.md) is placed on the leading edge of the screen, on the left side for LTR, and on the right for RTL.
 
 ![Nav rail in the right side for RTL languages, and left side for LTR languages.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm6rtvteh-14_hebrew.png?alt=media&token=560c411f-1a34-43f6-90c5-6a9c7edbe837)
 
@@ -168,7 +168,7 @@ Based on the language being used, a navigation rail is set on a screen’s leadi
 
 ### Text fields
 
-Icons in [text fields](../../../m3/pages/text-fields/guidelines#5c8a5f07-b1a5-455f-bf76-7ff0d724f6b0) are optional. Leading and trailing icons change their position based on LTR or RTL contexts.
+Icons in [text fields](../../../components/text-fields/guidelines.md#5c8a5f07-b1a5-455f-bf76-7ff0d724f6b0) are optional. Leading and trailing icons change their position based on LTR or RTL contexts.
 
 ![Text fields in RTL with leading and trailing icons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm6rtykdl-15.png?alt=media&token=ae3edcc2-1c08-44dd-a767-7de671b9a584)
 

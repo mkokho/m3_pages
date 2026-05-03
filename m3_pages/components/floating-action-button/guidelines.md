@@ -62,7 +62,7 @@ Don't display multiple FABs on a single screen
 
 A FAB can transform into an extended FAB on larger screens, or it can transition into a FAB menu when selected. Use a FAB menu when there are many kinds of actions relevant to the FAB.
 
-[More on FAB menus](../../m3/pages/fab-menu)
+[More on FAB menus](../fab-menu/overview.md)
 
 ![A extended FAB saying “Share” with a less popular share icon.](https://lh3.googleusercontent.com/6gVz4SSpnVYq28cYhUlwX36JiaNZLx-0A1NhL4z0IUA-RwlUz5tsApAkIXx0RAVE780uol-6VkeZZq7jiXRPiGOzEUo_SGVtL7NG3ogNFwg=w40)
 
@@ -181,7 +181,7 @@ The FAB can expand and adapt to any shape using a container transform transition
   
 The FAB can also transition into a FAB menu.   
   
-[More on FAB menus](../../m3/pages/fab-menu)
+[More on FAB menus](../fab-menu/overview.md)
 
 FABs can expand and adapt to any shape
 

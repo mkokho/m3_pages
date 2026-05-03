@@ -104,4 +104,4 @@ Don't position a navigation bar orbiter at the top of a spatial panel. Position 
 
 ## Accessibility considerations
 
-[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR navigation bars should follow applicable Material [nav bar accessibility standards](../../m3/pages/navigation-bar/accessibility).
+[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR navigation bars should follow applicable Material [nav bar accessibility standards](./accessibility.md).

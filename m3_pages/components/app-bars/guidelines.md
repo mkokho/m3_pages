@@ -292,7 +292,7 @@ Outlined icons can be used as needed, or when using toggle buttons
 
 ## Adaptive design
 
-Adaptive design allows an interface to respond or change based on context, such as the user, device, and usage. [More on adaptive design](../../m3/pages/adaptive-design1)
+Adaptive design allows an interface to respond or change based on context, such as the user, device, and usage. [More on adaptive design](../tabs/overview.md)
 
 ### Resizing
 

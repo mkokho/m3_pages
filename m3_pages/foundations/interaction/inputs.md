@@ -76,7 +76,7 @@ A visible mouse cursor is seen when the external input is connected
 
 #### Context menus
 
-A secondary click (whether using a single button or two fingers on a trackpad) should activate a context menu. The context menu shows additional options for the object that's clicked. See [menus](../../m3/pages/menus/overview) for more usage and guidelines.
+A secondary click (whether using a single button or two fingers on a trackpad) should activate a context menu. The context menu shows additional options for the object that's clicked. See [menus](../../components/menus/overview.md) for more usage and guidelines.
 
 ![A context menu pop up from a link with the options: Open link in new window, Save link as, Copy link location, and Inspect.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwvoetuu-6.png?alt=media&token=a1d1943b-8906-4e9f-96bd-e23ba631d331)
 
@@ -84,9 +84,9 @@ The context menu should appear when right clicking with a mouse or trackpad
 
 ### Hover
 
-When using a mouse cursor, help users discover interactive objects by enabling visual changes. When the mouse rests on an interactive element, the hover state is a valuable cue for interaction. See [states](../../m3/pages/interaction-states/applying-states#71c347c2-dd75-485b-892e-04d2900bd844) for styles and guidelines.  
+When using a mouse cursor, help users discover interactive objects by enabling visual changes. When the mouse rests on an interactive element, the hover state is a valuable cue for interaction. See [states](./states/applying-states.md#71c347c2-dd75-485b-892e-04d2900bd844) for styles and guidelines.  
   
-Hovering with a cursor (or stylus) should also invoke tooltips when applicable. See [tooltips](../../m3/pages/tooltips/overview) for guidance.
+Hovering with a cursor (or stylus) should also invoke tooltips when applicable. See [tooltips](../../components/tooltips/overview.md) for guidance.
 
 ![Icon button, floating action button, and menu items in their hovered and not hovered states.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwvofwmm-7.png?alt=media&token=c01eebb6-93d7-4e40-8156-947c480b8840)
 

@@ -6,7 +6,7 @@ Side sheets show secondary content anchored to the side of the screen
 
 ## Tokens & specs
 
-Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Sheets - Side arrow\_drop\_down
 
@@ -45,7 +45,7 @@ keyboard\_arrow\_down
 
 ### Standard side sheet color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![4 color roles applied to a side sheet in light and dark themes.](https://lh3.googleusercontent.com/LqFhUoIZJCxI-xrg-swaOn2vwlyswPNvs2JQfS2oNHhVms4yvkJE1tCBaFLUxKH_B-NWUoZ9Wo5QF2x437thBA0uzYeoBxeJ2NMWg2jmqbgL=s0)
 
@@ -87,7 +87,7 @@ Side sheet padding and size measurements
 
 ### Modal side sheet color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview).
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md).
 
 ![4 color roles applied to a modal side sheet in light and dark themes.](https://lh3.googleusercontent.com/MCbwK4pOf-VBkCt3qXBvBVReNnD3TzDuwLJdajh_CvxUT_TN3_5Ho5v3QyV0SHhv5IHbZP0V5UbCSy8rXaQFJ79cocKme0PSXGWzZT5HUvU=w40)
 

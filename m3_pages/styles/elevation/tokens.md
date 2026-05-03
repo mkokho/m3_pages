@@ -6,7 +6,7 @@ Elevation is the distance between two surfaces on the z-axis
 
 ## Tokens
 
-Elevation levels can be implemented with tokens. Surface tint color is deprecated. Use elevation level tokens (0–5) instead. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Elevation levels can be implemented with tokens. Surface tint color is deprecated. Use elevation level tokens (0–5) instead. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Elevation arrow\_drop\_down
 

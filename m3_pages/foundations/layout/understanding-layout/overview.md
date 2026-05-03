@@ -34,8 +34,8 @@ Layout is the visual arrangement of elements on the screen
 
 ## What’s new
 
-- When creating new layouts, begin from a [canonical layout](../../../m3/pages/canonical-layouts/overview) rather than a layout grid. This helps ensure that your layouts can scale across devices and form factors.
-- [Window size classes](../../../m3/pages/applying-layout/window-size-classes) are opinionated breakpoints. Material Design recommends you create layouts for five window size classes: 
+- When creating new layouts, begin from a [canonical layout](../canonical-layouts/overview.md) rather than a layout grid. This helps ensure that your layouts can scale across devices and form factors.
+- [Window size classes](../applying-layout/window-size-classes.md) are opinionated breakpoints. Material Design recommends you create layouts for five window size classes: 
 
   compact, 
 

@@ -32,7 +32,7 @@ Source: https://m3.material.io/components/progress-indicators/specs
 
 ## Tokens & specs
 
-Browse the component elements, attributes, tokens, and their values. [View baseline tokens](../../m3/pages/progress-indicators/specs#c6f484b0-2bc6-4d37-bd75-f859a35a3594)
+Browse the component elements, attributes, tokens, and their values. [View baseline tokens](./specs.md#c6f484b0-2bc6-4d37-bd75-f859a35a3594)
 
 Progress Indicator - Common arrow\_drop\_down
 

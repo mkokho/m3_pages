@@ -55,7 +55,7 @@ With built-in code export, the [Material Theme Builder](https://goo.gle/material
 
 The Material Theme Builder creates **color and type tokens** that can be exported into multiple code formats. Tokens are an important tool for creating and maintaining a source of truth for  values. The Figma plugin creates tokens in the form of Figma styles to connect with existing mock-ups, brand  guides, and even design systems.
 
-[Material tokens](https://github.com/material-foundation/material-tokens) are ready to use in formatted theme files, including [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp). A DSP is a cross-platform file format that represents design system information. [Learn more about design tokens](../m3/pages/design-tokens/overview).
+[Material tokens](https://github.com/material-foundation/material-tokens) are ready to use in formatted theme files, including [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp). A DSP is a cross-platform file format that represents design system information. [Learn more about design tokens](./design-tokens/overview.md).
 
 ![Example of the start screen for the Material Theme Builder Figma plugin. The plugin UI is shown alongside a range of purple tones as an example of a color palette that can be generated.](https://lh3.googleusercontent.com/7geIR4r6fJRbDja4YLYpoyn2BiZtjp_s-MJvrJZXNGKRw8mUt7GCeBj3BeCaViBz8S89DA6zq5P835YGXGVT3q-0iQoTwjdJEGLBNt50tkpF=w40)
 
@@ -67,7 +67,7 @@ The Material Theme Builder helps create custom color experiences, whether you're
 
 In the Material Theme Builder you can identify and input one or more color to define your color scheme. Adding a second or third color is optional and will influence the resulting color scheme.
 
-Mapping your app colors to the custom scheme's source colors aligns the roles and logic of [dynamic color in M3](../m3/pages/dynamic-color/overview).
+Mapping your app colors to the custom scheme's source colors aligns the roles and logic of [dynamic color in M3](../components/tabs/overview.md).
 
 **Brand colors** can be added to the tool as a single-use color or as a complete brand palette with a range of tones that lend consistent, comprehensive color expression across your app.
 
@@ -87,7 +87,7 @@ Depending on the purpose in a UI, key colors are assigned roles that map to elem
 - Neutral
 - Neutral Variant
 
-An input color generates a tonal palette that's used to fill the range of color roles needed, such as primary, on-primary, and primary container. [Learn more about using color roles](../m3/pages/color-roles)
+An input color generates a tonal palette that's used to fill the range of color roles needed, such as primary, on-primary, and primary container. [Learn more about using color roles](../components/tabs/overview.md)
 
 ![A mobile UI is seen with diagram labels showing where specifc elements have been mapped to specific colors, such as on-surface, or primary.](https://lh3.googleusercontent.com/kqa_LNBbbacJHfLL5ADPfJIcqHAeVIz3KMqy2PFGFHqQz5ir51Ww0APxKJt5J7EfRehqidtv4kxSlvmx5Je3A5jmH_y_jXbHWGIwsGyTINBP=w40)
 

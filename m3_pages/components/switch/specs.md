@@ -12,7 +12,7 @@ Switches toggle the selection of an item on or off
 
 ## Tokens & specs
 
-Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Switch arrow\_drop\_down
 
@@ -46,7 +46,7 @@ keyboard\_arrow\_down
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![6 color roles of a switch in light and dark themes.](https://lh3.googleusercontent.com/0fyIBhV6SPL8tV1Vk7CtpveaYQ1-am9tJ41EVA-QaywC5FoZ6CmY7Cevkh6gG8HklU2Ojaj4r0d4Po-J0MEVg2VLPzYo1R2FUey0lcFBTu-0=s0)
 
@@ -69,7 +69,7 @@ The text label uses **on surface**. Supporting text may use **on surface varian
 
 ## States
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ![5 states of a switch shown in light and dark themes.](https://lh3.googleusercontent.com/PnpKeMQPpfXYol0STNFLWY--Fet6iOSy9Skw-SxaiktaHsBbPbHkXNl2RX7aLYHsrUbIN8LwPshZzNEQF4AM1vqbj70iiVmdzzvwC69U64M=w40)![5 states of a switch shown in light and dark themes.](https://lh3.googleusercontent.com/PnpKeMQPpfXYol0STNFLWY--Fet6iOSy9Skw-SxaiktaHsBbPbHkXNl2RX7aLYHsrUbIN8LwPshZzNEQF4AM1vqbj70iiVmdzzvwC69U64M=s0)
 
@@ -79,7 +79,7 @@ States are visual representations used to communicate the status of a component 
 4. Pressed
 5. Disabled
 
-[State specs are in the token module above](../../m3/pages/switch/specs#3708644e-b4d7-4237-bb0a-7afeeae4a9b0)
+[State specs are in the token module above](./specs.md#3708644e-b4d7-4237-bb0a-7afeeae4a9b0)
 
 ## Measurements
 
@@ -104,7 +104,7 @@ Pressed switches with icons
 | Track | Height | 32dp |
 | Width | 52dp |
 | Outline width | 2dp |
-| Shape | [md.sys.shape.corner.full](../../m3/pages/shape/corner-radius-scale#56e2bfb5-4bec-49bd-b3a3-bd822c8ab88e) |
+| Shape | [md.sys.shape.corner.full](../../styles/shape/corner-radius-scale.md#56e2bfb5-4bec-49bd-b3a3-bd822c8ab88e) |
 | Handle | Height (unselected) | 16dp |
 | Height - with icon | 24dp |
 | Height (selected) | 24dp |
@@ -113,9 +113,9 @@ Pressed switches with icons
 | Width - with icon | 24dp |
 | Width (selected) | 24dp |
 | Width (pressed) | 28dp |
-| Shape | [md.sys.shape.corner.full](../../m3/pages/shape/corner-radius-scale#56e2bfb5-4bec-49bd-b3a3-bd822c8ab88e) |
+| Shape | [md.sys.shape.corner.full](../../styles/shape/corner-radius-scale.md#56e2bfb5-4bec-49bd-b3a3-bd822c8ab88e) |
 | State layer | Size | 40dp |
-| Shape | [md.sys.shape.corner.full](../../m3/pages/shape/corner-radius-scale#56e2bfb5-4bec-49bd-b3a3-bd822c8ab88e) |
+| Shape | [md.sys.shape.corner.full](../../styles/shape/corner-radius-scale.md#56e2bfb5-4bec-49bd-b3a3-bd822c8ab88e) |
 | Target | Size | 48dp |
 | Icon | Size (selected) | 16dp |
 | Icon | Size (unselected) | 16dp |

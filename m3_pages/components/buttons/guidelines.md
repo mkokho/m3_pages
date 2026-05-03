@@ -70,7 +70,7 @@ A button group is a collection of buttons that relate to each other and can resp
   
 In some cases, there are primary and secondary actions within a button group. Buttons with primary actions should have a higher visual emphasis through size, color, or shape.
 
-[More on button groups](../../google-material-3/pages/button-groups/overview)
+[More on button groups](../button-groups/overview.md)
 
 ![Audio app with play, next, and back buttons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm3t81e1q-9.png?alt=media&token=e2b715eb-67a4-43b8-91c6-9636566aa8e5)
 
@@ -278,7 +278,7 @@ The text button  should be used for the lowest priority actions, especially when
 
 They should be placed on simple backgrounds, not visually prominent backgrounds such as images or videos. The container isn’t visible until someone interacts with the button.
 
-Don’t underline the text button. Use hyperlinked body text instead to emphasize links. [More on hyperlinks](../../m3/pages/typography/applying-type#24856f70-f759-45df-a06c-92018f286083)
+Don’t underline the text button. Use hyperlinked body text instead to emphasize links. [More on hyperlinks](../../styles/typography/applying-type.md#24856f70-f759-45df-a06c-92018f286083)
 
 ![Example calendar screen with 2 text buttons and 1 split button.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmmm0q822-35.png?alt=media&token=5003669f-ec2e-46dc-980b-729d0e7b997d)
 

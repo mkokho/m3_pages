@@ -20,7 +20,7 @@ The scale is a range of contrasting styles that support the needs of various pro
 
 ## Type scale tokens
 
-Each of the 30 styles has a single token that captures all the default properties. Tokens are separated into the **baseline** and **emphasized** sets. Each axis and property, such as font, line height, size, tracking, and weight, also has an individual token for greater customization. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Each of the 30 styles has a single token that captures all the default properties. Tokens are separated into the **baseline** and **emphasized** sets. Each axis and property, such as font, line height, size, tracking, and weight, also has an individual token for greater customization. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ### Baseline type  tokens
 
@@ -52,7 +52,7 @@ keyboard\_arrow\_down
 
 ## Emphasized type styles
 
-The M3 type scale has 15 emphasized type styles. Use both baseline and emphasized type styles together to achieve expressive experiences. Material recommends using emphasized styles for selection, actions, headlines, and other [editorial treatments](../../m3/pages/typography/editorial-treatments#19e5796e-9db8-4687-b20c-c6cee77e7df8).
+The M3 type scale has 15 emphasized type styles. Use both baseline and emphasized type styles together to achieve expressive experiences. Material recommends using emphasized styles for selection, actions, headlines, and other [editorial treatments](./editorial-treatments.md#19e5796e-9db8-4687-b20c-c6cee77e7df8).
 
 ### Emphasized type  tokens
 

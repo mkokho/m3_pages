@@ -95,7 +95,7 @@ List-detail canonical layouts use the same pane guidance as all single and two-p
 
 - Back button: Appears in detail view only for single-pane layouts
 - Selected state: Appears only in list view for two-pane layouts
-- Visual focus: Use [explicit and implicit grouping](../../../m3/pages/understanding-layout/spacing#efb4667d-f942-4019-8cd8-1fcb366e392d) to direct focus in two-pane layouts
+- Visual focus: Use [explicit and implicit grouping](../understanding-layout/spacing.md#efb4667d-f942-4019-8cd8-1fcb366e392d) to direct focus in two-pane layouts
 
 ![A two-pane layout shows the selected list item, while a single pane layout uses a Back button to return to the list.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flxygv3fn-8.png?alt=media&token=c7e6d4e6-dfdc-4075-81b1-95517c08f3b6)
 

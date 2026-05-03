@@ -103,7 +103,7 @@ Cards can contain a headline, subhead, supporting text, media, and actions
 
 ### Dividers
 
-[Dividers](../../m3/pages/divider/specs) can separate regions in cards or indicate areas of a card that can expand.
+[Dividers](../divider/specs.md) can separate regions in cards or indicate areas of a card that can expand.
 
 ![A divider running the entire width of the card.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwuk5dl8-14.png?alt=media&token=167906e1-0d38-4e3b-9b6a-ae34e30896c8)
 
@@ -269,7 +269,7 @@ Cards displayed together in a horizontal row or carousel
 
 ## Adaptive design
 
-As cards scale to adapt to different [window size classes](../../m3/pages/applying-layout/window-size-classes), their position and alignment can also change.
+As cards scale to adapt to different [window size classes](../../foundations/layout/applying-layout/window-size-classes.md), their position and alignment can also change.
 
 Cards and their elements can align left, right, or center as the layout scales.
 
@@ -323,7 +323,7 @@ Certain devices or user contexts require different components to meet platform e
 
 ### Expanding
 
-Cards can use a [container transform](../../m3/pages/motion-transitions/transition-patterns#b67cba74-6240-4663-a423-d537b6d21187) transition pattern to reveal additional content. Reserve this pattern for hero moments that are meant to be expressive.
+Cards can use a [container transform](../../styles/motion/transitions/transition-patterns.md#b67cba74-6240-4663-a423-d537b6d21187) transition pattern to reveal additional content. Reserve this pattern for hero moments that are meant to be expressive.
 
 A card expands to fill the full screen using a parent-child transition
 
@@ -337,7 +337,7 @@ Don’t scroll within a card to reveal information
 
 ### Navigation
 
-Cards can use a [forward and backward](../../m3/pages/motion-transitions/transition-patterns#df9c7d76-1454-47f3-ad1c-268a31f58bad) transition pattern to navigate between screens at consecutive levels of hierarchy. This pattern has a simpler motion  compared to container transform, which makes it suitable for common navigation transitions.
+Cards can use a [forward and backward](../../styles/motion/transitions/transition-patterns.md#df9c7d76-1454-47f3-ad1c-268a31f58bad) transition pattern to navigate between screens at consecutive levels of hierarchy. This pattern has a simpler motion  compared to container transform, which makes it suitable for common navigation transitions.
 
 Cards can use a forward and backward transition pattern to navigate between screens
 

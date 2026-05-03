@@ -257,7 +257,7 @@ A navigation bar in horizontal orientation keeps the same spacing between destin
 
 ### Navigation
 
-When selecting a navigation bar item not currently selected, the product navigates to that destination’s screen using a [top level](../../m3/pages/motion-transitions/transition-patterns#f852afd2-396f-49fd-a265-5f6d96680e16) transition pattern. It can either remember where you left off, or reset to the default view.
+When selecting a navigation bar item not currently selected, the product navigates to that destination’s screen using a [top level](../../styles/motion/transitions/transition-patterns.md#f852afd2-396f-49fd-a265-5f6d96680e16) transition pattern. It can either remember where you left off, or reset to the default view.
 
 1. **Preserve state**: If someone has interacted with this destination, it returns to their scroll position, current tab, and in-line search status.
 2. **Reset state**: Any prior user interactions are reset, including scroll position, tab selection, and in-line search.
@@ -289,6 +289,6 @@ The active indicator animation should only apply on one axis to better represent
 
 An active indicator appears when the item is selected.
 
-When a destination is tapped, the destination screens use a [top level](../../m3/pages/motion-transitions/transition-patterns#f852afd2-396f-49fd-a265-5f6d96680e16) transition pattern. In addition, the icon becomes filled and the active indicator expands from the center of the icon.
+When a destination is tapped, the destination screens use a [top level](../../styles/motion/transitions/transition-patterns.md#f852afd2-396f-49fd-a265-5f6d96680e16) transition pattern. In addition, the icon becomes filled and the active indicator expands from the center of the icon.
 
 Tapping a destination uses a top level transition pattern

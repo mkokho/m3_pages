@@ -15,7 +15,7 @@ App bars are placed at the top of the screen to help people navigate through a p
 
 ### Baseline variants
 
-The baseline M3 **medium** and **large** app bars are no longer recommended in M3 Expressive, and should be replaced with **medium flexible** and **large flexible** app bars, which are similar visually, but have multi-line support, a shorter height, and can contain a wide variety of elements, like images. [Jump to baseline app bar specs](../../m3/pages/app-bars/specs#faec9baf-140f-41dc-8b88-2792e90d9d5d)
+The baseline M3 **medium** and **large** app bars are no longer recommended in M3 Expressive, and should be replaced with **medium flexible** and **large flexible** app bars, which are similar visually, but have multi-line support, a shorter height, and can contain a wide variety of elements, like images. [Jump to baseline app bar specs](./specs.md#faec9baf-140f-41dc-8b88-2792e90d9d5d)
 
 ![2 baseline app bar variants, medium and large.](https://lh3.googleusercontent.com/4jbnUGWxs16YDyExE7HfAtikzuBERI0C_O6PT00TGtEezDt5SyYIv-V3mUOU_fOoUYk9hJ4uowBcG1c5bR86ChJqq1RQIhbX8Yp4YTMNnBP7CA=s0)
 
@@ -49,7 +49,7 @@ Text labels, including supporting text, can be aligned to the leading edge or ce
 
 ## Tokens & specs
 
-Select a token set to view in the table's menu. App bar token sets are organized into a common token set, and size-specific tokens. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Select a token set to view in the table's menu. App bar token sets are organized into a common token set, and size-specific tokens. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 App bar - Common arrow\_drop\_down
 
@@ -176,7 +176,7 @@ The medium flexible and large flexible app bars hug the text contents, so they a
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 All app bars share the same color roles. On scroll, the container changes color to **surface container**.
 
@@ -255,7 +255,7 @@ Medium and large app bars have the same elements:
 
 ### Tokens & specs
 
-Select a token set to view in the table's menu. Baseline app bar token sets are organized into medium, large, and older baseline token sets. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Select a token set to view in the table's menu. Baseline app bar token sets are organized into medium, large, and older baseline token sets. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 App bar - Size - Medium (baseline) arrow\_drop\_down
 
@@ -293,7 +293,7 @@ Aa
 
 ### Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![4 color roles of the medium top app bar in light and dark scheme.](https://lh3.googleusercontent.com/a4e5waYXECuiUcxK2FX7nimSG7veFWYYiISRWkojPDXodUOqnLT2npaBpJhmc1AUBfOr9G3hcZ4TmUi9jLCRUdP0IqDw5pTdSCFYgc-zXcs=w40)
 

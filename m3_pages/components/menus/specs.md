@@ -17,7 +17,7 @@ Use vertical menus for a more expressive look and feel, including rounded corner
 
 In M3 Expressive, 
 
-baseline menu is still available to use, but doesn’t have the latest shapes, color styles, selection states, and motion. [See baseline menu specs](../../m3/pages/menus/specs#a80df2f9-8610-4ce0-b3a3-b9ee749d5c98)
+baseline menu is still available to use, but doesn’t have the latest shapes, color styles, selection states, and motion. [See baseline menu specs](./specs.md#a80df2f9-8610-4ce0-b3a3-b9ee749d5c98)
 
 ![A baseline menu variant with square corners and standard colors.](https://lh3.googleusercontent.com/I8AoQRDKlS29lSyVHYVs4-2PKXVQUXC_wlPJx5IT1hWiga7bEC7DZUlNH_OEoICZN5hCf8ii45dpApcg23TY6JhadwCluvznISW6HNfGKHUc=s0)
 
@@ -154,9 +154,9 @@ Vertical menus color roles used for light and dark themes:
 
 ## States
 
-States are visual representations used to communicate the status of a component or an interactive element. [More on interaction states](../../m3/pages/interaction-states/overview)  
+States are visual representations used to communicate the status of a component or an interactive element. [More on interaction states](../tabs/overview.md)  
   
-Shape morphing in vertical menus creates an expressive active state. As focus moves between submenus, the corner shape changes to highlight the active menu. [More on menu focus](../../m3/pages/menus/guidelines#7cc1d01b-a454-48c7-8306-e60347ffd17f)
+Shape morphing in vertical menus creates an expressive active state. As focus moves between submenus, the corner shape changes to highlight the active menu. [More on menu focus](./guidelines.md#7cc1d01b-a454-48c7-8306-e60347ffd17f)
 
 ![6 vertical menu states in light and dark themes.](https://lh3.googleusercontent.com/9y63FlzafeIP9Tth6PTh9NKO6wwrYUZqCs6PTUKqIQPfYd7apIWRsvYx91maUHu43E0GoIkm7nDVC_DZA6K-15ItBpV-1KJ550QZCGSHlzo8=w40)
 
@@ -264,7 +264,7 @@ Baseline menu color roles used for light and dark themes:
 4. Focused
 5. Pressed
 
-[State specs are in the token module above](../../m3/pages/menus/specs#c811d2fa-469a-4e4e-9d9f-0f535c5c9b4c)
+[State specs are in the token module above](./specs.md#c811d2fa-469a-4e4e-9d9f-0f535c5c9b4c)
 
 ### Measurements
 

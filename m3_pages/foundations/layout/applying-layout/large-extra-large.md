@@ -80,6 +80,6 @@ Large and extra-large layouts will need to transition dynamically to a smaller l
 - Multi-window mode is initiated
 - A free-form window is resized
 
-Special attention to typographic elements such as [line length](../../../m3/pages/typography/applying-type) to ensure readability must be considered on large and extra-large layouts.
+Special attention to typographic elements such as [line length](../../../styles/typography/applying-type.md) to ensure readability must be considered on large and extra-large layouts.
 
 ![Two paned layout of an email app in an expanded window class layout.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fly74holg-9.png?alt=media&token=4225d9ca-e76d-47da-8d6c-6cbc6a0e9ae7)

@@ -19,7 +19,7 @@ This example meditation app uses a static scheme created from its brand colors.
 
 1. Open your Figma design file. Select the **Actions** menu (or Ctrl/Command+K).
 2. Find the [Material Theme Builder plugin](https://www.figma.com/community/plugin/1034969338659738588/material-theme-builder) and select **Run**. This will open a plugin dialog showing the default color scheme, including Core colors and Extended colors.
-3. Open the plugin's **Settings** (gear icon at lower right of dialog) and select the checkboxes for both **New theme color diagram** and **Generate State Layers**. This will create a handy visualization of your branded color scheme and also generate state layers essential for designing interactions. [Learn more about state layers](../../../m3/pages/interaction-states/state-layers)
+3. Open the plugin's **Settings** (gear icon at lower right of dialog) and select the checkboxes for both **New theme color diagram** and **Generate State Layers**. This will create a handy visualization of your branded color scheme and also generate state layers essential for designing interactions. [Learn more about state layers](../../../foundations/interaction/states/state-layers.md)
 4. Navigate out of settings.
 5. Open the Current Theme dropdown at the top of the dialog and select **+ ADD NEW THEME.**
 6. Give your theme a short name (this name will become the prefix of your color roles in Figma).
@@ -29,7 +29,7 @@ This example meditation app uses a static scheme created from its brand colors.
 
 This will generate a full custom color scheme. You can use the scheme as-is or repeat steps 5 and 6 to set custom sources for the Secondary, Tertiary, Error, Neutral, and Neutral Variant colors.
 
-**Want to further adjust your brand color scheme? Check out**[**Advanced customizations**](../../../m3/pages/advanced/overview)
+**Want to further adjust your brand color scheme? Check out**[**Advanced customizations**](../advanced/overview.md)
 
 ## Design with brand colors
 
@@ -39,7 +39,7 @@ This will generate a full custom color scheme. You can use the scheme as-is or r
 2. Copy your scheme's color diagram and paste it into the file (this makes the color roles available in the Design panel on the right of the screen as part of your local styles).
 3. Apply your brand color roles to custom components and UI elements by hovering on the element's color property in the Design panel on the right of the screen and selecting the **Style** icon (four dots). This opens a selection dialog.
 4. Search for your theme's name to see your brand color roles.
-5. Select the brand color role that most closely matches the use case and intent (see [Color roles](../../../m3/pages/color-roles) for more information on what color to use where).
+5. Select the brand color role that most closely matches the use case and intent (see [Color roles](../../../components/tabs/overview.md) for more information on what color to use where).
 6. Repeat until all custom elements are using your brand color roles.
 
 ### Apply brand colors to an existing file or M3 Design Kit components
@@ -60,10 +60,10 @@ This will generate a full custom color scheme. You can use the scheme as-is or r
 2. Any colors that don't start with your theme name need to be replaced with a corresponding brand color.
 3. Hover on a non-brand color row in the Design panel and select the **Style** icon (four dots). This opens a selection dialog.
 4. Search for your theme name to see the brand color roles.
-5. Select the brand color role that most closely matches that color's use case (see [Color roles](../../../m3/pages/color-roles) for more information on what color to use where) and select **Use ** to apply it to the selected objects.
+5. Select the brand color role that most closely matches that color's use case (see [Color roles](../../../components/tabs/overview.md) for more information on what color to use where) and select **Use ** to apply it to the selected objects.
 6. Repeat until all non-brand colors in the file have been replaced with brand color roles.
 
-**Need to make adjustments to the scheme? Check out** [**Advanced customizations**](../../../m3/pages/advanced/overview)
+**Need to make adjustments to the scheme? Check out** [**Advanced customizations**](../advanced/overview.md)
 
 ## Develop with brand colors
 

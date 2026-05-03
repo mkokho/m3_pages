@@ -109,7 +109,7 @@ A navigation rail can expand to reveal more destinations
 
 The container of the navigation rail is ideal for anchoring the FAB to the top of a screen, placing the app’s key action above navigation destinations.  
   
-When nested within another component, such as the navigation rail, the FAB's resting elevation should be [level 0](../../m3/pages/elevation/applying-elevation).
+When nested within another component, such as the navigation rail, the FAB's resting elevation should be [level 0](../../styles/elevation/applying-elevation.md).
 
 ![Navigation rail with a FAB button at the top of the screen.](https://lh3.googleusercontent.com/oYiKoFrv-NTEJMP1NoGGpnlw0RTHmfpGWDm7KmDgeKzvpXq6tMZvMjBzUcZkXpnEK2Lb_cbeWRkwS4i4RGn1zfW0N4RcwSGVgltbcvmD6vY=w40)
 
@@ -244,7 +244,7 @@ Expanded navigation rails can open from menu buttons on mobile
 
 ## Adaptive design
 
-For more, see [adaptive design](../../m3/pages/adaptive-design).
+For more, see [adaptive design](../tabs/overview.md).
 
 ### Resizing
 
@@ -288,7 +288,7 @@ Elevating the rail to level 1 creates visual distinction between the rail and ho
 
 ### Selection
 
-When a destination is tapped, the destination screen uses a [top level](../../m3/pages/motion-transitions/transition-patterns#f852afd2-396f-49fd-a265-5f6d96680e16) transition pattern. In addition, the icon becomes filled and the active indicator expands from the center of the icon.
+When a destination is tapped, the destination screen uses a [top level](../../styles/motion/transitions/transition-patterns.md#f852afd2-396f-49fd-a265-5f6d96680e16) transition pattern. In addition, the icon becomes filled and the active indicator expands from the center of the icon.
 
 Tapping a destination uses a top level transition pattern
 
@@ -299,6 +299,6 @@ On Android, a gesture called predictive back allows people to swipe left or ri
 - Previous screen is revealed in a preview to signal the destination
 - Predictive back only applies to the **modal expanded** navigation rail.
 
-A list of compatible components is available on the [gestures page](../../m3/pages/gestures).
+A list of compatible components is available on the [gestures page](../tabs/overview.md).
 
 The nav rail pops off the edge of the window during the predictive back gesture

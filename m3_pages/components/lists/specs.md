@@ -18,7 +18,7 @@ In M3 Expressive,
 
 baseline lists are still available to use, but don’t have the latest visual , selection treatment, and slot functionality.
 
-[See baseline list specs](../../m3/pages/lists/specs#94cf7f4d-fe29-4fab-9aae-a99e9b754329)
+[See baseline list specs](./specs.md#94cf7f4d-fe29-4fab-9aae-a99e9b754329)
 
 ![3 baseline list items with square corners.](https://lh3.googleusercontent.com/N4Dqm-y0qh8NW2KuKAqcRAmf_oyfUyeY2HgR3cHvoCwL-cM6j7fuAg97gGrX73Rs25WTv-POEG1ZSlXeyFPRkjhexmngaaSJMDJV0azeZXhV=s0)
 
@@ -64,7 +64,7 @@ A **multi-select list**
 
 #### Expand
 
-On Android, lists can [expand and collapse](../../m3/pages/lists/guidelines#90a236ee-b587-4361-8911-34006f25a6f1).
+On Android, lists can [expand and collapse](./guidelines.md#90a236ee-b587-4361-8911-34006f25a6f1).
 
 A list can **expand** to include multiple items
 
@@ -77,7 +77,7 @@ A list can **expand** to include multiple items
 
 ## Tokens & specs
 
-Use the table's menu to select a token set. The **common** set combines baseline tokens with new expressive shapes and sizes. The **expand** set has tokens for the expand interaction. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Use the table's menu to select a token set. The **common** set combines baseline tokens with new expressive shapes and sizes. The **expand** set has tokens for the expand interaction. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 List - Common arrow\_drop\_down
 
@@ -135,7 +135,7 @@ Slots are not accessible by default. Consider the following:
 - Target size must be at least 48x48dp
 - Don't add interactive elements that make the list item difficult to navigate, especially for people using screen readers
 
-[More on required accessibility guidelines](../../m3/pages/lists/accessibility#538f23f7-689c-4516-bfc8-5f6933a43f5e)
+[More on required accessibility guidelines](./accessibility.md#538f23f7-689c-4516-bfc8-5f6933a43f5e)
 
 ![A diagram with leading, content, and trailing slots.](https://lh3.googleusercontent.com/xpDca9BbXlTiv20zpU4gfBwt6MkKXaY5ZNLRcxAljGC5QsVXgH3mKaHiaEI6okSs2gUhacnLEdM2zCIC5raKpqBZl476yJ8Qchx5bxvt6Kywwg=w40)
 
@@ -194,7 +194,7 @@ Don't use multiple selection interactions in one item
 
 ## Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![10 list element color roles in light mode and dark mode.](https://lh3.googleusercontent.com/ARd2jFHJp7QY8tjQqnTd9qITF5sD6WqWXpapVsC25_-ej0okbpB1kkGYkJ8V7jSl-iFv0cW18ZGseOUM3x1CqZflXxkdU7T4znEQ0bJ3qCvx=w40)
 
@@ -213,7 +213,7 @@ List color roles used for light and dark themes:
 
 ## States
 
-States are visual representations used to communicate the status of a component or an interactive element. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or an interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ### Default list items
 
@@ -245,7 +245,7 @@ List item alignment, padding, and size measurements. The icon button height is d
 
 ## List (baseline)
 
-The baseline list variant is available and continues to work in existing products. However, the [expressive list](../../m3/pages/lists/specs#ebf87f58-d5bf-4cb5-a856-d2bb104eec4d) variant is recommended for new designs.
+The baseline list variant is available and continues to work in existing products. However, the [expressive list](./specs.md#ebf87f58-d5bf-4cb5-a856-d2bb104eec4d) variant is recommended for new designs.
 
 ### Tokens & specs
 
@@ -279,7 +279,7 @@ keyboard\_arrow\_down
 
 ### Color
 
-Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![9 baseline list element color roles in light and dark mode.](https://lh3.googleusercontent.com/c7bwcYNZe1HFiYuQW2r1uEEhDr_8PMPrgH911ney_P2AQnEZ64a34YKs47JbQnNjPbrtMfhw0FA7oQ3T1Euqx9HQ45ItoppUNl_7LUN5dX8=w40)
 

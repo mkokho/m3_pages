@@ -38,7 +38,7 @@ Use size and position to establish relationships among content elements.
   
 Feed items should reflow when the amount of available space changes, such as rotating or unfolding a device, or entering a multi-window mode.   
   
-The order of items is determined by their position. Learn more about [cards responsive layout guidance](../../../m3/pages/cards/guidelines#99e8d17d-5bde-4bb9-8784-0ca403325b10).
+The order of items is determined by their position. Learn more about [cards responsive layout guidance](../../../components/cards/guidelines.md#99e8d17d-5bde-4bb9-8784-0ca403325b10).
 
 ![The graphic for the lead article is prominent on a news feed with 2 columns.
 ](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flxydpeoi-4.png?alt=media&token=18ea64f6-5ee3-4904-bfe0-2c20fe73db83)
@@ -73,4 +73,4 @@ The number of columns increased from two to three in the expanded window size cl
 
 ## Behavior
 
-Feed items should reflow when the amount of available space changes, such as rotating or unfolding a device, or entering a multi-window mode. The order of items is determined by their position. Learn more about [cards responsive layout guidance](../../../m3/pages/cards/guidelines#99e8d17d-5bde-4bb9-8784-0ca403325b10).
+Feed items should reflow when the amount of available space changes, such as rotating or unfolding a device, or entering a multi-window mode. The order of items is determined by their position. Learn more about [cards responsive layout guidance](../../../components/cards/guidelines.md#99e8d17d-5bde-4bb9-8784-0ca403325b10).

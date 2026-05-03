@@ -12,7 +12,7 @@ Source: https://m3.material.io/components/extended-fab/specs
 
 ### Baseline variants
 
-The baseline extended FAB is no longer recommended in the M3 expressive update. Use a small extended FAB; the type  was updated from **label large** to **title medium**, and the inner padding was reduced. [View baseline extended FAB specs](../../m3/pages/extended-fab/specs#01e114e6-8c3d-4d39-9376-65aa5c10e01b)
+The baseline extended FAB is no longer recommended in the M3 expressive update. Use a small extended FAB; the type  was updated from **label large** to **title medium**, and the inner padding was reduced. [View baseline extended FAB specs](./specs.md#01e114e6-8c3d-4d39-9376-65aa5c10e01b)
 
 ![1 baseline extended FAB.](https://lh3.googleusercontent.com/pcW-KzjKYIkI08HsYSKw2bRaDPQgikxhsVRQWVzMTObgMoJCv-Mx_IIXFzbhIDUXMXq-MaTXPrPWHipLOx_6LBdmJSC9UwJDsmg-rL9oxDU=s0)
 
@@ -89,7 +89,7 @@ md.comp.extended-fab.small.trailing-space content\_copy
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ### Color styles
 
@@ -116,7 +116,7 @@ Extended FABs should no longer use surface color styles. They’re still availab
 
 ## States
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 When using a non-default color mapping for extended FABs, make sure the state layer color is the same as the icon color. For example, the state layer color for primary mapping should be md.sys.color.primary.
 
@@ -187,7 +187,7 @@ keyboard\_arrow\_down
 
 ### Baseline colors
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![3 baseline extended FAB color roles.](https://lh3.googleusercontent.com/Z_RWOWfuQ9kdznoWiL_ox5ol2kDw2Th205LV2FDuX-rbxH3Rb1FZnDcgdSThvYwkuetWn9d2z62KhvWafnAuQ0e_Pwpt99WKFDwe8X6HegxGxA=w40)
 
@@ -207,7 +207,7 @@ Extended FABs can use different combinations of container and icon colors
 
 ### Baseline states
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ![4 states of baseline extended FAB.](https://lh3.googleusercontent.com/9NboEFx6AmMw3XNkz0ES2hdV0_-I3cQ50CSV64-QsxrOzwZO38CynMks9fxg3wvvq6GSZAQnWv1R-opDSxGpXn1O9g9PHbkKu-ah-ppXsEXa=w40)
 

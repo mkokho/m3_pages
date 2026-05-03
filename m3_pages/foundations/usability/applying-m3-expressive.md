@@ -75,7 +75,7 @@ Shape:
 - Signals interaction
 - Sets emotional tone
 
-Every shape can morph into another in the set. Shape morph is also applied when interacting with components like [buttons](../../m3/pages/common-buttons/specs#e9ec15a7-7a8d-41f9-81d1-541c2dc33643). Shape morph:
+Every shape can morph into another in the set. Shape morph is also applied when interacting with components like [buttons](../../components/tabs/specs.md#e9ec15a7-7a8d-41f9-81d1-541c2dc33643). Shape morph:
 
 - Communicates interaction states, like selected, tap, swipe, scroll, release, long press
 - Emphasize actions in progress

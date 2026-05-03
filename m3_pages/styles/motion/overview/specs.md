@@ -12,7 +12,7 @@ The motion physics system is available on Jetpack Compose and MDC-Android, and c
 | --- | --- | --- |
 | Jetpack Compose | Available | Use built-in components and spring tokens. |
 | MDC-Android | Available. Not yet added to components. | Use built-in spring tokens. |
-| Web | Compatible | Use springs when possible, otherwise use curves that mimic the springs for animations without interruptions or gestures. [View web conversion table](../../../m3/pages/motion-overview/specs#e3e4f10b-6314-47b7-9051-988066081fa0) |
+| Web | Compatible | Use springs when possible, otherwise use curves that mimic the springs for animations without interruptions or gestures. [View web conversion table](../../../components/tabs/specs.md#e3e4f10b-6314-47b7-9051-988066081fa0) |
 
 ## Tokens and specs
 

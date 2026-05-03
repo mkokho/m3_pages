@@ -71,7 +71,7 @@ After an element is focused, a person should be able to navigate within the list
 
 All list items must be able to be activated using the **Space** or **Enter** key.    
   
-[More on single-action lists](../../m3/pages/lists/guidelines#3e45f939-457a-44a8-8551-a2354c521d26)
+[More on single-action lists](./guidelines.md#3e45f939-457a-44a8-8551-a2354c521d26)
 
 ![List item with focus indicator and filled checkbox, selected using the Space or Enter key.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmif21ldt-10.png?alt=media&token=36809b25-a375-4a87-9942-b8f1dda63fa4)
 
@@ -89,7 +89,7 @@ The list item as a whole isn't selectable; only the individual actions are.
 - Move between between all focusable elements in the list using the **Up**, **Down**, **Left**, and **Right** arrow keys
 - Activate a focused element using **Space** or **Enter**
 
-[More on multi-action lists](../../m3/pages/lists/guidelines#db85439b-0e67-43b0-a2dc-61395738af64)
+[More on multi-action lists](./guidelines.md#db85439b-0e67-43b0-a2dc-61395738af64)
 
 ![The first element in a multi-action list is focused automatically.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmi8um9bl-11-VQA.png?alt=media&token=6a474f8b-d3ef-4f9f-b356-3c5f87f3662f)
 
@@ -126,7 +126,7 @@ Accessibility labels are used with assistive devices like screen readers.
 
 The accessibility label for a list item is typically the same as the **label text** and **supporting text**.
 
-Some labels, roles, and states are [dependent on platform](../../m3/pages/lists/accessibility#09e32b7d-78a1-45c1-be12-4c6646cfe1d1).
+Some labels, roles, and states are [dependent on platform](./accessibility.md#09e32b7d-78a1-45c1-be12-4c6646cfe1d1).
 
 ![List item selected to show label of “Bread, sourdough or wheat”.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmif3ecf9-16.png?alt=media&token=f3d78d78-8ba2-402e-a069-ca0552ca6868)
 
@@ -166,8 +166,8 @@ When selectable, the role **Checkbox** applies to the entire list item on Jetpac
 
 On MDC-Android, components contained within the list should be labeled according to that component’s specific guidelines:
 
-- [Checkbox](../../m3/pages/checkbox/accessibility)
-- [Radio button](../../m3/pages/radio-button/accessibility)
+- [Checkbox](../checkbox/accessibility.md)
+- [Radio button](../radio-button/accessibility.md)
 
 ![Checkbox of a selected list item shows label of “Bread, sourdough or wheat” and role of “Checkbox.”](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmif3mprn-19.png?alt=media&token=eb532a0d-fff0-43bc-a056-3452ef435faf)
 

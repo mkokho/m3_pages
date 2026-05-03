@@ -36,7 +36,7 @@ The Material adaptive system uses panes and window size classes to organize cont
   
 Panes are the building blocks of layout; a pane is a single destination in the product. For example, in a messaging app, the list of messages is one pane, and a specific conversation thread is another.  
   
-As the pane or window resizes—or as someone navigates the product—panes may change size, enter and exit the screen, and reorganize themselves to make the experience more usable or easier to navigate. These patterns are called **adaptive strategies**. Material has three adaptive strategies that create a cohesive experience across window sizes: [show and hide](../m3/pages/applying-layout/pane-layouts#562b310f-5dff-4349-8a05-a8903450d13e), [levitate](../m3/pages/applying-layout/pane-layouts#d692ea5e-2dda-4071-a1f6-8c1dc5a82f5d), and [reflow](../m3/pages/applying-layout/pane-layouts#b281ceac-8abb-4397-b247-48484fb188ac).
+As the pane or window resizes—or as someone navigates the product—panes may change size, enter and exit the screen, and reorganize themselves to make the experience more usable or easier to navigate. These patterns are called **adaptive strategies**. Material has three adaptive strategies that create a cohesive experience across window sizes: [show and hide](./layout/applying-layout/pane-layouts.md#562b310f-5dff-4349-8a05-a8903450d13e), [levitate](./layout/applying-layout/pane-layouts.md#d692ea5e-2dda-4071-a1f6-8c1dc5a82f5d), and [reflow](./layout/applying-layout/pane-layouts.md#b281ceac-8abb-4397-b247-48484fb188ac).
 
 ![App screen presented on mobile, foldable, and tablet.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmk6f6ii1-04.png?alt=media&token=d146c75a-98f0-4b8b-91f3-a90d01fdd4ca)
 

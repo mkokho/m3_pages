@@ -8,7 +8,7 @@ star
 
 Note:
 
-The navigation drawer is no longer recommended in the Material 3 Expressive update. For those who have updated, use an [expanded navigation rail](../../m3/pages/navigation-rail/overview), which has mostly the same functionality of the navigation drawer and adapts better across window size classes.
+The navigation drawer is no longer recommended in the Material 3 Expressive update. For those who have updated, use an [expanded navigation rail](../navigation-rail/overview.md), which has mostly the same functionality of the navigation drawer and adapts better across window size classes.
 
 ![Navigation drawer diagram numbering 7 elements](https://lh3.googleusercontent.com/wzWoGqZcYHmlxmZaJ6h1mIIrnKAN6-ORvn-bAgZGnzVfSFw35XvFKnVMZ6aKAqVtw5sMblQfd0dN7cb5sOnknAbXZ47WMZnh8unDUHPqQQ6DfQ=s0)
 
@@ -22,7 +22,7 @@ The navigation drawer is no longer recommended in the Material 3 Expressive upda
 
 ## Tokens & specs
 
-The navigation drawer has one token set. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+The navigation drawer has one token set. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 Navigation drawers (baseline) arrow\_drop\_down
 
@@ -52,7 +52,7 @@ keyboard\_arrow\_down
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Navigation drawer diagram numbering 9 color roles.](https://lh3.googleusercontent.com/EFOoVjwBffIgl-Gs07m2W5WiNu8brQ2paefKx_U_eQexLGySjgLV_C9FYD7wkTs0o7j3_RvrcTcqh6oUAKyyrkRsYKsU3A6n-KFtlCBp1sKv=w40)![Navigation drawer diagram numbering 9 color roles.](https://lh3.googleusercontent.com/EFOoVjwBffIgl-Gs07m2W5WiNu8brQ2paefKx_U_eQexLGySjgLV_C9FYD7wkTs0o7j3_RvrcTcqh6oUAKyyrkRsYKsU3A6n-KFtlCBp1sKv=s0)
 
@@ -68,11 +68,11 @@ Navigation drawer color roles used for light and dark schemes:
 8. On surface variant
 9. Scrim
 
-For divider color roles, go to [divider specs](../../m3/pages/divider/specs).
+For divider color roles, go to [divider specs](../divider/specs.md).
 
 ## States
 
-States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](../tabs/overview.md)
 
 ![4 navigation drawers illustrating enabled, hovered, focused, and pressed states.](https://lh3.googleusercontent.com/xCUslUMH4a9wLA0cXIbv622e8KMYHe0R5TPMmzjG0lFKP2hX6vjQcnKVFwxI9HIdk1z3y6BR65wFxvpsx4LcCDTCkHk0J52aaChbC8h3YEZy=w40)![4 navigation drawers illustrating enabled, hovered, focused, and pressed states.](https://lh3.googleusercontent.com/xCUslUMH4a9wLA0cXIbv622e8KMYHe0R5TPMmzjG0lFKP2hX6vjQcnKVFwxI9HIdk1z3y6BR65wFxvpsx4LcCDTCkHk0J52aaChbC8h3YEZy=s0)
 
@@ -83,7 +83,7 @@ Navigation drawer states:
 3. Focused
 4. Pressed
 
-[State specs are in the tokens module above](../../m3/pages/navigation-drawer/specs#6207b00f-a259-41d2-8146-b6efc6380976)
+[State specs are in the tokens module above](./specs.md#6207b00f-a259-41d2-8146-b6efc6380976)
 
 ## Measurements
 

@@ -119,7 +119,7 @@ Badges can be used on primary or secondary tabs to show notifications or updates
 
 Once the user views the relevant content in the tab, the badge value should update or the badge should disappear entirely.
 
-Small and large badges can both be used with tabs. Read the [badge guidance](../../m3/pages/badges/overview) for more details.
+Small and large badges can both be used with tabs. Read the [badge guidance](../badges/overview.md) for more details.
 
 ![Mobile screen with tabs that use both icons and labels.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm2k1yl6w-13.png?alt=media&token=b128a5c0-f67d-4194-bc94-d69b547ddc8c)
 

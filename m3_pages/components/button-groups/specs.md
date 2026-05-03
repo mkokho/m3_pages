@@ -38,7 +38,7 @@ Configurations for both variants of button groups:
 
 ## Tokens & specs
 
-Standard and connected button group tokens are organized by size. Select the variant and size from the token set menu. Go to the [button](../../m3/pages/common-buttons/specs) and [icon button](../../m3/pages/icon-buttons/specs) pages to view their tokens. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Standard and connected button group tokens are organized by size. Select the variant and size from the token set menu. Go to the [button](../tabs/specs.md) and [icon button](../icon-buttons/specs.md) pages to view their tokens. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 Button group standard - Size - Xsmall arrow\_drop\_down
 
@@ -124,7 +124,7 @@ When a button is pressed, standard button groups modify the width and shape of t
 4. Focused
 5. Pressed
 
-When a toggle button is selected in a standard button group, its shape should change between square and round. The color should change according to the [button specs](../../m3/pages/common-buttons/specs).
+When a toggle button is selected in a standard button group, its shape should change between square and round. The color should change according to the [button specs](../tabs/specs.md).
 
 ![5 states of a standard button group with toggle buttons.](https://lh3.googleusercontent.com/81FApYiTXho8D7eyhKVzVF5qhIRk02bF6rEp6QoLXRtnuW94g2EoBt1EQLLK7h2vRiKsRbNHUyYa3OCvVQRVW3jGBVlkBqaiNrK6oiVZEIad1w=w40)
 
@@ -161,7 +161,7 @@ Connected button group selected states:
 
 ### Standard button group
 
-Standard groups apply padding between all buttons. The amount of padding changes based on button size to ensure a minimum accessible target size of 48dp. More details on padding: [Button specs](../../m3/pages/common-buttons/specs), [icon button specs](../../m3/pages/icon-buttons/specs)
+Standard groups apply padding between all buttons. The amount of padding changes based on button size to ensure a minimum accessible target size of 48dp. More details on padding: [Button specs](../tabs/specs.md), [icon button specs](../icon-buttons/specs.md)
 
 ![Standard button group padding measurements.](https://lh3.googleusercontent.com/RGY_WzbLD07B3K6DGITtC-0NcW5LQI1HS1L-g0O4Lt0wttv2BWMZQWR2LqpG39dzWUHBNqCx12noXUfNGg2PKUhJVJcW-ndLNWd0LJ-H8wVW=w40)
 
@@ -208,7 +208,7 @@ Extra small and small connected button groups have 48dp target areas and a minim
 
 ## Density
 
-Button groups adapt to density of the buttons inside. [More on density](../../m3/pages/understanding-layout/density)
+Button groups adapt to density of the buttons inside. [More on density](../../foundations/layout/understanding-layout/density.md)
 
 ![Connected button groups at 0, -1, -2, and -3 density.](https://lh3.googleusercontent.com/yW6GJfPC6vob2O0uaXXiMDGwKXMv7majvHsxv9MEQGBjXCtZg0YERe27DGduNwB1ofpRLw4evKy_CZWsciavxwo6bvOHrDwnL_tjvUGXmB6t=w40)
 

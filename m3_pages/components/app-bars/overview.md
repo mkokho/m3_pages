@@ -41,7 +41,7 @@ App bars are placed at the top of the screen to help people navigate through a p
 ## M3 Expressive update
 
 **May 2025**  
-The new **search app bar** supports icons inside and outside the search bar, and centered text. It opens the [search view](../../m3/pages/search/overview) component when selected.   
+The new **search app bar** supports icons inside and outside the search bar, and centered text. It opens the [search view](../search/overview.md) component when selected.   
   
 The new **medium flexible** and **large flexible** app bars come with significant improvements, and should replace **medium** and **large** app bars, which are no longer recommended. The **small** app bar is updated with the same flexible improvements.   
   

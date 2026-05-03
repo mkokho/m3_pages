@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/time-pickers/specs
 
 ## Tokens & specs
 
-Select a component variant below to see its elements, attributes, tokens, and their values. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Select a component variant below to see its elements, attributes, tokens, and their values. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Time picker - Dial arrow\_drop\_down
 
@@ -70,7 +70,7 @@ keyboard\_arrow\_down
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ### Time picker dial color
 
@@ -125,7 +125,7 @@ Time picker input color roles used for light and dark themes:
 3. Focus
 4. Pressed
 
-[States specs can be found in the token module above](../../m3/pages/time-pickers/specs#2ccd9809-9246-4667-85fa-7747f4ac7349)
+[States specs can be found in the token module above](./specs.md#2ccd9809-9246-4667-85fa-7747f4ac7349)
 
 ## Measurements
 

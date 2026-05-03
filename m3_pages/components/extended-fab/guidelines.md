@@ -219,13 +219,13 @@ The extended FAB can be at the top of the expanded navigation rail
 
 ### Appearing
 
-The extended FAB surface expands when appearing on screen using an [enter and exit](../../m3/pages/motion-transitions/transition-patterns#e1c2a650-d7a4-4a6d-9025-e6b7845291ed) transition pattern.
+The extended FAB surface expands when appearing on screen using an [enter and exit](../../styles/motion/transitions/transition-patterns.md#e1c2a650-d7a4-4a6d-9025-e6b7845291ed) transition pattern.
 
 An extended FAB expands when appearing on screen
 
 ### Expanding
 
-The extended FAB can expand and adapt to any shape using a [container transform](../../m3/pages/motion-transitions/transition-patterns) transition pattern.
+The extended FAB can expand and adapt to any shape using a [container transform](../../styles/motion/transitions/transition-patterns.md) transition pattern.
 
 This includes a surface that is part of the app structure, or a surface that spans the entire screen.
 

@@ -10,7 +10,7 @@ People should be able to do the following with assistive technology:
 
 - Navigate to a switch with a keyboard or switch input
 - Toggle the switch on and off
-- Get appropriate feedback based on input type documented under [Interaction & ](../../m3/pages/switch/accessibility#c0e9fae1-48df-428b-b028-4f7be071ada3)
+- Get appropriate feedback based on input type documented under [Interaction & ](./accessibility.md#c0e9fae1-48df-428b-b028-4f7be071ada3)
 
 ## Interaction & 
 

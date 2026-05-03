@@ -57,7 +57,7 @@ The role for the input field should be:
 
 The accessibility label should match the hinted search text
 
-Leading and trailing icon buttons should be labeled according to their [accessibility guidance](../../m3/pages/icon-buttons/accessibility).
+Leading and trailing icon buttons should be labeled according to their [accessibility guidance](../icon-buttons/accessibility.md).
 
 ![A search bar with accessibility labels for its leading icon button and trailing avatar.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlgrt6xt-05.png?alt=media&token=9676908b-e093-44a0-b913-00b638bd7e7f)
 
@@ -65,7 +65,7 @@ Use icon labels for icon buttons
 
 Search suggestions and results use the list component. Screen readers automatically announce the results as a list.  
   
-For accessibility labels, follow the [list accessibility guidelines](../../m3/pages/lists/accessibility).
+For accessibility labels, follow the [list accessibility guidelines](../lists/accessibility.md).
 
 ![A search bar on mobile, showing search results in a list.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmlgrwf25-06.png?alt=media&token=ca00ca47-b6c1-4848-9842-9d89485e98b7)
 

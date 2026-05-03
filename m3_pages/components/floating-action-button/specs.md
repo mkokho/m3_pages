@@ -14,7 +14,7 @@ Floating action buttons (FABs) help people take primary actions
 
 ### Baseline variants
 
-The small FAB is still available, but no longer recommended. [Jump to baseline specs](../../m3/pages/fab/specs#cd336045-e97d-4a6d-ac23-f778fa695e3c)
+The small FAB is still available, but no longer recommended. [Jump to baseline specs](../extended-fab/specs.md#cd336045-e97d-4a6d-ac23-f778fa695e3c)
 
 ![An icon on the container of a small FAB.](https://lh3.googleusercontent.com/LVMfvx2rKsoVM1_1Pq9CQ8o0dDyfSQtfCxYgle_57GhDKX0oDkNepZr0yvyqmoI6mL-0QfWWfFkmVJV5RwLbJVGJ4YGXZBTcT9JW2-IPRQNpVg=s0)
 
@@ -29,7 +29,7 @@ The small FAB is still available, but no longer recommended. [Jump to baseline s
 
 ## Configurations
 
-In the expressive update, the **primary**, **secondary**, and **tertiary** set colors were renamed to **primary container**, **secondary container**, and **tertiary container**to match the actual color roles used. New primary, secondary, and tertiary color styles were created to match the corresponding color roles. [View details in the color styles section](../../m3/pages/fab/specs#67e71ec7-b520-405a-aa06-2decfa0b92a3)
+In the expressive update, the **primary**, **secondary**, and **tertiary** set colors were renamed to **primary container**, **secondary container**, and **tertiary container**to match the actual color roles used. New primary, secondary, and tertiary color styles were created to match the corresponding color roles. [View details in the color styles section](../extended-fab/specs.md#67e71ec7-b520-405a-aa06-2decfa0b92a3)
 
 | Category | Configuration | M3 | M3 Expressive |
 | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ In the expressive update, the **primary**, **secondary**, and **tertiary** set c
 
 ## Tokens & specs
 
-Use the table's menu to select a token set. FAB tokens are organized by size and color. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Use the table's menu to select a token set. FAB tokens are organized by size and color. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 FAB - Size - Medium arrow\_drop\_down
 
@@ -82,7 +82,7 @@ md.comp.fab.medium.container.shape content\_copy
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ### Color styles
 

@@ -144,7 +144,7 @@ The toolbar orbiter shouldn’t exceed the height of adjacent spatial panels
 
 ### Spatial panel alignment
 
-By default, toolbar orbiters are center-aligned to the spatial panel. Their placement can be adjusted to accommodate specific user needs, such as improved ergonomics or [right-to-left (RTL) languages](../../m3/pages/understanding-layout/bidirectionality-rtl).
+By default, toolbar orbiters are center-aligned to the spatial panel. Their placement can be adjusted to accommodate specific user needs, such as improved ergonomics or [right-to-left (RTL) languages](../../foundations/layout/understanding-layout/bidirectionality-rtl.md).
 
 ![Toolbar orbiter alignment options in relation to spatial panels.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fmemfvpq3-17.png?alt=media&token=06472c3c-8a05-4dab-9e63-b4dac374c622)
 
@@ -162,4 +162,4 @@ Don't place a vertical toolbar orbiter between spatial panels
 
 ## Accessibility considerations
 
-[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR toolbars should follow applicable Material [toolbar accessibility standards](../../m3/pages/toolbars/accessibility).
+[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. XR toolbars should follow applicable Material [toolbar accessibility standards](./accessibility.md).

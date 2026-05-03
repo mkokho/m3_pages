@@ -100,7 +100,7 @@ Connected button groups increase the widths of each button inside and expand to 
 
 ## Adaptive design
 
-Adaptive design allows an interface to respond or change based on context, such as the user, device, and usage. [More on adaptive design](../../m3/pages/adaptive-design)
+Adaptive design allows an interface to respond or change based on context, such as the user, device, and usage. [More on adaptive design](../tabs/overview.md)
 
 ### Resizing
 

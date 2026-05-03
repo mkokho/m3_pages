@@ -8,7 +8,7 @@ Design tokens are the building blocks of all UI elements. The same tokens are us
 - Use design tokens instead of hardcoded values
 - Each token is named for how or where it’s used (for example, **md.comp.fab.primary.container.color** sets the container color for a FAB)
 - Even if a token’s end value is changed, its name and use remain the same
-- Material Design has three classes of tokens: [reference](../../m3/pages/design-tokens/overview#6a0933c0-50f5-4dd6-b055-b7c4ff2c1535), [system](../../m3/pages/design-tokens/overview#7f084930-cf5f-4b7e-b83c-614888f18a77), and [component](../../m3/pages/design-tokens/overview#b4d6bb35-ee69-4908-bcb4-b33b0a1997e2)
+- Material Design has three classes of tokens: [reference](./overview.md#6a0933c0-50f5-4dd6-b055-b7c4ff2c1535), [system](./overview.md#7f084930-cf5f-4b7e-b83c-614888f18a77), and [component](./overview.md#b4d6bb35-ee69-4908-bcb4-b33b0a1997e2)
 
 ![FAB container color token in a design mock, code, and product](https://lh3.googleusercontent.com/c9vp62g9BTHZ795In-3SH01cvbjuaHUgu67bdrisAMsV34Z_J2DjSxlSbuJj1eKq_lp4na46QCwYpX0HTDXqYWAMdGDn272etcMj8QU__laE2A=s0)
 

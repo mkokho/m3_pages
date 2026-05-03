@@ -8,7 +8,7 @@ star
 
 Note:
 
-Segmented buttons are no longer recommended in the Material 3 expressive update. For those who have updated, use the [connected button group](../../m3/pages/button-groups/overview) instead, which has mostly the same functionality but with an updated visual design.
+Segmented buttons are no longer recommended in the Material 3 expressive update. For those who have updated, use the [connected button group](../button-groups/overview.md) instead, which has mostly the same functionality but with an updated visual design.
 
 ![Diagram of segmented button indicating 3 parts of its anatomy.](https://lh3.googleusercontent.com/C6AHlXtNzhGMs8gghgCKSba6mwIpYO0fiDnecohrFF3YJraSvBsQL-eXZnCvQJIU9AqRNgtrrvetX0I4UXwI1JyPxy4_rLYmSlkmsr73D_o=s0)
 
@@ -18,7 +18,7 @@ Segmented buttons are no longer recommended in the Material 3 expressive update.
 
 ## Tokens and specs
 
-Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Browse the component elements, attributes, tokens, and their values. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 Segmented button - Outlined arrow\_drop\_down
 
@@ -52,7 +52,7 @@ keyboard\_arrow\_down
 
 ## Color
 
-Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../m3/pages/design-tokens/overview)
+Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](../../foundations/design-tokens/overview.md)
 
 ![Diagram of segmented button indicating its color mappings](https://lh3.googleusercontent.com/YDundjWkMlYTm9ZC1RERNdV1PS0i86yel8Qe8OjWM7OEoMRC2frzBJzmqAywQu1BSW2eAP2ITtJk4A5aKZTS8GtaMqkR4uipO8VZMqGvMzAg=s0)
 
@@ -65,7 +65,7 @@ Segmented button color roles used for light and dark schemes:
 
 ## States
 
-States are visual representations used to communicate the status of a component or interactive element.  [Learn more about interaction states](../../m3/pages/interaction-states/overview)
+States are visual representations used to communicate the status of a component or interactive element.  [Learn more about interaction states](../tabs/overview.md)
 
 ### Unselected
 

@@ -176,6 +176,6 @@ When predictive back is used:
 - The previous screen is revealed in a preview
 - The side sheet and its content always scales in the direction of the gesture
 
-[Find a list of compatible components](../../m3/pages/gestures#22462fb2-fbe8-4e0c-b3e7-9278bd18ea0d)
+[Find a list of compatible components](../tabs/overview.md#22462fb2-fbe8-4e0c-b3e7-9278bd18ea0d)
 
 Preview of the result of the gestures: release to commit, fling to commit, and cancel

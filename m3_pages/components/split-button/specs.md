@@ -26,7 +26,7 @@ Split buttons open a menu to give people more options related to an action
 
 ## Tokens & specs
 
-Use the table's menu to select a token set. Split button token sets are organized by size. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Use the table's menu to select a token set. Split button token sets are organized by size. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 Split button - Size - Xsmall arrow\_drop\_down
 
@@ -137,7 +137,7 @@ Color values are implemented through design tokens. For designers, this means wo
 
 Split buttons use the same color schemes as standard buttons. However, unlike toggle buttons, the split button color doesn’t change when selected—only a state layer is applied.
 
-Split buttons use the same colors and state layers as buttons, shown in the following token module. [Go to buttons](../../m3/pages/common-buttons/overview) for more details.
+Split buttons use the same colors and state layers as buttons, shown in the following token module. [Go to buttons](../tabs/overview.md) for more details.
 
 ![4 color roles of the split button when unselected and selected in light and dark theme.](https://lh3.googleusercontent.com/ocKi_dfwn4Uv_N5ArrzqUKti6uAj79S5f8KVg0BvXDI_BLYgT1-VC55NzHO8NHePXEQ6ygQevbqAq8rZdMxm9hcJF63fW-UjWnfPjpoynjQC=w40)
 

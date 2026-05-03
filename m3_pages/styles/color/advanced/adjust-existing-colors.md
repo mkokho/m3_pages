@@ -27,8 +27,8 @@ Material Theme Builder, input your own colors for primary, secondary, tertiary, 
 ### Best practices
 
 - Conventionally, primary and tertiary colors are the most visually prominent in the scheme, with tertiary appearing complementary to primary by changing its hue. Secondary, neutral variant, and neutral colors match primary in hue but are progressively less chromatic in that order. Input your colors into the appropriate category to maintain similar relationships as designed by Material, and ensure expected and visually pleasing results when those colors are mapped to components.
-- If the colors provided back from your input color appear differently than expected, you can enable or disable [color fidelity](../../../m3/pages/advanced/adjust-existing-colors#cb49eeb4-3bbd-4521-9612-0856c27f91ef). Color fidelity is a feature that adjusts colors’ tones to match that of your input color.
-- If the 26+ standard color roles do not meet your needs, you may need to [define custom color roles](../../../m3/pages/advanced/define-new-colors#baed14ce-4be8-46aa-8223-ace5d45af005).
+- If the colors provided back from your input color appear differently than expected, you can enable or disable [color fidelity](./adjust-existing-colors.md#cb49eeb4-3bbd-4521-9612-0856c27f91ef). Color fidelity is a feature that adjusts colors’ tones to match that of your input color.
+- If the 26+ standard color roles do not meet your needs, you may need to [define custom color roles](./define-new-colors.md#baed14ce-4be8-46aa-8223-ace5d45af005).
 
 ## Define your own dynamic scheme
 
@@ -47,7 +47,7 @@ You can define your own dynamic scheme to reflect a user's wallpaper but control
 
 ### How
 
-- Material generates the color scheme by following hue and chroma values specified for each group of colors (primary, secondary, tertiary, neutral, and neutral variant). For more information, see [how the system works](../../../m3/pages/color/how-the-system-works). To adjust the appearance of these colors and produce your own dynamic scheme, you must provide your own hue and chroma values for each of these color groups.
+- Material generates the color scheme by following hue and chroma values specified for each group of colors (primary, secondary, tertiary, neutral, and neutral variant). For more information, see [how the system works](../system/how-the-system-works.md). To adjust the appearance of these colors and produce your own dynamic scheme, you must provide your own hue and chroma values for each of these color groups.
 - Once these values are known, you may define your own scheme variant and call 
 
   Material Color Utilities (MCU) to dynamically generate the scheme and provide color values for each role in the scheme.
@@ -55,8 +55,8 @@ You can define your own dynamic scheme to reflect a user's wallpaper but control
 ### Best practices
 
 - Defining custom color roles should be considered only if you cannot achieve your desired colors with other Material color solutions.
-- If the colors provided back from your input color appear differently than intended, you can enable or disable [color fidelity](../../../m3/pages/advanced/adjust-existing-colors#cb49eeb4-3bbd-4521-9612-0856c27f91ef). Color fidelity is a feature that adjusts colors’ tones to match that of your input color.
-- If the color roles provided by Material out of the box do not meet your needs, you may need to [define custom color roles](../../../m3/pages/advanced/define-new-colors#baed14ce-4be8-46aa-8223-ace5d45af005) for greater control over their appearance.
+- If the colors provided back from your input color appear differently than intended, you can enable or disable [color fidelity](./adjust-existing-colors.md#cb49eeb4-3bbd-4521-9612-0856c27f91ef). Color fidelity is a feature that adjusts colors’ tones to match that of your input color.
+- If the color roles provided by Material out of the box do not meet your needs, you may need to [define custom color roles](./define-new-colors.md#baed14ce-4be8-46aa-8223-ace5d45af005) for greater control over their appearance.
 
 ## Use color fidelity
 
@@ -78,13 +78,13 @@ Color fidelity adjusts tones in color roles to produce the closest match to your
 
 - In the 
 
-  Material Theme Builder, you can toggle the “match color” option on your input color to enable or disable fidelity. By default, fidelity is enabled when you use Theme Builder to [create a custom baseline scheme](../../../m3/pages/advanced/adjust-existing-colors#c6810874-a320-4684-8df6-3869887ea49c) or [define static colors](../../../m3/pages/advanced/define-new-colors#f13116d1-3023-44b9-b0b5-2ee07dc1af5f).
+  Material Theme Builder, you can toggle the “match color” option on your input color to enable or disable fidelity. By default, fidelity is enabled when you use Theme Builder to [create a custom baseline scheme](./adjust-existing-colors.md#c6810874-a320-4684-8df6-3869887ea49c) or [define static colors](./define-new-colors.md#f13116d1-3023-44b9-b0b5-2ee07dc1af5f).
 - In code, you can flag color roles in your scheme with a boolean which will enable or disable fidelity for those colors.
 
 ### Best practices
 
 - When producing a custom baseline scheme or defining static colors, you may wish to toggle fidelity on and off to determine which setting better suits your desired design.
-- Because color fidelity adjusts tones (lightness or darkness of colors), to ensure accessible contrast, remember to pair appropriate [colors roles](../../../m3/pages/color-roles) together, such as a background color with its corresponding foreground “on” color.
+- Because color fidelity adjusts tones (lightness or darkness of colors), to ensure accessible contrast, remember to pair appropriate [colors roles](../../../components/tabs/overview.md) together, such as a background color with its corresponding foreground “on” color.
 
 ## Harmonize colors
 

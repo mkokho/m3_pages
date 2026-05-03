@@ -37,7 +37,7 @@ Icon buttons help people take minor actions with one tap
 
 ## Tokens & specs
 
-Icon button token sets are organized by common tokens, color, and size. Select the token set from the table’s menu. [Learn about design tokens](../../m3/pages/design-tokens/overview)
+Icon button token sets are organized by common tokens, color, and size. Select the token set from the table’s menu. [Learn about design tokens](../../foundations/design-tokens/overview.md)
 
 Icon button - Color - Filled arrow\_drop\_down
 
@@ -105,7 +105,7 @@ A: Filled, B: Tonal, C: Outlined, D: Standard
 
 ## States
 
-States are visual representations used to communicate the status of a component or interactive element. State layers slightly change button color. Disabled states have different base colors. [View tokens for details](../../m3/pages/design-tokens/overview)
+States are visual representations used to communicate the status of a component or interactive element. State layers slightly change button color. Disabled states have different base colors. [View tokens for details](../../foundations/design-tokens/overview.md)
 
 ### Filled button states
 
@@ -213,7 +213,7 @@ While pressed, icon buttons can morph to become more square.
 
 Both round and square icon buttons should have the same pressed shape radius.  
   
-The corner radius value differs for each button size. [See full icon button corner measurements](../../m3/pages/icon-buttons/specs#b3df1f02-d313-44e9-9542-37f7e0e24dc7)
+The corner radius value differs for each button size. [See full icon button corner measurements](./specs.md#b3df1f02-d313-44e9-9542-37f7e0e24dc7)
 
 ![Shape changes for round and square icon buttons in 3 states.](https://lh3.googleusercontent.com/R4g7sI29Fu5i_IbuatO_g8K3lOfiXc5bWqBhR3s_5fhlg_yRXIbj6n26wEoi5SKZBszsh2CYiN6iioN9se4O1tXedkR6Lb5ANXj5oc45ZY0RQA=w40)
 

@@ -211,7 +211,7 @@ Full-screen dialogs fill the entire screen, containing actions that require a se
 
 Because they take up the entire screen, full-screen dialogs are the only dialogs over which other dialogs can appear.
 
-Use a [container transform](../../m3/pages/motion-transitions/transition-patterns#b67cba74-6240-4663-a423-d537b6d21187) pattern to transition a 
+Use a [container transform](../../styles/motion/transitions/transition-patterns.md#b67cba74-6240-4663-a423-d537b6d21187) pattern to transition a 
 
 FAB into a full-screen dialog.
 
@@ -334,7 +334,7 @@ Custom placement area for basic dialogs that respects a 56dp margin from the edg
 
 Dialogs appear without warning, requiring users to stop their current task. They should be used sparingly, as not every choice or setting warrants interruption.
 
-Dialogs use an [enter and exit](../../m3/pages/motion-transitions/transition-patterns#e1c2a650-d7a4-4a6d-9025-e6b7845291ed) transition pattern to appear on screen.
+Dialogs use an [enter and exit](../../styles/motion/transitions/transition-patterns.md#e1c2a650-d7a4-4a6d-9025-e6b7845291ed) transition pattern to appear on screen.
 
 A dialog appears with an enter and exit transition
 

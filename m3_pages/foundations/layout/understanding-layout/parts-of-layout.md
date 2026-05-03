@@ -212,7 +212,7 @@ A touch region (A) around the drag handle takes priority over the back gesture, 
 
 The pane drag handle UI overrides the back gesture
 
-In a two-pane [list-detail](../../../m3/pages/canonical-layouts/list-detail) layout, the pane drag handle doesn't appear until an item is selected.
+In a two-pane [list-detail](../canonical-layouts/list-detail.md) layout, the pane drag handle doesn't appear until an item is selected.
 
 ![A list-detail layout with no items selected, and no drag handle visible.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flxx1u0o3-16.png?alt=media&token=b7b5c4f9-aba1-4fb5-978c-f40612fc4b9b)
 

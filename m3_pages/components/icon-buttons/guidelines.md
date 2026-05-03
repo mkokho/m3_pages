@@ -21,7 +21,7 @@ Icon buttons can be placed directly on the background or in most container compo
 
 app bars, and toolbars.
 
-Multiple icon buttons can be placed in a standard button group to add interaction and motion between the buttons when pressed. [More about standard button groups](../../m3/pages/button-groups/overview)
+Multiple icon buttons can be placed in a standard button group to add interaction and motion between the buttons when pressed. [More about standard button groups](../button-groups/overview.md)
 
 ![Icon buttons in a toolbar.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0c0dz7i-2.png?alt=media&token=5a110185-4604-4ade-839b-64d97ec3e9f7)
 
@@ -181,7 +181,7 @@ Toggle icon buttons allow a single choice to be selected or deselected, such as 
   
 When placed in a button group, icon buttons change shape to help the selected button stand out.  
   
-[More on button groups](../../m3/pages/button-groups/overview)
+[More on button groups](../button-groups/overview.md)
 
 **Do:** 
 

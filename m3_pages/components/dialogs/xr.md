@@ -10,7 +10,7 @@ Note:
 
 This is a rapidly changing space. Guidelines are primarily intended for designers at this time. Find what’s implemented in code in the [design kit](https://www.figma.com/community/file/1035203688168086460).
 
-Extended reality (XR) introduces spatial capabilities, such as using depth to make dialogs stand out from the background. Currently, spatial dialogs are only available in full space. For home space, follow Material’s general [dialog guidance](../../m3/pages/dialogs/guidelines#b33988d3-88e6-432c-acb1-4461a84171c9).
+Extended reality (XR) introduces spatial capabilities, such as using depth to make dialogs stand out from the background. Currently, spatial dialogs are only available in full space. For home space, follow Material’s general [dialog guidance](./guidelines.md#b33988d3-88e6-432c-acb1-4461a84171c9).
 
 ## Color & elevation
 
@@ -49,7 +49,7 @@ If a dialog’s color is **surface container high**, don’t use **surface conta
 
 ## Usage
 
-[Basic dialogs](../../m3/pages/dialogs/guidelines#97ac3858-3932-4084-ae8e-73e42b7cb752) are recommended when designing for XR’s expanded window sizes. This keeps the required action in the person’s [field of view](https://developer.android.com/design/ui/xr/guides/spatial-ui#where-place). Limit use of [full-screen dialogs](../../m3/pages/dialogs/guidelines#007536b9-76b1-474a-a152-2f340caaff6f) to compact window sizes, like mobile devices.
+[Basic dialogs](./guidelines.md#97ac3858-3932-4084-ae8e-73e42b7cb752) are recommended when designing for XR’s expanded window sizes. This keeps the required action in the person’s [field of view](https://developer.android.com/design/ui/xr/guides/spatial-ui#where-place). Limit use of [full-screen dialogs](./guidelines.md#007536b9-76b1-474a-a152-2f340caaff6f) to compact window sizes, like mobile devices.
 
 ![Basic dialog in XR.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fm3%2Fimages%2Fmadfk9dk-04.png?alt=media&token=a24cc9e9-0dff-4244-8d36-688fcfda5a48)
 
@@ -89,7 +89,7 @@ When the action is complete, it returns to a normal resting level.
 
 The dialog's scrim stays at the app content level at all times.   
   
-To prevent motion sickness, use [standard easing](../../m3/pages/motion-easing-and-duration/tokens-specs#601d5552-a6e6-4d74-9886-ff8f24b9ec35) and [long duration](../../m3/pages/motion-easing-and-duration/tokens-specs#48bf653e-46f9-48f5-87e0-eaf8ea3fe716) motion tokens.
+To prevent motion sickness, use [standard easing](../../styles/motion/easing-and-duration/tokens-specs.md#601d5552-a6e6-4d74-9886-ff8f24b9ec35) and [long duration](../../styles/motion/easing-and-duration/tokens-specs.md#48bf653e-46f9-48f5-87e0-eaf8ea3fe716) motion tokens.
 
 Side view of a spatial dialog in motion in full space
 
@@ -113,4 +113,4 @@ A dialog in full space stays centered in a person’s field of view
 
 ## Accessibility considerations
 
-[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. Spatial dialogs should follow applicable Material [dialog accessibility standards](../../m3/pages/dialogs/accessibility).
+[XR accessibility](https://developer.android.com/design/ui/xr/guides/get-started#make-app) guidelines are still evolving. Spatial dialogs should follow applicable Material [dialog accessibility standards](./accessibility.md).

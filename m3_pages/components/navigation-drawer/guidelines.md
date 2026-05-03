@@ -8,7 +8,7 @@ star
 
 Note:
 
-The navigation drawer is no longer recommended in the Material 3 Expressive update. For those who have updated, use an [expanded navigation rail](../../m3/pages/navigation-rail/overview), which has mostly the same functionality of the navigation drawer and adapts better across window size classes.
+The navigation drawer is no longer recommended in the Material 3 Expressive update. For those who have updated, use an [expanded navigation rail](../navigation-rail/overview.md), which has mostly the same functionality of the navigation drawer and adapts better across window size classes.
 
 ![Navigation drawer with 4 primary destinations ](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flwopun3e-1.png?alt=media&token=220f8c9f-c032-4185-9a2c-4ac8950d763f)
 
@@ -266,7 +266,7 @@ Use a modal navigation drawer alone or with a navigation rail on medium and expa
 
 When a navigation rail and modal navigation drawer are used together, the drawer can repeat destinations in the navigation rail as long as the drawer offers enough visual separation between levels of the navigation hierarchy.
 
-A standard navigation drawer can be used in [single pane layouts](../../m3/pages/understanding-layout/parts-of-layout) in expanded window sizes.
+A standard navigation drawer can be used in [single pane layouts](../../foundations/layout/understanding-layout/parts-of-layout.md) in expanded window sizes.
 
 Use a navigation rail on tablet screens, or also allow a drawer to open and close via a menu icon
 
@@ -302,6 +302,6 @@ A permanently-visible standard navigation drawer on desktop
 
 ### Appearing
 
-When a navigation drawer animates on screen, it uses an [enter and exit](../../m3/pages/motion-transitions) transition pattern.
+When a navigation drawer animates on screen, it uses an [enter and exit](../tabs/overview.md) transition pattern.
 
 A navigation drawer animating on screen

@@ -55,7 +55,7 @@ Avoid transitioning from a loading indicator to a determinate progress indicator
 
 The active indicator is a looping shape morph sequence composed of seven unique Material 3 shapes.  
   
-[More about the Material shape library](../../m3/pages/shape/overview-principles#579dd4ba-39f3-4e60-bd9b-1d97ed6ef1bf)
+[More about the Material shape library](../../styles/shape/overview-principles.md#579dd4ba-39f3-4e60-bd9b-1d97ed6ef1bf)
 
 ![Active indicator with shape morph.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Fm0cafeiy-8.png?alt=media&token=bdcb1b69-8492-4871-b07b-2449155b0d42)
 

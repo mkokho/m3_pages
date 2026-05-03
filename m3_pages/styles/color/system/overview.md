@@ -22,7 +22,7 @@ Create accessible, personal color schemes communicating your product's hierarchy
 
   content-based color
 
-[Learn how the system works](../../../m3/pages/color/how-the-system-works)
+[Learn how the system works](./how-the-system-works.md)
 
 For products migrating from M2 to M3, start by mapping the baseline color scheme to your existing product. It can easily switch to dynamic color when ready.
 
@@ -120,9 +120,9 @@ Oct 2023
 
 Same color system, explained in a new way. Updated sections include:
 
-- [How the system works](../../../m3/pages/color/how-the-system-works)
-- [Advanced customizations](../../../m3/pages/advanced/overview)
-- [Color resources](../../../m3/pages/color-resources)
+- [How the system works](./how-the-system-works.md)
+- [Advanced customizations](../advanced/overview.md)
+- [Color resources](../../../components/tabs/overview.md)
 
 ![Diagram illustrating guidelines being reorganized](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgm3sandbox%2Fimages%2Fln9upnnh-reorganized-guidelines.png?alt=media&token=57c601ca-75fe-49c9-aef5-952f3bf00e68)
 

@@ -23,7 +23,7 @@ Each layout considers common use cases and components to address expectations an
 
 ## Layouts
 
-### [Feed](../../../m3/pages/canonical-layouts/feed)
+### [Feed](./feed.md)
 
 Use a feed layout to arrange content elements like cards in a configurable grid for quick, convenient viewing of a large amount of content.
 
@@ -31,7 +31,7 @@ Use a feed layout to arrange content elements like cards in a configurable grid 
 
 Example feed layout
 
-### [List-detail](../../../m3/pages/canonical-layouts/list-detail)
+### [List-detail](./list-detail.md)
 
 Use the list-detail layout to display explorable lists of items alongside each item’s supplementary information—the item detail. This layout divides the app window into two side-by-side panes.
 
@@ -39,7 +39,7 @@ Use the list-detail layout to display explorable lists of items alongside each i
 
 Example list-detail layout
 
-### [Supporting pane](../../../m3/pages/canonical-layouts/supporting-pane)
+### [Supporting pane](./supporting-pane.md)
 
 Use the supporting pane layout to organize app content into primary and secondary display areas. The primary display area occupies the majority of the app window (typically about two thirds) and contains the main content. The secondary display area is a panel that takes up the remainder of the app window and presents content that supports the main content.
 

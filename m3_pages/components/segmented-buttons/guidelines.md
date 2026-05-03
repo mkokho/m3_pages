@@ -8,7 +8,7 @@ star
 
 Note:
 
-Segmented buttons are no longer recommended in the Material 3 expressive update. For those who have updated, use the [connected button group](../../m3/pages/button-groups/overview) instead, which has mostly the same functionality but with an updated visual design.
+Segmented buttons are no longer recommended in the Material 3 expressive update. For those who have updated, use the [connected button group](../button-groups/overview.md) instead, which has mostly the same functionality but with an updated visual design.
 
 ![Two types of segmented buttons.](https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fgoogle-material-3%2Fimages%2Flw7mlxdq-1.png?alt=media&token=e2fd2652-48e7-4a3d-9203-c8451a77c27a)
 
