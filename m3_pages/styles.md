@@ -6,4 +6,14 @@ Styles are the visual aspects of a UI that give it a distinct look and feel. The
 
 ##
 
-[ColorColor is used to express  and communicate meaning. With dynamic color, Material puts personal color preferences and individual needs at the forefront of systematic color application.](./styles/color/overview)[ElevationElevation is the relative distance between two surfaces along the z-axis. All surfaces and components have elevation values.](./styles/elevation/overview)[IconsIcons can be used to represent common actions. Material Symbols are a set of variable icon fonts created at seven weights across three different styles.](./styles/icons/overview)[MotionUse motion to make a UI expressive and easy to use. Material transitions help guide users as they navigate an app.](./styles/motion/overview)[ShapeThe shape scale defines the  of container corners, offering a range of roundedness from square to fully circular.](./styles/shape/overview)[TypographyUse typography to make writing legible and beautiful. Material's default type scale includes contrasting and flexible styles to support a wide range of use cases.](./styles/typography/overview)
+[Color](./styles/color/system/overview) is used to express  and communicate meaning. With dynamic color, Material puts personal color preferences and individual needs at the forefront of systematic color application.
+
+[Elevation](./styles/elevation/overview) is the relative distance between two surfaces along the z-axis. All surfaces and components have elevation values.
+
+[Icons](./styles/icons/overview) can be used to represent common actions. Material Symbols are a set of variable icon fonts created at seven weights across three different styles.
+
+[Motion](./styles/motion/overview/how-it-works) Use motion to make a UI expressive and easy to use. Material transitions help guide users as they navigate an app.
+
+[Shape](./styles/shape/overview-principles)The shape scale defines the  of container corners, offering a range of roundedness from square to fully circular.
+
+[Typography](./styles/typography/overview) Use typography to make writing legible and beautiful. Material's default type scale includes contrasting and flexible styles to support a wide range of use cases.
